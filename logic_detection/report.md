@@ -1,4 +1,4 @@
-% Logic detection 20150501_18:13
+% Logic detection 20150502_07:07
 # Summary of results
 ## ALIA
 ### ALIA : summary of logic detection
