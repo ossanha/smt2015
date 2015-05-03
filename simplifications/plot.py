@@ -29,6 +29,8 @@ for i, p in enumerate(provers):
         ax.set_title("{} ({})".format(p, c[1]))
         c1 = extract_data(fname1)
         c2 = extract_data(fname2)
+        ax.set_xlabel("Solved instances")
+        ax.set_ylabel("Time")
         ax.plot(c1, color=colors[0])
         ax.plot(c2, color=colors[1])
         ax.legend(legends, loc=0)
@@ -37,5 +39,5 @@ for i, p in enumerate(provers):
 #print("Saving as " + save)
 
 #plt.savefig(save)
-
+plt.tight_layout()
 plt.show()
