@@ -35,6 +35,9 @@ parser.add_argument("-dtl", "--detailed", dest = "detailed",
                     action="store_true",
                     default=False,
                     help = " print detailed results")
+parser.add_argument("-pct", "--percent", dest = "pct_diff",
+                    default=.2,
+                    help = " time difference (in %) to declare wins")
 
 parser.add_argument("-t", "--timeout", dest = "timeout",
                     default=None,
@@ -303,8 +306,8 @@ class StatMatch(object):
         self.stats = dict()
         self.stats[n1] = Stat(mlen)
         self.stats[n2] = Stat(mlen)
-        self.relevant = 0.2
-        self.threshold = 0.01
+        self.relevant = args.pct_diff
+        self.threshold = 0.05
 
     def register(self, home_bench, away_bench, name):
         if not is_failure(home_bench):
@@ -387,8 +390,15 @@ class Table():
         c = sorted(self.ranks.items(), key=operator.itemgetter(1))
         c.reverse()
         f.write("# Final standings\n")
+        last_points = 0
+        last_i = 0
         for i, (name, points) in enumerate(c, start = 1):
-            f.write("{}. {:35s} : {}\n".format(i, name, points))
+            if points != last_points:
+                last_points = points
+                last_i = i
+                f.write("{}. {:35s} : {}\n".format(i, name, points))
+            else:
+                f.write("   {:35s} : {}\n".format(name, points))
         f.write("\n")
 
 class BenchCompare(object):
