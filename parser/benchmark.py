@@ -307,7 +307,7 @@ class StatMatch(object):
         self.stats[n1] = Stat(mlen)
         self.stats[n2] = Stat(mlen)
         self.relevant = args.pct_diff
-        self.threshold = 0.05
+        self.threshold = 0.02
 
     def register(self, home_bench, away_bench, name):
         if not is_failure(home_bench):
@@ -336,8 +336,9 @@ class StatMatch(object):
     def winner(self):
         w1 = self.stats[self.home].all_wins ()
         w2 = self.stats[self.away].all_wins ()
+        logging.debug("{} ({}), {} ({})".format(self.home, w1, self.away, w2))
         draws = self.draws
-        if draws >= w1 + w2 and w1 < 2 * w2 and w2 < 2 * w2:
+        if draws >= w1 + w2 and abs(w1 - w2) < self.draws / 3:
             return None
         if w1 > w2:
             return self.home
@@ -385,6 +386,7 @@ class Table():
         else:
             self.add_score(statmatch.home, 0)
             self.add_score(statmatch.away, 2)
+        logging.debug(sorted(self.ranks.items(), key=operator.itemgetter(1)))
 
     def pp(self, f):
         c = sorted(self.ranks.items(), key=operator.itemgetter(1))
@@ -400,6 +402,16 @@ class Table():
             else:
                 f.write("   {:35s} : {}\n".format(name, points))
         f.write("\n")
+        f.write("#EXTRACT\n")
+        for i, (name, points) in enumerate(c, start = 1):
+            vname = name.replace(" ", "_")
+            if points != last_points:
+                last_points = points
+                last_i = i
+                f.write("{:35s} : {}\n".format(vname, i))
+            else:
+                f.write("{:35s} : {}\n".format(vname, last_i))
+
 
 class BenchCompare(object):
     """ Object to compare two benchmarks done on the same bench list """

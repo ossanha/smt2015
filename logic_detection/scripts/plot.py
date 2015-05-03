@@ -15,7 +15,10 @@ def pp_uu(alldata):
                     in alldata[1:]], key=lambda d: d[1])
     for i in range(4):
         ax = axes[i]
-        ldata = data[6*i:6*(i + 1)]
+        if i != 3:
+            ldata = data[7*i:7*(i + 1)]
+        else:
+            ldata = data[7*i:]
         cat_names = [ x[0] for x in ldata ]
         npb = [ x[1] for x in ldata ]
         over = [ x[2] for x in ldata ]
@@ -23,10 +26,10 @@ def pp_uu(alldata):
         N = len(ldata)
         ind = np.arange(N)                # the x locations for the groups
         width = 0.25                      # the width of the bars
-        b_npb = ax.barh(ind, npb, width, color='0.6')
+        b_npb = ax.barh(ind+2*width, npb, width, color='0.6')
 
         b_over = ax.barh(ind+width, over, width, color='0.3')
-        b_under = ax.barh(ind+2*width, under, width, color='0')
+        b_under = ax.barh(ind, under, width, color='0')
 
         # axes and labels
         ax.set_ylim(-width,len(ind)+width)
@@ -42,7 +45,7 @@ def pp_uu(alldata):
             # attach some text labels
             for rect in rects:
                 w = rect.get_width()
-                ax.text(1.05 * w, rect.get_y(), '%d'%int(w), fontsize=12)
+                ax.text(1.05 * w, rect.get_y(), '%d'%int(w), fontsize=10)
 
         autolabel(b_npb)
         autolabel(b_over)
