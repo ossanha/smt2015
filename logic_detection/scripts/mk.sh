@@ -4,7 +4,7 @@ SMTLIB="/home/richard/SMTLIB"
 report="../report.md"
 out="data.csv"
 
-echo "category,#scripts,#unused" > $out
+echo "category,#scripts,#over,#under" > $out
 for dir in `ls ${SMTLIB}`; do
     if test "$dir" != "."; then
         echo "Getting data for $dir"
