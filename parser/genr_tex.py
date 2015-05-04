@@ -28,9 +28,9 @@ with open(filename) as csvfile:
         fout.write("}\n")
 
     lim = 16
-    pp_helper(categories[: lim], [ d[: lim] for d in places[1:]])
+    pp_helper(categories[: lim], [ d[: lim] for d in places])
     fout.write("\n \\vspace*{.3cm} \n")
-    pp_helper(categories[lim :], [ d[lim :] for d in places[1:]])
+    pp_helper(categories[lim :], [ d[lim :] for d in places])
 
 
     fout.close()

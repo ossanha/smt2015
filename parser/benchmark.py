@@ -15,6 +15,7 @@ import pickle
 import sys
 import shutil
 import operator
+import tempfile
 
 # Main starts here
 parser = argparse.ArgumentParser("Comparing SMT tools")
@@ -102,7 +103,10 @@ class Bench(object):
 
     def run(self, benchfile):
         if self.toolcmd is not None:
-            cmd = "{0} {1}".format(self.toolcmd, benchfile)
+            link = '/tmp/foo.smt2'
+            logging.debug("Created " + link)
+            os.symlink(benchfile, link)
+            cmd = "{0} {1}".format(self.toolcmd, link)
             #        logging.debug("{0}".format(cmd))
             self.total += 1
             self.last = benchfile
@@ -120,7 +124,7 @@ class Bench(object):
                 output, errs = sp.communicate()
                 self.timeouts.insert(0, benchfile)
                 time = None
-
+            os.unlink(link)
             logging.debug("{}, {}".format(sp.returncode, time))
             self.results[benchfile] = dict()
             self.results[benchfile]["output"] = output
