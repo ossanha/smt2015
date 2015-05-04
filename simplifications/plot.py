@@ -5,6 +5,7 @@ import csv
 import sys
 import logging
 
+sv = "foo"
 provers=["Z3", "CVC4"]
 cases=[("", "QF_LRA"), ("_lassoranker", "LassoRanker")]
 plt.style.use('ggplot')
@@ -19,6 +20,7 @@ def extract_data(fname):
         return times
 
 colors=['0.4', '0']
+lw=2
 for i, p in enumerate(provers):
     for j, c in enumerate(cases):
         print(p, c)
@@ -29,15 +31,18 @@ for i, p in enumerate(provers):
         ax.set_title("{} ({})".format(p, c[1]))
         c1 = extract_data(fname1)
         c2 = extract_data(fname2)
+        print(c1)
+        print(c2)
         ax.set_xlabel("Solved instances")
         ax.set_ylabel("Time")
-        ax.plot(c1, color=colors[0])
-        ax.plot(c2, color=colors[1])
+        ax.plot(c1, color=colors[0],linewidth=lw)
+        ax.plot(c2, color=colors[1],linewidth=lw)
         ax.legend(legends, loc=0)
 
-#save=sv + ".pdf"
+plt.tight_layout()
+plt.subplots_adjust(left=0.04, right=0.98, top=0.96, bottom=0.06)
+save=sv + ".pdf"
 #print("Saving as " + save)
 
-#plt.savefig(save)
-plt.tight_layout()
+#plt.savefig(save, dpi=50)
 plt.show()
