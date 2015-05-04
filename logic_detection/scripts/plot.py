@@ -52,6 +52,7 @@ def pp_uu(alldata):
         autolabel(b_under)
     #fig.tight_layout()
     #fig.savefig('uu.png', bbox_inches='tight', dpi=fig.dpi)
+    plt.subplots_adjust(left=0.05, right=0.98, top=0.96, bottom=0.06)
     plt.show()
 
 
