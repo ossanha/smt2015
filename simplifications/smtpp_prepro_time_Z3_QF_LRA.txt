@@ -1,25 +1,25 @@
-QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 100.13 ,  31.13 ,  
+QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 100.13 ,  18.59 ,  
 QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 60.25 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 274.16 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 23.70 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-nestedTemplate.smt2 , 11.79 ,  23.70 ,  
-QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-nestedTemplate.smt2 , 14.14 ,  41.50 ,  
-QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-nestedTemplate.smt2 , 9.50 ,  12.51 ,  
-QF_LRA/LassoRanker/SV-COMP/HarrisLalNoriRajamani-2010SAS-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.25 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-nestedTemplate.smt2 , 11.79 ,  15.27 ,  67.85
+QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-nestedTemplate.smt2 , 14.14 ,  21.70 ,  
+QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-nestedTemplate.smt2 , 9.50 ,  7.99 ,  11.06
+QF_LRA/LassoRanker/SV-COMP/HarrisLalNoriRajamani-2010SAS-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.25 ,   ,  66.13
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 9.91 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 22.75 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 31.72 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 52.30 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 17.15 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 10.57 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.63 ,   ,  55.42
-QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 10.34 ,   ,  69.20
-QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 2.54 ,  50.08 ,  21.75
-QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.72 ,   ,  10.69
+QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.63 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 10.34 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 2.54 ,  30.27 ,  0.48
+QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.72 ,   ,  2.60
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.16 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 3.49 ,   ,  
-QF_LRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.74 ,   ,  0.55
-QF_LRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 1.50 ,   ,  54.16
+QF_LRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.74 ,   ,  0.41
+QF_LRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 1.50 ,  66.50 ,  34.15
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration10_Loop_6-phaseTemplate.smt2 , 36.93 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration10_Loop_4-pieceTemplate.smt2 , 15.09 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 , 11.47 ,   ,  
@@ -30,10 +30,10 @@ QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_It
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 10.62 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , 12.66 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 50.78 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 4.76 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 4.76 ,   ,  83.83
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 , 2.89 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 13.56 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.16 ,  44.31 ,  
+QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.16 ,  29.88 ,  86.43
 QF_LRA/LassoRanker/CooperatingT2/broydn.c.i.broydn.pl.t2.nor.t2.rlgfixed.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , 12.35 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 , 15.08 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 37.36 ,   ,  
@@ -41,49 +41,49 @@ QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_It
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration2_Lasso_7-phaseTemplate.smt2 , 1.91 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 9.72 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.37 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7b_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 , CPU ,  32.28 ,  
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7b_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 , CPU ,  20.41 ,  19.36
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate.smt2 , 2.76 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_5-phaseTemplate.smt2 , 2.05 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.66 ,  45.91 ,  29.68
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.66 ,  34.29 ,  21.06
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 4.20 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_2-pieceTemplate.smt2 , 1.34 ,  39.71 ,  
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_2-pieceTemplate.smt2 , 1.34 ,  27.06 ,  
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_7-phaseTemplate.smt2 , 8.76 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 0.83 ,  87.75 ,  27.82
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 0.83 ,  74.48 ,  12.30
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 9.47 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-phaseTemplate.smt2 , 1.21 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-phaseTemplate.smt2 , 1.21 ,  82.08 ,  80.33
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 5.02 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 5.45 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 3.07 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 2.04 ,   ,  30.82
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 2.04 ,   ,  29.30
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.97 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex2_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 1.39 ,  40.39 ,  30.11
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 29.68 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex2_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 4.56 ,  32.73 ,  23.58
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 , 3.70 ,   ,  78.62
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex2_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 1.39 ,  33.07 ,  21.64
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 29.68 ,   ,  69.44
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex2_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 4.56 ,  21.34 ,  11.85
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 , 3.70 ,   ,  62.19
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_7-phaseTemplate.smt2 , 7.00 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 16.17 ,  60.95 ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_6-phaseTemplate.smt2 , 3.03 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 9.19 ,  48.29 ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 16.51 ,  89.64 ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 19.84 ,  5.75 ,  
-QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.82 ,  47.55 ,  
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 16.17 ,  37.18 ,  32.15
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_6-phaseTemplate.smt2 , 3.03 ,   ,  75.60
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 9.19 ,  38.11 ,  14.12
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 16.51 ,  56.27 ,  
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 19.84 ,  3.14 ,  20.36
+QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.82 ,  40.45 ,  30.14
 QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 10.61 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 13.01 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 6.34 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 8.94 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.38 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.38 ,   ,  21.73
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 3.17 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 9.87 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 5.46 ,  45.67 ,  79.61
+QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 5.46 ,  31.03 ,  28.12
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 12.66 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 , 2.82 ,   ,  21.50
+QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 , 2.82 ,  89.75 ,  25.34
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 6.88 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 , 6.04 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig7_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 4.02 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration10_Loop_7-phaseTemplate.smt2 , 96.40 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration10_Loop_6-phaseTemplate.smt2 , 36.91 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration10_Loop_4-pieceTemplate.smt2 , 15.03 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.36 ,  36.91 ,  
+QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.36 ,  29.25 ,  88.20
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 13.42 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , 12.60 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 213.85 ,   ,  
@@ -94,7 +94,7 @@ QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration9_L
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 10.64 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration5_Loop_6-phaseTemplate.smt2 , 20.33 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 , 2.86 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 4.79 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 4.79 ,   ,  84.32
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 , 14.76 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration9_Loop_7-phaseTemplate.smt2 , 9.22 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 50.73 ,   ,  
@@ -103,45 +103,45 @@ QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_La
 QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 28.43 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 96.62 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 , 28.32 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 73.82 ,  7.17 ,  
+QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 73.82 ,  4.45 ,  17.55
 QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 255.34 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 0.87 ,   ,  
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate.smt2_bis.smt2 , 3.62 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.42 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.29 ,  43.34 ,  2.89
-QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 0.17 ,   ,  55.55
+QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.29 ,  38.47 ,  2.00
+QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 0.17 ,  73.92 ,  
 QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 0.88 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.68 ,   ,  
-QF_LRA/LassoRanker/Ultimate/SyntaxSupportDisjunction1.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 3.47 ,   ,  59.31
+QF_LRA/LassoRanker/Ultimate/SyntaxSupportDisjunction1.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 3.47 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 0.38 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 0.17 ,   ,  55.72
-QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.28 ,  43.27 ,  2.85
-QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.21 ,  81.17 ,  4.79
+QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 0.17 ,  73.93 ,  
+QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.28 ,  38.10 ,  2.00
+QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.21 ,  69.56 ,  6.13
 QF_LRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 3.66 ,   ,  
-QF_LRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 0.78 ,  9.14 ,  6.04
+QF_LRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 0.78 ,  7.49 ,  5.48
 QF_LRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.60 ,   ,  
-QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.21 ,  76.45 ,  4.97
+QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.21 ,  68.62 ,  6.38
 QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.29 ,   ,  
 QF_LRA/LassoRanker/Ultimate/NoriSharma-2013FSE-Fig7.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 4.08 ,   ,  
-QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 2.00 ,   ,  
+QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 2.00 ,   ,  81.94
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 15.06 ,   ,  
-QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.93 ,  52.68 ,  55.87
+QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.93 ,  42.39 ,  22.54
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 4.52 ,   ,  
-QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.69 ,   ,  86.22
+QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.69 ,   ,  79.96
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 8.84 ,   ,  
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 14.77 ,   ,  
 QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.30 ,   ,  
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 7.32 ,   ,  
-QF_LRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 2.92 ,   ,  
-QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.41 ,   ,  6.84
+QF_LRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 2.92 ,  78.08 ,  
+QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.41 ,   ,  5.80
 QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 0.97 ,   ,  
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportBooleans5.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 1.56 ,   ,  
-QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 0.25 ,  26.52 ,  7.52
+QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 0.25 ,  21.52 ,  6.17
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 218.27 ,   ,  
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 93.19 ,   ,  
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 127.31 ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 76.42 ,   ,  
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 76.42 ,   ,  86.96
 QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_6-phaseTemplate.smt2 , 15.04 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 25.96 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 13.60 ,   ,  
@@ -156,44 +156,44 @@ QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration1_Loop_4-pieceTemp
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 179.90 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate.smt2 , 170.51 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_3-pieceTemplate.smt2 , 78.08 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 144.69 ,  4.54 ,  
+QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 144.69 ,  2.51 ,  3.80
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/heidy7-simple.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 0.30 ,  66.22 ,  17.79
+QF_LRA/LassoRanker/CooperatingT2/heidy7-simple.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 0.30 ,  58.00 ,  14.49
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_4-phaseTemplate.smt2 , 53.12 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_2-pieceTemplate.smt2 , 2.54 ,  17.47 ,  
+QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_2-pieceTemplate.smt2 , 2.54 ,  15.31 ,  14.21
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 152.05 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 152.05 ,  78.72 ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_3-pieceTemplate.smt2 , 5.84 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_2-pieceTemplate.smt2 , 53.54 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_3-pieceTemplate.smt2 , 5.84 ,  79.04 ,  
+QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_2-pieceTemplate.smt2 , 53.54 ,   ,  84.84
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_2-pieceTemplate.smt2 , 31.37 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 3.41 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/min_rf_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 4.56 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 , 54.71 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 , 54.71 ,  52.22 ,  53.39
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_5-nestedTemplate.smt2 , 131.53 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/min_rf_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 7.96 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_7-nestedTemplate.smt2 , 239.15 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_6-nestedTemplate.smt2 , 184.61 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_4-nestedTemplate.smt2 , 89.84 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/min_rf_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 , 6.11 ,  50.24 ,  
-QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.99 ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 33.74 ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 18.49 ,   ,  12.05
+QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_4-nestedTemplate.smt2 , 89.84 ,   ,  72.22
+QF_LRA/LassoRanker/SV-COMP/min_rf_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 , 6.11 ,  31.68 ,  21.37
+QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.99 ,   ,  32.92
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 33.74 ,   ,  23.42
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 18.49 ,   ,  8.12
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 43.22 ,   ,  64.59
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 43.22 ,   ,  41.79
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 142.07 ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-phaseTemplate.smt2 , 25.52 ,  73.99 ,  15.57
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 26.69 ,   ,  64.74
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 76.19 ,   ,  
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-phaseTemplate.smt2 , 25.52 ,  50.07 ,  9.48
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 26.69 ,  57.05 ,  28.84
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 76.19 ,   ,  53.35
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 61.20 ,   ,  
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 133.66 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/smagillc-fail.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 8.50 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/smagillc-fail.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 8.50 ,  73.72 ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 , 137.09 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 3.34 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_7-phaseTemplate.smt2 , 6.94 ,   ,  87.17
-QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 1.76 ,  89.34 ,  
+QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_7-phaseTemplate.smt2 , 6.94 ,   ,  9.05
+QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 1.76 ,  68.46 ,  73.24
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 281.70 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 , 4.39 ,  71.68 ,  
+QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 , 4.39 ,  45.93 ,  82.97
 QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 4.06 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-phaseTemplate.smt2 , 54.83 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 , 199.32 ,   ,  
@@ -203,55 +203,55 @@ QF_LRA/LassoRanker/Ultimate/TelAviv-AmirMinimum.bpl_Iteration1_Loop_3-pieceTempl
 QF_LRA/LassoRanker/Ultimate/TelAviv-AmirMinimum.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 9.76 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_4-lexTemplate.smt2 , 44.09 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_4-lexTemplate.smt2 , 79.69 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 , 152.41 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 , 112.07 ,  38.65 ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 , 175.42 ,  79.54 ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 , 226.14 ,  66.50 ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 , 141.96 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 , 260.96 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-nestedTemplate.smt2 , 147.69 ,  55.24 ,  
-QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.69 ,  55.23 ,  
-QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 14.54 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/matrixsqrt.t2.c_Iteration12_Loop_4-pieceTemplate.smt2 , 1.61 ,  36.57 ,  50.33
+QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 , 152.41 ,  45.42 ,  10.82
+QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 , 112.07 ,  18.38 ,  5.40
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 , 175.42 ,  39.20 ,  11.34
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 , 226.14 ,  29.27 ,  11.55
+QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 , 141.96 ,  34.26 ,  7.74
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 , 260.96 ,  36.28 ,  19.58
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-nestedTemplate.smt2 , 147.69 ,  26.41 ,  3.26
+QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.69 ,  45.64 ,  9.76
+QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 14.54 ,  66.15 ,  10.08
+QF_LRA/LassoRanker/CooperatingT2/matrixsqrt.t2.c_Iteration12_Loop_4-pieceTemplate.smt2 , 1.61 ,  26.97 ,  51.32
 QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 3.10 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/matrixsqrt.t2.c_Iteration12_Loop_7-phaseTemplate.smt2 , 7.76 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_2-lexTemplate.smt2 , 55.57 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_2-lexTemplate.smt2 , 55.57 ,  72.61 ,  57.63
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-lexTemplate.smt2 , 131.23 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 , 235.18 ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 187.76 ,   ,  
+QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 187.76 ,   ,  64.84
 QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.72 ,  64.74 ,  15.60
-QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 224.56 ,   ,  
+QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.72 ,  48.12 ,  13.54
+QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 224.56 ,   ,  5.19
 QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.33 ,   ,  65.02
+QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.33 ,   ,  13.80
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 2.17 ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 283.41 ,   ,  
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.15 ,   ,  
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 9.69 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_3-phaseTemplate.smt2 , 288.37 ,  66.01 ,  
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_3-phaseTemplate.smt2 , 288.37 ,  38.53 ,  6.83
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 3.80 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/selectSort.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 2.76 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/bubbleSort.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 2.40 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_7-nestedTemplate.smt2 , 8.68 ,  48.49 ,  
-QF_LRA/LassoRanker/CooperatingT2/selectSort.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 16.33 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_6-nestedTemplate.smt2 , 7.36 ,  48.01 ,  
-QF_LRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration10_Loop_7-phaseTemplate.smt2 , 3.15 ,   ,  26.65
-QF_LRA/LassoRanker/CooperatingT2/wrong_loop.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 7.09 ,   ,  44.39
-QF_LRA/LassoRanker/CooperatingT2/wrong_loop.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 1.36 ,   ,  
-QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 8.52 ,   ,  0.68
+QF_LRA/LassoRanker/CooperatingT2/bubbleSort.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 2.40 ,   ,  27.05
+QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_7-nestedTemplate.smt2 , 8.68 ,  33.25 ,  31.93
+QF_LRA/LassoRanker/CooperatingT2/selectSort.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 16.33 ,   ,  81.24
+QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_6-nestedTemplate.smt2 , 7.36 ,  28.12 ,  23.18
+QF_LRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration10_Loop_7-phaseTemplate.smt2 , 3.15 ,   ,  17.14
+QF_LRA/LassoRanker/CooperatingT2/wrong_loop.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 7.09 ,   ,  15.24
+QF_LRA/LassoRanker/CooperatingT2/wrong_loop.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 1.36 ,  83.85 ,  73.74
+QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 8.52 ,   ,  0.50
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 51.47 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration8_Loop_4-pieceTemplate.smt2 , 0.66 ,  54.78 ,  13.70
-QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-phaseTemplate.smt2 , 4.94 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration8_Loop_4-pieceTemplate.smt2 , 0.66 ,  44.79 ,  6.42
+QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-phaseTemplate.smt2 , 4.94 ,  82.53 ,  
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 122.74 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 43.94 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 22.65 ,   ,  
@@ -261,31 +261,31 @@ QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_2-pieceTemplate.
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 21.18 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/curious4.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 27.52 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/bsort100.t2.c_Iteration13_Loop_4-pieceTemplate.smt2 , 2.03 ,   ,  
-QF_LRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , CPU ,   ,  
+QF_LRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , CPU ,  88.30 ,  83.52
 QF_LRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_3-lexTemplate.smt2 , 130.46 ,  37.20 ,  
+QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_3-lexTemplate.smt2 , 130.46 ,  16.50 ,  3.31
 QF_LRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-lexTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 280.55 ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 95.59 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/mc91test.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 , 1.39 ,   ,  51.09
+QF_LRA/LassoRanker/CooperatingT2/mc91test.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 , 1.39 ,  68.60 ,  51.16
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 12.50 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/consts1.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.78 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration3_Lasso_7-phaseTemplate.smt2 , 12.94 ,  56.61 ,  54.99
+QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration3_Lasso_7-phaseTemplate.smt2 , 12.94 ,  42.94 ,  53.61
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 64.23 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-lexTemplate.smt2 , 6.88 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-lexTemplate.smt2 , 6.88 ,  70.94 ,  67.22
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_2-pieceTemplate.smt2 , 34.05 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_2-pieceTemplate.smt2 , 29.75 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 , 206.87 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/dropbuf.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 114.04 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/dropbuf.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 21.29 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/queens.t2.c_Iteration19_Loop_7-phaseTemplate.smt2 , 44.50 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 1.69 ,  53.53 ,  27.67
-QF_LRA/LassoRanker/CooperatingT2/heidy7.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 0.95 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/queens.t2.c_Iteration19_Loop_7-phaseTemplate.smt2 , 44.50 ,   ,  15.28
+QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 1.69 ,  45.11 ,  10.98
+QF_LRA/LassoRanker/CooperatingT2/heidy7.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 0.95 ,   ,  46.50
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_4-lexTemplate.smt2 , 14.46 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_5-phaseTemplate.smt2 , 65.40 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_4-phaseTemplate.smt2 , 33.57 ,   ,  
@@ -294,21 +294,21 @@ QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate.sm
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_6-phaseTemplate.smt2 , 155.63 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_3-pieceTemplate.smt2 , 74.22 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/byron-2.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 32.11 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/byron-2.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 5.29 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/byron-2.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 5.29 ,  74.47 ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 9.91 ,  30.41 ,  46.65
-QF_LRA/LassoRanker/CooperatingT2/loop3.t2.c_Iteration25_Lasso_4-pieceTemplate.smt2 , 0.61 ,  7.71 ,  9.33
+QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 9.91 ,  29.00 ,  59.00
+QF_LRA/LassoRanker/CooperatingT2/loop3.t2.c_Iteration25_Lasso_4-pieceTemplate.smt2 , 0.61 ,  7.12 ,  7.46
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_4-phaseTemplate.smt2 , 28.74 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 172.48 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_3-pieceTemplate.smt2 , 89.83 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration8_Loop_4-pieceTemplate.smt2 , 15.03 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 , 14.99 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration7_Loop_7-phaseTemplate.smt2 , 12.73 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.64 ,  19.24 ,  20.87
+QF_LRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.64 ,  15.94 ,  2.58
 QF_LRA/LassoRanker/CooperatingT2/magic.t2.c_Iteration23_Loop_7-phaseTemplate.smt2 , 26.69 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration9_Loop_7-phaseTemplate.smt2 , 95.30 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 30.53 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.81 ,  88.40 ,  
+QF_LRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.81 ,  74.28 ,  50.70
 QF_LRA/LassoRanker/CooperatingT2/magic.t2.c_Iteration12_Loop_4-pieceTemplate.smt2 , 12.27 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 37.66 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 37.00 ,   ,  
@@ -317,7 +317,7 @@ QF_LRA/LassoRanker/CooperatingT2/elmhes.t2.c_Iteration5_Loop_4-pieceTemplate.smt
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 12.45 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/agafp.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.43 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration9_Loop_6-phaseTemplate.smt2 , 37.06 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration7_Loop_6-phaseTemplate.smt2 , 4.84 ,  80.94 ,  
+QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration7_Loop_6-phaseTemplate.smt2 , 4.84 ,  62.24 ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 13.75 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/magic.t2.c_Iteration12_Loop_7-phaseTemplate.smt2 , 60.45 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , 95.90 ,   ,  
@@ -325,7 +325,7 @@ QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration2_Loop_7-phaseTemplate.smt
 QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration9_Loop_7-phaseTemplate.smt2 , 9.28 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 5.84 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 16.47 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.07 ,  28.88 ,  
+QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.07 ,  25.34 ,  72.00
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 3.54 ,   ,  
 QF_LRA/meti-tarski/polypaver/bench-exp-3d/polypaver-bench-exp-3d-chunk-0114.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/polypaver/bench-exp-3d/polypaver-bench-exp-3d-chunk-0088.smt2 , 0.00 ,  0.00 ,  0.00
@@ -383,14 +383,14 @@ QF_LRA/meti-tarski/polypaver/bench-exp-3d/polypaver-bench-exp-3d-chunk-0103.smt2
 QF_LRA/meti-tarski/polypaver/bench-exp-3d/polypaver-bench-exp-3d-chunk-0048.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/polypaver/bench-exp-3d/polypaver-bench-exp-3d-chunk-0089.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/polypaver/bench-exp-3d/polypaver-bench-exp-3d-chunk-0050.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_4-lexTemplate.smt2 , 48.13 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_4-lexTemplate.smt2 , 48.13 ,   ,  83.18
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 9.64 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_7-phaseTemplate.smt2 , 53.21 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 31.97 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_3-pieceTemplate.smt2 , 8.96 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 2.32 ,   ,  72.42
+QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 2.32 ,  76.01 ,  54.57
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_7-phaseTemplate.smt2 , 73.16 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 21.16 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 21.16 ,   ,  23.89
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_6-phaseTemplate.smt2 , 32.17 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 18.00 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_3-pieceTemplate.smt2 , 6.33 ,   ,  
@@ -403,7 +403,7 @@ QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2
 QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 11.53 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_5-phaseTemplate.smt2 , 12.95 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_6-phaseTemplate.smt2 , 28.53 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/eric2.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 5.80 ,  9.42 ,  6.34
+QF_LRA/LassoRanker/CooperatingT2/eric2.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 5.80 ,  6.70 ,  3.26
 QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Lasso_7-phaseTemplate.smt2 , 50.27 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_5-phaseTemplate.smt2 , 11.29 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 17.91 ,   ,  
@@ -414,8 +414,8 @@ QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 69.69 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 3.61 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_2-pieceTemplate.smt2 , 4.38 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_5-phaseTemplate.smt2 , 8.95 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.00 ,  72.42 ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_5-phaseTemplate.smt2 , 8.95 ,   ,  66.63
+QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.00 ,  49.98 ,  
 QF_LRA/LassoRanker/CooperatingT2/fun4.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.01 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 8.71 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.34 ,   ,  
@@ -425,8 +425,8 @@ QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_7-phaseTemplate.smt2
 QF_LRA/LassoRanker/CooperatingT2/fun4.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.04 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 6.90 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 2.05 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Gothenburg.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.01 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 3.01 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Gothenburg.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.01 ,   ,  62.35
+QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 3.01 ,   ,  64.30
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_5-phaseTemplate.smt2 , 20.47 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 6.64 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ndes.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 121.04 ,   ,  
@@ -434,17 +434,17 @@ QF_LRA/LassoRanker/CooperatingT2/ndes.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 
 QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 8.16 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/p-55.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 3.90 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sort.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 11.76 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 11.40 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 11.40 ,   ,  54.49
 QF_LRA/LassoRanker/CooperatingT2/p-55.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 15.73 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Loop_3-pieceTemplate.smt2 , 5.87 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Loop_3-pieceTemplate.smt2 , 5.87 ,   ,  36.85
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_7-phaseTemplate.smt2 , 119.49 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 57.87 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_3-pieceTemplate.smt2 , 18.56 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_3-pieceTemplate.smt2 , 18.56 ,  79.12 ,  
 QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 27.02 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 38.85 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 5.31 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ndes.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 28.09 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 , 10.59 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 , 10.59 ,   ,  44.91
 QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 11.84 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ndes.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 127.07 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_4-pieceTemplate.smt2 , 35.26 ,   ,  
@@ -454,29 +454,29 @@ QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_6-phaseTemplate.smt2 
 QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 , 5.24 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/p-55.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 3.82 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 34.69 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Loop_7-phaseTemplate.smt2 , 59.59 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Loop_7-phaseTemplate.smt2 , 59.59 ,   ,  24.58
 QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 5.09 ,   ,  
-QF_LRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.31 ,   ,  
+QF_LRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.31 ,   ,  47.83
 QF_LRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.35 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 2.24 ,   ,  69.04
-QF_LRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 0.21 ,  27.72 ,  25.47
+QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 2.24 ,   ,  58.57
+QF_LRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 0.21 ,  23.00 ,  16.40
 QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.07 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.30 ,  32.99 ,  31.94
+QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.30 ,  23.79 ,  22.42
 QF_LRA/LassoRanker/CooperatingT2/fir.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 49.32 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/fir.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 , 9.32 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_4-lexTemplate.smt2 , 6.15 ,  74.49 ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_4-lexTemplate.smt2 , 6.15 ,  63.43 ,  46.93
 QF_LRA/LassoRanker/CooperatingT2/fir.t2.c_Iteration4_Loop_6-phaseTemplate.smt2 , 19.61 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.13 ,  77.37 ,  
+QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.13 ,  52.05 ,  8.78
 QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 7.37 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Damaskus.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.63 ,   ,  54.90
+QF_LRA/LassoRanker/Ultimate/Damaskus.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.63 ,   ,  1.39
 QF_LRA/LassoRanker/Ultimate/Damaskus.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.53 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.01 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 7.32 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 6.19 ,  73.19 ,  
-QF_LRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.90 ,  2.54 ,  2.20
-QF_LRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.99 ,  85.46 ,  
+QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 6.19 ,  45.02 ,  8.32
+QF_LRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.90 ,  2.06 ,  2.67
+QF_LRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.99 ,  59.72 ,  
 QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 3.78 ,   ,  
-QF_LRA/LassoRanker/Ultimate/SanDiego.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.39 ,  54.08 ,  34.78
+QF_LRA/LassoRanker/Ultimate/SanDiego.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.39 ,  40.43 ,  
 QF_LRA/meti-tarski/atan/problem/2/weak2/atan-problem-2-weak2-chunk-0121.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/atan/problem/2/weak2/atan-problem-2-weak2-chunk-0031.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/atan/problem/2/weak2/atan-problem-2-weak2-chunk-0009.smt2 , 0.00 ,  0.00 ,  0.00
@@ -523,12 +523,12 @@ QF_LRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 6
 QF_LRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 2.76 ,   ,  
 QF_LRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.29 ,   ,  
 QF_LRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 9.83 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-pieceTemplate.smt2 , 107.01 ,  11.61 ,  
+QF_LRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-pieceTemplate.smt2 , 107.01 ,  7.45 ,  11.43
 QF_LRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 152.86 ,   ,  
 QF_LRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 9.89 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 118.60 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Cairo2.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.14 ,  87.60 ,  8.86
+QF_LRA/LassoRanker/Ultimate/Cairo2.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.14 ,  73.91 ,  6.22
 QF_LRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 5.60 ,   ,  
 QF_LRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0023.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0019.smt2 , 0.00 ,  0.00 ,  0.00
@@ -697,28 +697,28 @@ QF_LRA/meti-tarski/sqrt/problem/sqrt-problem-Melquiond2-chunk-0051.smt2 , 0.00 ,
 QF_LRA/meti-tarski/sqrt/problem/sqrt-problem-Melquiond2-chunk-0048.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/clock_synchro/clocksynchro_10clocks.worst_case_skew.induct.smt2 , Excluded ,   ,  
 QF_LRA/clock_synchro/clocksynchro_9clocks.worst_case_skew.induct.smt2 , Excluded ,   ,  
-QF_LRA/clock_synchro/clocksynchro_3clocks.worst_case_skew.induct.smt2 , Excluded ,  2.37 ,  2.28
-QF_LRA/clock_synchro/clocksynchro_6clocks.worst_case_skew.induct.smt2 , Excluded ,  35.55 ,  36.17
-QF_LRA/clock_synchro/clocksynchro_4clocks.worst_case_skew.induct.smt2 , Excluded ,  5.48 ,  5.28
-QF_LRA/clock_synchro/clocksynchro_2clocks.worst_case_skew.induct.smt2 , Excluded ,  0.14 ,  0.14
-QF_LRA/clock_synchro/clocksynchro_5clocks.worst_case_skew.induct.smt2 , Excluded ,  9.80 ,  9.50
-QF_LRA/clock_synchro/clocksynchro_8clocks.worst_case_skew.induct.smt2 , Excluded ,   ,  
-QF_LRA/clock_synchro/clocksynchro_7clocks.worst_case_skew.induct.smt2 , Excluded ,  79.28 ,  74.39
+QF_LRA/clock_synchro/clocksynchro_3clocks.worst_case_skew.induct.smt2 , Excluded ,  1.70 ,  1.72
+QF_LRA/clock_synchro/clocksynchro_6clocks.worst_case_skew.induct.smt2 , Excluded ,  26.62 ,  26.58
+QF_LRA/clock_synchro/clocksynchro_4clocks.worst_case_skew.induct.smt2 , Excluded ,  3.95 ,  3.94
+QF_LRA/clock_synchro/clocksynchro_2clocks.worst_case_skew.induct.smt2 , Excluded ,  0.10 ,  0.10
+QF_LRA/clock_synchro/clocksynchro_5clocks.worst_case_skew.induct.smt2 , Excluded ,  7.28 ,  7.22
+QF_LRA/clock_synchro/clocksynchro_8clocks.worst_case_skew.induct.smt2 , Excluded ,  83.03 ,  82.86
+QF_LRA/clock_synchro/clocksynchro_7clocks.worst_case_skew.induct.smt2 , Excluded ,  55.22 ,  55.87
 QF_LRA/clock_synchro/clocksynchro_10clocks.worst_case_skew.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A04.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A08.smt2 , 0.02 ,  0.00 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A08.smt2 , 0.02 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A05.smt2 , 0.02 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A09.smt2 , 0.03 ,  0.00 ,  0.01
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A80.smt2 , 4.40 ,  0.18 ,  0.20
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A10.smt2 , 0.05 ,  0.00 ,  0.01
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A60.smt2 , 1.99 ,  0.09 ,  0.12
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A09.smt2 , 0.03 ,  0.01 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A80.smt2 , 4.40 ,  0.14 ,  0.18
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A10.smt2 , 0.05 ,  0.01 ,  0.00
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A60.smt2 , 1.99 ,  0.08 ,  0.10
 QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A07.smt2 , 0.03 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A40.smt2 , 0.76 ,  0.05 ,  0.08
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A30.smt2 , 0.38 ,  0.04 ,  0.04
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A40.smt2 , 0.76 ,  0.05 ,  0.06
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A30.smt2 , 0.38 ,  0.03 ,  0.04
 QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A06.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A03.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A70.smt2 , 3.10 ,  0.15 ,  0.14
-QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A20.smt2 , 0.14 ,  0.02 ,  0.03
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A70.smt2 , 3.10 ,  0.12 ,  0.15
+QF_LRA/DTP-Scheduling/constraints-temporal-machine-shop-2-3-A20.smt2 , 0.14 ,  0.02 ,  0.02
 QF_LRA/clock_synchro/clocksynchro_4clocks.worst_case_skew.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/clock_synchro/clocksynchro_3clocks.worst_case_skew.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/clock_synchro/clocksynchro_9clocks.worst_case_skew.base.smt2 , Excluded ,  0.00 ,  0.00
@@ -761,14 +761,14 @@ QF_LRA/meti-tarski/atan/problem/1/atan-problem-1-chunk-0017.smt2 , 0.00 ,  0.00 
 QF_LRA/meti-tarski/atan/problem/1/atan-problem-1-chunk-0031.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/atan/problem/1/atan-problem-1-chunk-0030.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/clock_synchro/clocksynchro_9clocks.main_invar.induct.smt2 , Excluded ,   ,  
-QF_LRA/clock_synchro/clocksynchro_6clocks.main_invar.induct.smt2 , Excluded ,  49.85 ,  48.26
-QF_LRA/clock_synchro/clocksynchro_3clocks.main_invar.induct.smt2 , Excluded ,  5.75 ,  5.80
+QF_LRA/clock_synchro/clocksynchro_6clocks.main_invar.induct.smt2 , Excluded ,  35.17 ,  35.20
+QF_LRA/clock_synchro/clocksynchro_3clocks.main_invar.induct.smt2 , Excluded ,  4.28 ,  4.47
 QF_LRA/clock_synchro/clocksynchro_8clocks.main_invar.induct.smt2 , Excluded ,   ,  
-QF_LRA/clock_synchro/clocksynchro_7clocks.main_invar.induct.smt2 , Excluded ,   ,  
-QF_LRA/clock_synchro/clocksynchro_5clocks.main_invar.induct.smt2 , Excluded ,  33.99 ,  31.92
-QF_LRA/clock_synchro/clocksynchro_4clocks.main_invar.induct.smt2 , Excluded ,  19.10 ,  18.66
-QF_LRA/clock_synchro/clocksynchro_2clocks.main_invar.induct.smt2 , Excluded ,  1.49 ,  1.48
-QF_LRA/clock_synchro/clocksynchro_10clocks.main_invar.base.smt2 , Excluded ,  0.06 ,  0.05
+QF_LRA/clock_synchro/clocksynchro_7clocks.main_invar.induct.smt2 , Excluded ,  71.55 ,  71.53
+QF_LRA/clock_synchro/clocksynchro_5clocks.main_invar.induct.smt2 , Excluded ,  24.44 ,  23.96
+QF_LRA/clock_synchro/clocksynchro_4clocks.main_invar.induct.smt2 , Excluded ,  13.15 ,  13.51
+QF_LRA/clock_synchro/clocksynchro_2clocks.main_invar.induct.smt2 , Excluded ,  1.13 ,  1.10
+QF_LRA/clock_synchro/clocksynchro_10clocks.main_invar.base.smt2 , Excluded ,  0.04 ,  0.05
 QF_LRA/keymaera/intersection-example-onelane.proof-node846.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0045.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0024.smt2 , 0.00 ,  0.00 ,  0.00
@@ -875,38 +875,38 @@ QF_LRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0035.smt2 , 0.00 ,  0.00 , 
 QF_LRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0707.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0037.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0720.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/clock_synchro/clocksynchro_8clocks.main_invar.base.smt2 , Excluded ,  0.05 ,  0.04
-QF_LRA/clock_synchro/clocksynchro_3clocks.main_invar.base.smt2 , Excluded ,  0.01 ,  0.00
-QF_LRA/clock_synchro/clocksynchro_5clocks.main_invar.base.smt2 , Excluded ,  0.03 ,  0.02
-QF_LRA/clock_synchro/clocksynchro_7clocks.main_invar.base.smt2 , Excluded ,  0.04 ,  0.03
-QF_LRA/clock_synchro/clocksynchro_6clocks.main_invar.base.smt2 , Excluded ,  0.03 ,  0.03
-QF_LRA/clock_synchro/clocksynchro_4clocks.main_invar.base.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/clock_synchro/clocksynchro_9clocks.main_invar.base.smt2 , Excluded ,  0.05 ,  0.05
-QF_LRA/clock_synchro/clocksynchro_2clocks.main_invar.base.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/clock_synchro/clocksynchro_8clocks.main_invar.base.smt2 , Excluded ,  0.03 ,  0.04
+QF_LRA/clock_synchro/clocksynchro_3clocks.main_invar.base.smt2 , Excluded ,  0.00 ,  0.01
+QF_LRA/clock_synchro/clocksynchro_5clocks.main_invar.base.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/clock_synchro/clocksynchro_7clocks.main_invar.base.smt2 , Excluded ,  0.03 ,  0.02
+QF_LRA/clock_synchro/clocksynchro_6clocks.main_invar.base.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/clock_synchro/clocksynchro_4clocks.main_invar.base.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/clock_synchro/clocksynchro_9clocks.main_invar.base.smt2 , Excluded ,  0.04 ,  0.04
+QF_LRA/clock_synchro/clocksynchro_2clocks.main_invar.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/keymaera/intersection-example-simple.proof-node606.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/intersection-example-simple.proof-node634.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/tta_startup/simple_startup_11nodes.abstract.induct.smt2 , Excluded ,  72.70 ,  64.33
+QF_LRA/tta_startup/simple_startup_11nodes.abstract.induct.smt2 , Excluded ,  51.03 ,  50.32
 QF_LRA/tta_startup/simple_startup_15nodes.abstract.induct.smt2 , Excluded ,   ,  
-QF_LRA/tta_startup/simple_startup_10nodes.abstract.induct.smt2 , Excluded ,  57.45 ,  46.50
+QF_LRA/tta_startup/simple_startup_10nodes.abstract.induct.smt2 , Excluded ,  35.45 ,  34.14
 QF_LRA/tta_startup/simple_startup_14nodes.abstract.induct.smt2 , Excluded ,   ,  
-QF_LRA/tta_startup/simple_startup_12nodes.abstract.induct.smt2 , Excluded ,   ,  
-QF_LRA/tta_startup/simple_startup_5nodes.abstract.induct.smt2 , Excluded ,  2.05 ,  1.80
-QF_LRA/tta_startup/simple_startup_11nodes.synchro.induct.smt2 , Excluded ,  0.46 ,  0.33
-QF_LRA/tta_startup/simple_startup_8nodes.abstract.induct.smt2 , Excluded ,  16.49 ,  14.12
-QF_LRA/tta_startup/simple_startup_14nodes.synchro.induct.smt2 , Excluded ,  0.78 ,  0.81
-QF_LRA/tta_startup/simple_startup_10nodes.synchro.induct.smt2 , Excluded ,  0.23 ,  0.24
-QF_LRA/tta_startup/simple_startup_7nodes.abstract.induct.smt2 , Excluded ,  8.09 ,  7.06
-QF_LRA/tta_startup/simple_startup_15nodes.synchro.induct.smt2 , Excluded ,  1.10 ,  1.03
-QF_LRA/tta_startup/simple_startup_15nodes.missing.induct.smt2 , Excluded ,  1.79 ,  2.35
-QF_LRA/tta_startup/simple_startup_10nodes.missing.induct.smt2 , Excluded ,  1.10 ,  0.96
-QF_LRA/tta_startup/simple_startup_3nodes.abstract.induct.smt2 , Excluded ,  0.25 ,  0.22
-QF_LRA/tta_startup/simple_startup_11nodes.missing.induct.smt2 , Excluded ,  1.96 ,  1.87
-QF_LRA/tta_startup/simple_startup_14nodes.missing.induct.smt2 , Excluded ,  2.20 ,  1.51
-QF_LRA/tta_startup/simple_startup_12nodes.synchro.induct.smt2 , Excluded ,  0.42 ,  0.38
-QF_LRA/tta_startup/simple_startup_9nodes.abstract.induct.smt2 , Excluded ,  25.33 ,  28.87
-QF_LRA/tta_startup/simple_startup_12nodes.missing.induct.smt2 , Excluded ,  1.81 ,  1.43
-QF_LRA/tta_startup/simple_startup_6nodes.abstract.induct.smt2 , Excluded ,  5.03 ,  3.41
-QF_LRA/tta_startup/simple_startup_4nodes.abstract.induct.smt2 , Excluded ,  0.99 ,  0.86
+QF_LRA/tta_startup/simple_startup_12nodes.abstract.induct.smt2 , Excluded ,  74.65 ,  77.65
+QF_LRA/tta_startup/simple_startup_5nodes.abstract.induct.smt2 , Excluded ,  1.97 ,  1.72
+QF_LRA/tta_startup/simple_startup_11nodes.synchro.induct.smt2 , Excluded ,  0.32 ,  0.30
+QF_LRA/tta_startup/simple_startup_8nodes.abstract.induct.smt2 , Excluded ,  12.40 ,  12.78
+QF_LRA/tta_startup/simple_startup_14nodes.synchro.induct.smt2 , Excluded ,  0.55 ,  0.57
+QF_LRA/tta_startup/simple_startup_10nodes.synchro.induct.smt2 , Excluded ,  0.24 ,  0.24
+QF_LRA/tta_startup/simple_startup_7nodes.abstract.induct.smt2 , Excluded ,  7.61 ,  7.52
+QF_LRA/tta_startup/simple_startup_15nodes.synchro.induct.smt2 , Excluded ,  0.94 ,  0.98
+QF_LRA/tta_startup/simple_startup_15nodes.missing.induct.smt2 , Excluded ,  1.54 ,  1.60
+QF_LRA/tta_startup/simple_startup_10nodes.missing.induct.smt2 , Excluded ,  0.70 ,  0.83
+QF_LRA/tta_startup/simple_startup_3nodes.abstract.induct.smt2 , Excluded ,  0.24 ,  0.24
+QF_LRA/tta_startup/simple_startup_11nodes.missing.induct.smt2 , Excluded ,  1.57 ,  1.40
+QF_LRA/tta_startup/simple_startup_14nodes.missing.induct.smt2 , Excluded ,  1.54 ,  1.49
+QF_LRA/tta_startup/simple_startup_12nodes.synchro.induct.smt2 , Excluded ,  0.34 ,  0.37
+QF_LRA/tta_startup/simple_startup_9nodes.abstract.induct.smt2 , Excluded ,  23.03 ,  17.01
+QF_LRA/tta_startup/simple_startup_12nodes.missing.induct.smt2 , Excluded ,  1.34 ,  1.35
+QF_LRA/tta_startup/simple_startup_6nodes.abstract.induct.smt2 , Excluded ,  4.04 ,  4.17
+QF_LRA/tta_startup/simple_startup_4nodes.abstract.induct.smt2 , Excluded ,  0.89 ,  0.92
 QF_LRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0022.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0023.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0025.smt2 , 0.00 ,  0.00 ,  0.00
@@ -982,25 +982,25 @@ QF_LRA/meti-tarski/Chua/2/VC1/L/Chua-2-VC1-L-chunk-0087.smt2 , 0.00 ,  0.00 ,  0
 QF_LRA/meti-tarski/Chua/2/VC1/L/Chua-2-VC1-L-chunk-0051.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Chua/2/VC1/L/Chua-2-VC1-L-chunk-0046.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Chua/2/VC1/L/Chua-2-VC1-L-chunk-0082.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/tta_startup/simple_startup_3nodes.synchro.induct.smt2 , Excluded ,  0.01 ,  0.02
-QF_LRA/tta_startup/simple_startup_14nodes.abstract.base.smt2 , Excluded ,  0.12 ,  0.13
-QF_LRA/tta_startup/simple_startup_4nodes.synchro.induct.smt2 , Excluded ,  0.03 ,  0.02
-QF_LRA/tta_startup/simple_startup_7nodes.missing.induct.smt2 , Excluded ,  0.32 ,  0.26
-QF_LRA/tta_startup/simple_startup_8nodes.missing.induct.smt2 , Excluded ,  0.57 ,  0.72
-QF_LRA/tta_startup/simple_startup_11nodes.abstract.base.smt2 , Excluded ,  0.08 ,  0.06
-QF_LRA/tta_startup/simple_startup_9nodes.missing.induct.smt2 , Excluded ,  0.86 ,  0.68
-QF_LRA/tta_startup/simple_startup_8nodes.synchro.induct.smt2 , Excluded ,  0.10 ,  0.09
-QF_LRA/tta_startup/simple_startup_3nodes.missing.induct.smt2 , Excluded ,  0.06 ,  0.06
-QF_LRA/tta_startup/simple_startup_5nodes.missing.induct.smt2 , Excluded ,  0.08 ,  0.08
-QF_LRA/tta_startup/simple_startup_4nodes.missing.induct.smt2 , Excluded ,  0.05 ,  0.05
+QF_LRA/tta_startup/simple_startup_3nodes.synchro.induct.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/tta_startup/simple_startup_14nodes.abstract.base.smt2 , Excluded ,  0.09 ,  0.10
+QF_LRA/tta_startup/simple_startup_4nodes.synchro.induct.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/tta_startup/simple_startup_7nodes.missing.induct.smt2 , Excluded ,  0.24 ,  0.22
+QF_LRA/tta_startup/simple_startup_8nodes.missing.induct.smt2 , Excluded ,  0.49 ,  0.54
+QF_LRA/tta_startup/simple_startup_11nodes.abstract.base.smt2 , Excluded ,  0.06 ,  0.06
+QF_LRA/tta_startup/simple_startup_9nodes.missing.induct.smt2 , Excluded ,  0.70 ,  0.63
+QF_LRA/tta_startup/simple_startup_8nodes.synchro.induct.smt2 , Excluded ,  0.10 ,  0.10
+QF_LRA/tta_startup/simple_startup_3nodes.missing.induct.smt2 , Excluded ,  0.05 ,  0.05
+QF_LRA/tta_startup/simple_startup_5nodes.missing.induct.smt2 , Excluded ,  0.07 ,  0.07
+QF_LRA/tta_startup/simple_startup_4nodes.missing.induct.smt2 , Excluded ,  0.04 ,  0.04
 QF_LRA/tta_startup/simple_startup_7nodes.synchro.induct.smt2 , Excluded ,  0.10 ,  0.10
-QF_LRA/tta_startup/simple_startup_9nodes.synchro.induct.smt2 , Excluded ,  0.18 ,  0.17
-QF_LRA/tta_startup/simple_startup_6nodes.missing.induct.smt2 , Excluded ,  0.43 ,  0.42
-QF_LRA/tta_startup/simple_startup_15nodes.abstract.base.smt2 , Excluded ,  0.12 ,  0.13
+QF_LRA/tta_startup/simple_startup_9nodes.synchro.induct.smt2 , Excluded ,  0.16 ,  0.16
+QF_LRA/tta_startup/simple_startup_6nodes.missing.induct.smt2 , Excluded ,  0.38 ,  0.40
+QF_LRA/tta_startup/simple_startup_15nodes.abstract.base.smt2 , Excluded ,  0.12 ,  0.10
 QF_LRA/tta_startup/simple_startup_5nodes.synchro.induct.smt2 , Excluded ,  0.04 ,  0.03
-QF_LRA/tta_startup/simple_startup_12nodes.abstract.base.smt2 , Excluded ,  0.09 ,  0.07
-QF_LRA/tta_startup/simple_startup_6nodes.synchro.induct.smt2 , Excluded ,  0.07 ,  0.07
-QF_LRA/tta_startup/simple_startup_10nodes.abstract.base.smt2 , Excluded ,  0.05 ,  0.06
+QF_LRA/tta_startup/simple_startup_12nodes.abstract.base.smt2 , Excluded ,  0.06 ,  0.08
+QF_LRA/tta_startup/simple_startup_6nodes.synchro.induct.smt2 , Excluded ,  0.07 ,  0.06
+QF_LRA/tta_startup/simple_startup_10nodes.abstract.base.smt2 , Excluded ,  0.06 ,  0.05
 QF_LRA/meti-tarski/sin/344/3/sin-344-3-weak-chunk-0029.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/344/3/sin-344-3-weak-chunk-0031.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/344/3/sin-344-3-weak-chunk-0016.smt2 , 0.00 ,  0.00 ,  0.00
@@ -1008,26 +1008,26 @@ QF_LRA/meti-tarski/sin/344/3/sin-344-3-weak-chunk-0014.smt2 , 0.00 ,  0.00 ,  0.
 QF_LRA/meti-tarski/sin/344/3/sin-344-3-weak-chunk-0012.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/344/3/sin-344-3-weak-chunk-0013.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-matrix3x3.pddl.smt2 , 0.04 ,  0.01 ,  0.01
-QF_LRA/DTP-Scheduling/constraints-tempo-matrix7x7.pddl.smt2 , 2.68 ,  0.32 ,  0.34
-QF_LRA/DTP-Scheduling/constraints-tempo-matrix6x6.pddl.smt2 , 1.15 ,  0.18 ,  0.16
+QF_LRA/DTP-Scheduling/constraints-tempo-matrix7x7.pddl.smt2 , 2.68 ,  0.32 ,  0.32
+QF_LRA/DTP-Scheduling/constraints-tempo-matrix6x6.pddl.smt2 , 1.15 ,  0.15 ,  0.16
 QF_LRA/DTP-Scheduling/constraints-tempo-matrix2x2.pddl.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-matrix1x1.pddl.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tempo-matrix5x5.pddl.smt2 , 0.41 ,  0.06 ,  0.07
-QF_LRA/DTP-Scheduling/constraints-tempo-matrix8x8.pddl.smt2 , 5.25 ,  1.06 ,  1.09
+QF_LRA/DTP-Scheduling/constraints-tempo-matrix5x5.pddl.smt2 , 0.41 ,  0.06 ,  0.06
+QF_LRA/DTP-Scheduling/constraints-tempo-matrix8x8.pddl.smt2 , 5.25 ,  0.86 ,  0.84
 QF_LRA/DTP-Scheduling/constraints-tempo-matrix4x4.pddl.smt2 , 0.14 ,  0.03 ,  0.03
-QF_LRA/tta_startup/simple_startup_15nodes.synchro.base.smt2 , Excluded ,  0.15 ,  0.16
-QF_LRA/tta_startup/simple_startup_6nodes.abstract.base.smt2 , Excluded ,  0.03 ,  0.03
-QF_LRA/tta_startup/simple_startup_10nodes.synchro.base.smt2 , Excluded ,  0.08 ,  0.07
-QF_LRA/tta_startup/simple_startup_14nodes.synchro.base.smt2 , Excluded ,  0.13 ,  0.16
-QF_LRA/tta_startup/simple_startup_3nodes.abstract.base.smt2 , Excluded ,  0.01 ,  0.00
-QF_LRA/tta_startup/simple_startup_11nodes.synchro.base.smt2 , Excluded ,  0.09 ,  0.07
-QF_LRA/tta_startup/simple_startup_7nodes.abstract.base.smt2 , Excluded ,  0.03 ,  0.03
-QF_LRA/tta_startup/simple_startup_12nodes.synchro.base.smt2 , Excluded ,  0.09 ,  0.10
-QF_LRA/tta_startup/simple_startup_9nodes.abstract.base.smt2 , Excluded ,  0.05 ,  0.05
-QF_LRA/tta_startup/simple_startup_8nodes.abstract.base.smt2 , Excluded ,  0.05 ,  0.03
-QF_LRA/tta_startup/simple_startup_4nodes.abstract.base.smt2 , Excluded ,  0.02 ,  0.01
+QF_LRA/tta_startup/simple_startup_15nodes.synchro.base.smt2 , Excluded ,  0.12 ,  0.12
+QF_LRA/tta_startup/simple_startup_6nodes.abstract.base.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/tta_startup/simple_startup_10nodes.synchro.base.smt2 , Excluded ,  0.05 ,  0.06
+QF_LRA/tta_startup/simple_startup_14nodes.synchro.base.smt2 , Excluded ,  0.12 ,  0.12
+QF_LRA/tta_startup/simple_startup_3nodes.abstract.base.smt2 , Excluded ,  0.00 ,  0.01
+QF_LRA/tta_startup/simple_startup_11nodes.synchro.base.smt2 , Excluded ,  0.07 ,  0.07
+QF_LRA/tta_startup/simple_startup_7nodes.abstract.base.smt2 , Excluded ,  0.03 ,  0.02
+QF_LRA/tta_startup/simple_startup_12nodes.synchro.base.smt2 , Excluded ,  0.08 ,  0.08
+QF_LRA/tta_startup/simple_startup_9nodes.abstract.base.smt2 , Excluded ,  0.04 ,  0.04
+QF_LRA/tta_startup/simple_startup_8nodes.abstract.base.smt2 , Excluded ,  0.03 ,  0.04
+QF_LRA/tta_startup/simple_startup_4nodes.abstract.base.smt2 , Excluded ,  0.01 ,  0.01
 QF_LRA/tta_startup/simple_startup_5nodes.abstract.base.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/spider_benchmarks/fs_init_no_op_accs.induction.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/spider_benchmarks/fs_init_no_op_accs.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Chua/1/IL/L/Chua-1-IL-L-chunk-0012.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Chua/1/IL/L/Chua-1-IL-L-chunk-0011.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Chua/1/IL/L/Chua-1-IL-L-chunk-0006.smt2 , 0.00 ,  0.00 ,  0.00
@@ -1065,20 +1065,20 @@ QF_LRA/meti-tarski/Chua/2/IL/L/Chua-2-IL-L-chunk-0030.smt2 , 0.00 ,  0.00 ,  0.0
 QF_LRA/meti-tarski/Chua/2/IL/L/Chua-2-IL-L-chunk-0035.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Chua/2/IL/L/Chua-2-IL-L-chunk-0064.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Chua/2/IL/L/Chua-2-IL-L-chunk-0071.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/tta_startup/simple_startup_7nodes.synchro.base.smt2 , Excluded ,  0.04 ,  0.03
+QF_LRA/tta_startup/simple_startup_7nodes.synchro.base.smt2 , Excluded ,  0.02 ,  0.03
 QF_LRA/tta_startup/simple_startup_5nodes.synchro.base.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/tta_startup/simple_startup_9nodes.synchro.base.smt2 , Excluded ,  0.06 ,  0.07
-QF_LRA/tta_startup/simple_startup_3nodes.synchro.base.smt2 , Excluded ,  0.01 ,  0.01
-QF_LRA/tta_startup/simple_startup_4nodes.synchro.base.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/tta_startup/simple_startup_9nodes.synchro.base.smt2 , Excluded ,  0.04 ,  0.05
+QF_LRA/tta_startup/simple_startup_3nodes.synchro.base.smt2 , Excluded ,  0.00 ,  0.01
+QF_LRA/tta_startup/simple_startup_4nodes.synchro.base.smt2 , Excluded ,  0.01 ,  0.00
 QF_LRA/tta_startup/simple_startup_8nodes.synchro.base.smt2 , Excluded ,  0.04 ,  0.04
-QF_LRA/tta_startup/simple_startup_6nodes.synchro.base.smt2 , Excluded ,  0.03 ,  0.03
-QF_LRA/spider_benchmarks/good_frame_update.induction.smt2 , Excluded ,  0.02 ,  0.01
-QF_LRA/spider_benchmarks/sc_init_frame_gap.induction.smt2 , Excluded ,  0.01 ,  0.00
-QF_LRA/tta_startup/simple_startup_14nodes.bug.induct.smt2 , Excluded ,   ,  
-QF_LRA/tta_startup/simple_startup_11nodes.bug.induct.smt2 , Excluded ,  34.23 ,  26.77
-QF_LRA/tta_startup/simple_startup_10nodes.bug.induct.smt2 , Excluded ,  6.72 ,  5.54
-QF_LRA/tta_startup/simple_startup_12nodes.bug.induct.smt2 , Excluded ,  33.13 ,  23.42
-QF_LRA/tta_startup/simple_startup_15nodes.bug.induct.smt2 , Excluded ,  33.88 ,  24.30
+QF_LRA/tta_startup/simple_startup_6nodes.synchro.base.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/spider_benchmarks/good_frame_update.induction.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/spider_benchmarks/sc_init_frame_gap.induction.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/tta_startup/simple_startup_14nodes.bug.induct.smt2 , Excluded ,   ,  88.37
+QF_LRA/tta_startup/simple_startup_11nodes.bug.induct.smt2 , Excluded ,  23.06 ,  22.64
+QF_LRA/tta_startup/simple_startup_10nodes.bug.induct.smt2 , Excluded ,  5.35 ,  4.96
+QF_LRA/tta_startup/simple_startup_12nodes.bug.induct.smt2 , Excluded ,  24.60 ,  22.77
+QF_LRA/tta_startup/simple_startup_15nodes.bug.induct.smt2 , Excluded ,  20.57 ,  18.96
 QF_LRA/spider_benchmarks/bad_echos_ascend.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0038.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0057.smt2 , 0.00 ,  0.00 ,  0.00
@@ -1106,30 +1106,30 @@ QF_LRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0073.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/cos/sin-cos-346-b-chunk-0008.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/cos/sin-cos-346-b-chunk-0009.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/cos/sin-cos-346-b-chunk-0137.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/tta_startup/simple_startup_4nodes.bug.induct.smt2 , Excluded ,  0.04 ,  0.04
+QF_LRA/tta_startup/simple_startup_4nodes.bug.induct.smt2 , Excluded ,  0.03 ,  0.04
 QF_LRA/tta_startup/simple_startup_3nodes.bug.induct.smt2 , Excluded ,  0.06 ,  0.06
-QF_LRA/tta_startup/simple_startup_9nodes.bug.induct.smt2 , Excluded ,  1.93 ,  2.46
-QF_LRA/tta_startup/simple_startup_7nodes.bug.induct.smt2 , Excluded ,  0.26 ,  0.24
-QF_LRA/tta_startup/simple_startup_5nodes.bug.induct.smt2 , Excluded ,  0.33 ,  0.28
-QF_LRA/tta_startup/simple_startup_8nodes.bug.induct.smt2 , Excluded ,  2.17 ,  2.31
-QF_LRA/tta_startup/simple_startup_6nodes.bug.induct.smt2 , Excluded ,  0.33 ,  0.29
+QF_LRA/tta_startup/simple_startup_9nodes.bug.induct.smt2 , Excluded ,  1.79 ,  1.70
+QF_LRA/tta_startup/simple_startup_7nodes.bug.induct.smt2 , Excluded ,  0.22 ,  0.22
+QF_LRA/tta_startup/simple_startup_5nodes.bug.induct.smt2 , Excluded ,  0.28 ,  0.25
+QF_LRA/tta_startup/simple_startup_8nodes.bug.induct.smt2 , Excluded ,  1.94 ,  1.95
+QF_LRA/tta_startup/simple_startup_6nodes.bug.induct.smt2 , Excluded ,  0.30 ,  0.31
 QF_LRA/spider_benchmarks/pd_init_op_accs.induction.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-80.smt2 , 1.82 ,  0.09 ,  0.10
+QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-80.smt2 , 1.82 ,  0.07 ,  0.08
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-09.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-10.smt2 , 0.02 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-60.smt2 , 1.11 ,  0.07 ,  0.06
-QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-30.smt2 , 0.15 ,  0.02 ,  0.02
+QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-60.smt2 , 1.11 ,  0.04 ,  0.06
+QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-30.smt2 , 0.15 ,  0.01 ,  0.01
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-03.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-07.smt2 , 0.01 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-70.smt2 , 1.41 ,  0.07 ,  0.08
-QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-90.smt2 , 2.63 ,  0.13 ,  0.12
+QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-70.smt2 , 1.41 ,  0.06 ,  0.08
+QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-90.smt2 , 2.63 ,  0.09 ,  0.10
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-05.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-20.smt2 , 0.09 ,  0.01 ,  0.01
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-04.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-08.smt2 , 0.03 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-06.smt2 , 0.01 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-40.smt2 , 0.39 ,  0.03 ,  0.02
-QF_LRA/spider_benchmarks/pd_not_fs_seen.induction.smt2 , Excluded ,  0.00 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-tms-2-3-light-40.smt2 , 0.39 ,  0.02 ,  0.03
+QF_LRA/spider_benchmarks/pd_not_fs_seen.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/pd_not_sc_seen.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/reint_to_least.induction.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/spider_benchmarks/fs_not_sc_seen.induction.smt2 , Excluded ,  0.00 ,  0.00
@@ -1143,26 +1143,26 @@ QF_LRA/meti-tarski/sin/344/4/sin-344-4-chunk-0016.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/sin/344/4/sin-344-4-chunk-0017.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/latendresse/ecoliMILPglycerolYices3-100000.smt2 , Excluded ,   ,  
 QF_LRA/latendresse/ecoliMILPglycerolYices3-300000.smt2 , Excluded ,   ,  
-QF_LRA/DTP-Scheduling/constraints-tempo-depth-100.smt2 , 0.95 ,  0.15 ,  0.15
-QF_LRA/DTP-Scheduling/constraints-tempo-depth-150.smt2 , 2.12 ,  0.34 ,  0.26
+QF_LRA/DTP-Scheduling/constraints-tempo-depth-100.smt2 , 0.95 ,  0.12 ,  0.12
+QF_LRA/DTP-Scheduling/constraints-tempo-depth-150.smt2 , 2.12 ,  0.22 ,  0.24
 QF_LRA/keymaera/integer_cubic_root_knuth-node1362.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-16.smt2 , Excluded ,  0.04 ,  0.03
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-16.smt2 , Excluded ,  0.02 ,  0.03
 QF_LRA/sal/windowreal/windowreal-no_t_deadlock-11.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-18.smt2 , Excluded ,  0.03 ,  0.04
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-13.smt2 , Excluded ,  0.03 ,  0.03
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-19.smt2 , Excluded ,  0.05 ,  0.03
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-14.smt2 , Excluded ,  0.04 ,  0.03
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-10.smt2 , Excluded ,  0.02 ,  0.01
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-18.smt2 , Excluded ,  0.03 ,  0.03
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-13.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-19.smt2 , Excluded ,  0.04 ,  0.03
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-14.smt2 , Excluded ,  0.02 ,  0.03
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-10.smt2 , Excluded ,  0.01 ,  0.02
 QF_LRA/sal/windowreal/windowreal-no_t_deadlock-20.smt2 , Excluded ,  0.04 ,  0.04
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-17.smt2 , Excluded ,  0.04 ,  0.02
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-17.smt2 , Excluded ,  0.02 ,  0.03
 QF_LRA/sal/windowreal/windowreal-no_t_deadlock-15.smt2 , Excluded ,  0.03 ,  0.02
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-12.smt2 , Excluded ,  0.03 ,  0.02
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-12.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/spider_benchmarks/fs_init_no_op_accs.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/current_frame.induction.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/spider_benchmarks/op_seen_more1.induction.smt2 , Excluded ,  0.03 ,  0.02
-QF_LRA/spider_benchmarks/fs_no_op_accs.induction.smt2 , Excluded ,  0.03 ,  0.03
+QF_LRA/spider_benchmarks/op_seen_more1.induction.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/spider_benchmarks/fs_no_op_accs.induction.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/spider_benchmarks/op_seen_less2.induction.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/spider_benchmarks/pd_no_op_accs.induction.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/spider_benchmarks/pd_no_op_accs.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0015.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0016.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/latendresse/ecoliMILPglycerolYices3-70000.smt2 , Excluded ,   ,  
@@ -1170,28 +1170,28 @@ QF_LRA/latendresse/ecoliMILPglycerolYices3-50000.smt2 , Excluded ,   ,
 QF_LRA/latendresse/ecoliMILPglycerolYices3-80000.smt2 , Excluded ,   ,  
 QF_LRA/latendresse/ecoliMILPglycerolYices3-90000.smt2 , Excluded ,   ,  
 QF_LRA/latendresse/ecoliMILPglycerolYices3-60000.smt2 , Excluded ,   ,  
-QF_LRA/DTP-Scheduling/constraints-tempo-width-40.smt2 , 9.54 ,  4.76 ,  3.60
-QF_LRA/DTP-Scheduling/constraints-tempo-width-50.smt2 , 18.41 ,  15.26 ,  21.59
-QF_LRA/DTP-Scheduling/constraints-tempo-depth-20.smt2 , 0.08 ,  0.01 ,  0.02
-QF_LRA/DTP-Scheduling/constraints-tempo-width-30.smt2 , 4.20 ,  1.71 ,  1.27
-QF_LRA/DTP-Scheduling/constraints-tempo-width-70.smt2 , 54.05 ,  45.64 ,  36.95
-QF_LRA/DTP-Scheduling/constraints-tempo-depth-30.smt2 , 0.12 ,  0.02 ,  0.02
-QF_LRA/DTP-Scheduling/constraints-tempo-width-20.smt2 , 1.50 ,  0.30 ,  0.31
-QF_LRA/DTP-Scheduling/constraints-tempo-depth-40.smt2 , 0.18 ,  0.03 ,  0.02
-QF_LRA/DTP-Scheduling/constraints-tempo-width-60.smt2 , 32.88 ,  21.36 ,  21.08
-QF_LRA/DTP-Scheduling/constraints-tempo-width-10.smt2 , 0.16 ,  0.02 ,  0.04
-QF_LRA/DTP-Scheduling/constraints-tempo-depth-50.smt2 , 0.27 ,  0.04 ,  0.05
-QF_LRA/DTP-Scheduling/constraints-tempo-depth-10.smt2 , 0.03 ,  0.01 ,  0.00
+QF_LRA/DTP-Scheduling/constraints-tempo-width-40.smt2 , 9.54 ,  3.06 ,  2.91
+QF_LRA/DTP-Scheduling/constraints-tempo-width-50.smt2 , 18.41 ,  9.70 ,  10.01
+QF_LRA/DTP-Scheduling/constraints-tempo-depth-20.smt2 , 0.08 ,  0.00 ,  0.00
+QF_LRA/DTP-Scheduling/constraints-tempo-width-30.smt2 , 4.20 ,  1.14 ,  1.30
+QF_LRA/DTP-Scheduling/constraints-tempo-width-70.smt2 , 54.05 ,  28.48 ,  27.94
+QF_LRA/DTP-Scheduling/constraints-tempo-depth-30.smt2 , 0.12 ,  0.01 ,  0.02
+QF_LRA/DTP-Scheduling/constraints-tempo-width-20.smt2 , 1.50 ,  0.28 ,  0.29
+QF_LRA/DTP-Scheduling/constraints-tempo-depth-40.smt2 , 0.18 ,  0.02 ,  0.02
+QF_LRA/DTP-Scheduling/constraints-tempo-width-60.smt2 , 32.88 ,  12.86 ,  14.36
+QF_LRA/DTP-Scheduling/constraints-tempo-width-10.smt2 , 0.16 ,  0.03 ,  0.02
+QF_LRA/DTP-Scheduling/constraints-tempo-depth-50.smt2 , 0.27 ,  0.04 ,  0.04
+QF_LRA/DTP-Scheduling/constraints-tempo-depth-10.smt2 , 0.03 ,  0.00 ,  0.00
 QF_LRA/sal/windowreal/windowreal-no_t_deadlock-1.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-4.smt2 , Excluded ,  0.00 ,  0.01
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-3.smt2 , Excluded ,  0.01 ,  0.00
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-5.smt2 , Excluded ,  0.00 ,  0.01
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-8.smt2 , Excluded ,  0.02 ,  0.01
-QF_LRA/sal/windowreal/windowreal-no_t_deadlock-7.smt2 , Excluded ,  0.01 ,  0.02
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-4.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-3.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-5.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-8.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/sal/windowreal/windowreal-no_t_deadlock-7.smt2 , Excluded ,  0.01 ,  0.01
 QF_LRA/sal/windowreal/windowreal-no_t_deadlock-6.smt2 , Excluded ,  0.01 ,  0.00
 QF_LRA/sal/windowreal/windowreal-no_t_deadlock-2.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/windowreal/windowreal-no_t_deadlock-9.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/spider_benchmarks/fs_frame_gap.induction.smt2 , Excluded ,  0.02 ,  0.03
+QF_LRA/spider_benchmarks/fs_frame_gap.induction.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/spider_benchmarks/sc_init_frame_gap.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/good_frame_update.base.smt2 , Excluded ,  0.01 ,  0.01
 QF_LRA/latendresse/ecoliMILPglycerolYices3-5000.smt2 , Excluded ,   ,  
@@ -1199,24 +1199,24 @@ QF_LRA/DTP-Scheduling/constraints-tempo-depth-9.smt2 , 0.04 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-depth-4.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-depth-3.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-depth-7.smt2 , 0.02 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tempo-width-9.smt2 , 0.15 ,  0.02 ,  0.03
+QF_LRA/DTP-Scheduling/constraints-tempo-width-9.smt2 , 0.15 ,  0.02 ,  0.02
 QF_LRA/DTP-Scheduling/constraints-tempo-width-8.smt2 , 0.10 ,  0.02 ,  0.02
 QF_LRA/DTP-Scheduling/constraints-tempo-width-1.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tempo-width-5.smt2 , 0.03 ,  0.00 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-tempo-width-5.smt2 , 0.03 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-depth-6.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-depth-8.smt2 , 0.02 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-width-4.smt2 , 0.02 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-width-3.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tempo-width-6.smt2 , 0.05 ,  0.01 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-tempo-width-6.smt2 , 0.05 ,  0.01 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-depth-5.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-tempo-depth-2.smt2 , 0.01 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-tempo-width-7.smt2 , 0.09 ,  0.01 ,  0.02
+QF_LRA/DTP-Scheduling/constraints-tempo-width-7.smt2 , 0.09 ,  0.01 ,  0.01
 QF_LRA/DTP-Scheduling/constraints-tempo-width-2.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/bad_echos_ascend.base.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/spider_benchmarks/no_op_accs.induction.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/spider_benchmarks/no_op_accs.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/frame_prop.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/pd_init_op_accs.base.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/spider_benchmarks/mode_cntrl.induction.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/spider_benchmarks/mode_cntrl.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/meti-tarski/CMOS/CMOS-opamp-chunk-0012.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/CMOS/CMOS-opamp-chunk-0013.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/CMOS/CMOS-opamp-chunk-0015.smt2 , 0.00 ,  0.00 ,  0.00
@@ -1229,20 +1229,20 @@ QF_LRA/meti-tarski/CMOS/CMOS-opamp-chunk-0024.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/latendresse/ecoliFBAyicesTest-15875-16.smt2 , 1.25 ,   ,  
 QF_LRA/latendresse/ecoliFBAyicesTest-63875-64.smt2 , 1.26 ,   ,  
 QF_LRA/latendresse/ecoliFBAyicesTest-31875-32.smt2 , 1.24 ,   ,  
-QF_LRA/uart/uart-20-with-lemmas.induction.cvc.smt2 , Excluded ,  0.33 ,  0.38
+QF_LRA/uart/uart-20-with-lemmas.induction.cvc.smt2 , Excluded ,  0.30 ,  0.31
 QF_LRA/keymaera/bouncing-ball-simple-node1628.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/bouncing-ball-simple-node1629.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/reint_to_least.base.smt2 , Excluded ,  0.01 ,  0.01
 QF_LRA/spider_benchmarks/fs_not_sc_seen.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/fs_window.induction.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/spider_benchmarks/pd_not_sc_seen.base.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/spider_benchmarks/pd_finish.induction.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/spider_benchmarks/pd_finish.induction.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/pd_not_fs_seen.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/op_seen_more1.base.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/spider_benchmarks/fs_no_op_accs.base.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/spider_benchmarks/op_seen_less2.base.smt2 , Excluded ,  0.04 ,  0.04
-QF_LRA/spider_benchmarks/current_frame.base.smt2 , Excluded ,  0.02 ,  0.03
-QF_LRA/spider_benchmarks/pd_no_op_accs.base.smt2 , Excluded ,  0.00 ,  0.01
+QF_LRA/spider_benchmarks/op_seen_less2.base.smt2 , Excluded ,  0.04 ,  0.03
+QF_LRA/spider_benchmarks/current_frame.base.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/spider_benchmarks/pd_no_op_accs.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/meti-tarski/asin/8/asin-8-chunk-0032.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/asin/8/asin-8-chunk-0034.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/meti-tarski/asin/8/asin-8-chunk-0030.smt2 , 0.00 ,  0.00 ,  0.00
@@ -1250,29 +1250,29 @@ QF_LRA/latendresse/ecoliFBAyicesTest-1875-2.smt2 , 1.24 ,   ,
 QF_LRA/latendresse/ecoliFBAyicesTest-3875-4.smt2 , 1.24 ,   ,  
 QF_LRA/DTP-Scheduling/constraints-cooking04.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking05.smt2 , 0.01 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-cooking13.smt2 , 0.01 ,  0.01 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-cooking13.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking21.smt2 , 0.04 ,  0.01 ,  0.01
-QF_LRA/DTP-Scheduling/constraints-cooking18.smt2 , 0.04 ,  0.01 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-cooking18.smt2 , 0.04 ,  0.00 ,  0.01
 QF_LRA/DTP-Scheduling/constraints-cooking10.smt2 , 0.02 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking08.smt2 , 0.02 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking01.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking19.smt2 , 0.05 ,  0.01 ,  0.01
 QF_LRA/DTP-Scheduling/constraints-cooking06.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-cooking20.smt2 , 0.04 ,  0.01 ,  0.01
-QF_LRA/DTP-Scheduling/constraints-cooking17.smt2 , 0.04 ,  0.00 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-cooking20.smt2 , 0.04 ,  0.00 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-cooking17.smt2 , 0.04 ,  0.01 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking02.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking03.smt2 , 0.01 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-cooking11.smt2 , 0.01 ,  0.01 ,  0.00
+QF_LRA/DTP-Scheduling/constraints-cooking11.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking16.smt2 , 0.03 ,  0.01 ,  0.01
 QF_LRA/DTP-Scheduling/constraints-cooking14.smt2 , 0.03 ,  0.00 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-cooking22.smt2 , 0.04 ,  0.01 ,  0.01
+QF_LRA/DTP-Scheduling/constraints-cooking22.smt2 , 0.04 ,  0.01 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking09.smt2 , 0.02 ,  0.00 ,  0.00
 QF_LRA/DTP-Scheduling/constraints-cooking15.smt2 , 0.04 ,  0.00 ,  0.01
-QF_LRA/DTP-Scheduling/constraints-cooking12.smt2 , 0.02 ,  0.01 ,  0.00
-QF_LRA/DTP-Scheduling/constraints-cooking23.smt2 , 0.04 ,  0.01 ,  0.02
+QF_LRA/DTP-Scheduling/constraints-cooking12.smt2 , 0.02 ,  0.00 ,  0.00
+QF_LRA/DTP-Scheduling/constraints-cooking23.smt2 , 0.04 ,  0.01 ,  0.01
 QF_LRA/DTP-Scheduling/constraints-cooking07.smt2 , 0.01 ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/fs_frame_gap.base.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/spider_benchmarks/synched.induction.smt2 , Excluded ,  0.03 ,  0.02
+QF_LRA/spider_benchmarks/synched.induction.smt2 , Excluded ,  0.03 ,  0.03
 QF_LRA/keymaera/bouncing-ball-inv-node1886.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/bouncing-ball-inv-node1935.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/tropical-matrix/constraint-1007893.smt2 , Excluded ,   ,  
@@ -1281,7 +1281,7 @@ QF_LRA/keymaera/simple_example_2-node2074.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/simple_example_2-node2406.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/division_dijkstra-node701.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/frame_prop.base.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/spider_benchmarks/no_op_accs.base.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/spider_benchmarks/no_op_accs.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/spider_benchmarks/mode_cntrl.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/latendresse/ecoliFBAyicesTest-750.smt2 , 1.24 ,   ,  
 QF_LRA/latendresse/ecoliFBAyicesTest-500.smt2 , 1.25 ,   ,  
@@ -1299,42 +1299,42 @@ QF_LRA/keymaera/square_root_zuse-node902.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/sal/windowreal/windowreal-safe2-2.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/windowreal/windowreal-safe2-4.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/windowreal/windowreal-safe2-1.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/windowreal/windowreal-safe2-3.smt2 , Excluded ,  0.00 ,  0.01
-QF_LRA/spider_benchmarks/fs_window.base.smt2 , Excluded ,  0.03 ,  0.02
+QF_LRA/sal/windowreal/windowreal-safe2-3.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/spider_benchmarks/fs_window.base.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/spider_benchmarks/pd_finish.base.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/latendresse/shewanella-compact2b.smt2 , Excluded ,   ,  
 QF_LRA/sal/windowreal/windowreal-safe-2.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/windowreal/windowreal-safe-1.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/windowreal/windowreal-safe-3.smt2 , Excluded ,  0.01 ,  0.00
-QF_LRA/sal/windowreal/windowreal-safe-4.smt2 , Excluded ,  0.00 ,  0.01
-QF_LRA/sal/gasburner/gasburner-prop3-20.smt2 , Excluded ,  0.03 ,  0.04
-QF_LRA/sal/gasburner/gasburner-prop3-19.smt2 , Excluded ,  0.03 ,  0.03
-QF_LRA/sal/gasburner/gasburner-prop3-10.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/sal/windowreal/windowreal-safe-3.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/sal/windowreal/windowreal-safe-4.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/sal/gasburner/gasburner-prop3-20.smt2 , Excluded ,  0.02 ,  0.03
+QF_LRA/sal/gasburner/gasburner-prop3-19.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/sal/gasburner/gasburner-prop3-10.smt2 , Excluded ,  0.00 ,  0.01
 QF_LRA/sal/gasburner/gasburner-prop3-16.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sal/gasburner/gasburner-prop3-18.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/sal/gasburner/gasburner-prop3-18.smt2 , Excluded ,  0.02 ,  0.01
 QF_LRA/sal/gasburner/gasburner-prop3-13.smt2 , Excluded ,  0.01 ,  0.02
-QF_LRA/sal/gasburner/gasburner-prop3-12.smt2 , Excluded ,  0.01 ,  0.00
-QF_LRA/sal/gasburner/gasburner-prop3-11.smt2 , Excluded ,  0.02 ,  0.01
-QF_LRA/sal/gasburner/gasburner-prop3-17.smt2 , Excluded ,  0.03 ,  0.02
-QF_LRA/sal/gasburner/gasburner-prop3-14.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sal/gasburner/gasburner-prop3-15.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/sal/gasburner/gasburner-prop3-12.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/sal/gasburner/gasburner-prop3-11.smt2 , Excluded ,  0.00 ,  0.01
+QF_LRA/sal/gasburner/gasburner-prop3-17.smt2 , Excluded ,  0.03 ,  0.03
+QF_LRA/sal/gasburner/gasburner-prop3-14.smt2 , Excluded ,  0.01 ,  0.02
+QF_LRA/sal/gasburner/gasburner-prop3-15.smt2 , Excluded ,  0.02 ,  0.01
 QF_LRA/latendresse/shewanella-compact2.smt2 , Excluded ,   ,  
 QF_LRA/sal/gasburner/gasburner-prop3-1.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/gasburner/gasburner-prop3-9.smt2 , Excluded ,  0.01 ,  0.01
-QF_LRA/sal/gasburner/gasburner-prop3-5.smt2 , Excluded ,  0.00 ,  0.01
+QF_LRA/sal/gasburner/gasburner-prop3-9.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/sal/gasburner/gasburner-prop3-5.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/gasburner/gasburner-prop3-3.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/gasburner/gasburner-prop3-6.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/gasburner/gasburner-prop3-8.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/gasburner/gasburner-prop3-4.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/gasburner/gasburner-prop3-7.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/sal/gasburner/gasburner-prop3-7.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/gasburner/gasburner-prop3-2.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/spider_benchmarks/synched.base.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sal/carpark/Carpark2-ausgabe-7.smt2 , Excluded ,  0.02 ,  0.03
-QF_LRA/sal/carpark/Carpark2-ausgabe-4.smt2 , Excluded ,  0.01 ,  0.02
+QF_LRA/spider_benchmarks/synched.base.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/sal/carpark/Carpark2-ausgabe-7.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/sal/carpark/Carpark2-ausgabe-4.smt2 , Excluded ,  0.01 ,  0.01
 QF_LRA/sal/carpark/Carpark2-ausgabe-5.smt2 , Excluded ,  0.01 ,  0.02
 QF_LRA/sal/carpark/Carpark2-ausgabe-1.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/carpark/Carpark2-ausgabe-3.smt2 , Excluded ,  0.01 ,  0.01
-QF_LRA/sal/carpark/Carpark2-ausgabe-8.smt2 , Excluded ,  0.04 ,  0.04
+QF_LRA/sal/carpark/Carpark2-ausgabe-3.smt2 , Excluded ,  0.00 ,  0.01
+QF_LRA/sal/carpark/Carpark2-ausgabe-8.smt2 , Excluded ,  0.03 ,  0.04
 QF_LRA/sal/carpark/Carpark2-ausgabe-2.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/carpark/Carpark2-ausgabe-6.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/keymaera/water_tank-node23593.smt2 , 0.00 ,  0.00 ,  0.00
@@ -1343,264 +1343,264 @@ QF_LRA/keymaera/water_tank-node21443.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/water_tank-node28718.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/water_tank-node15243.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/water_tank-node28604.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/sal/pursuit/pursuit-safety-15.smt2 , Excluded ,  0.09 ,  0.09
-QF_LRA/sal/pursuit/pursuit-safety-12.smt2 , Excluded ,  0.06 ,  0.07
-QF_LRA/sal/pursuit/pursuit-safety-14.smt2 , Excluded ,  0.08 ,  0.07
-QF_LRA/sal/pursuit/pursuit-safety-11.smt2 , Excluded ,  0.06 ,  0.05
-QF_LRA/sal/pursuit/pursuit-safety-20.smt2 , Excluded ,  0.18 ,  0.20
-QF_LRA/sal/pursuit/pursuit-safety-18.smt2 , Excluded ,  0.14 ,  0.13
-QF_LRA/sal/pursuit/pursuit-safety-10.smt2 , Excluded ,  0.04 ,  0.05
-QF_LRA/sal/pursuit/pursuit-safety-13.smt2 , Excluded ,  0.08 ,  0.07
-QF_LRA/sal/pursuit/pursuit-safety-16.smt2 , Excluded ,  0.07 ,  0.07
-QF_LRA/sal/pursuit/pursuit-safety-17.smt2 , Excluded ,  0.08 ,  0.07
-QF_LRA/sal/pursuit/pursuit-safety-19.smt2 , Excluded ,  0.08 ,  0.09
+QF_LRA/sal/pursuit/pursuit-safety-15.smt2 , Excluded ,  0.07 ,  0.07
+QF_LRA/sal/pursuit/pursuit-safety-12.smt2 , Excluded ,  0.06 ,  0.06
+QF_LRA/sal/pursuit/pursuit-safety-14.smt2 , Excluded ,  0.07 ,  0.07
+QF_LRA/sal/pursuit/pursuit-safety-11.smt2 , Excluded ,  0.04 ,  0.05
+QF_LRA/sal/pursuit/pursuit-safety-20.smt2 , Excluded ,  0.17 ,  0.17
+QF_LRA/sal/pursuit/pursuit-safety-18.smt2 , Excluded ,  0.12 ,  0.12
+QF_LRA/sal/pursuit/pursuit-safety-10.smt2 , Excluded ,  0.04 ,  0.04
+QF_LRA/sal/pursuit/pursuit-safety-13.smt2 , Excluded ,  0.06 ,  0.06
+QF_LRA/sal/pursuit/pursuit-safety-16.smt2 , Excluded ,  0.06 ,  0.06
+QF_LRA/sal/pursuit/pursuit-safety-17.smt2 , Excluded ,  0.06 ,  0.07
+QF_LRA/sal/pursuit/pursuit-safety-19.smt2 , Excluded ,  0.06 ,  0.06
 QF_LRA/keymaera/water_tank-node4029.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/keymaera/water_tank-node5964.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/sal/pursuit/pursuit-safety-9.smt2 , Excluded ,  0.06 ,  0.06
 QF_LRA/sal/pursuit/pursuit-safety-5.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sal/pursuit/pursuit-safety-3.smt2 , Excluded ,  0.01 ,  0.01
-QF_LRA/sal/pursuit/pursuit-safety-6.smt2 , Excluded ,  0.04 ,  0.04
+QF_LRA/sal/pursuit/pursuit-safety-3.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/sal/pursuit/pursuit-safety-6.smt2 , Excluded ,  0.03 ,  0.03
 QF_LRA/sal/pursuit/pursuit-safety-2.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/pursuit/pursuit-safety-8.smt2 , Excluded ,  0.05 ,  0.05
+QF_LRA/sal/pursuit/pursuit-safety-8.smt2 , Excluded ,  0.04 ,  0.04
 QF_LRA/sal/pursuit/pursuit-safety-7.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/sal/pursuit/pursuit-safety-1.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/pursuit/pursuit-safety-4.smt2 , Excluded ,  0.01 ,  0.01
-QF_LRA/uart/uart-27.induction.cvc.smt2 , Excluded ,  2.34 ,  2.17
-QF_LRA/uart/uart-19.induction.cvc.smt2 , Excluded ,  0.94 ,  0.88
-QF_LRA/uart/uart-14.induction.cvc.smt2 , Excluded ,  0.20 ,  0.23
-QF_LRA/uart/uart-17.induction.cvc.smt2 , Excluded ,  0.34 ,  0.32
-QF_LRA/uart/uart-25.induction.cvc.smt2 , Excluded ,  1.54 ,  1.43
-QF_LRA/uart/uart-13.induction.cvc.smt2 , Excluded ,  0.17 ,  0.15
-QF_LRA/uart/uart-38.induction.cvc.smt2 , Excluded ,  3.60 ,  3.14
-QF_LRA/uart/uart-33.induction.cvc.smt2 , Excluded ,  3.42 ,  2.93
-QF_LRA/uart/uart-40.induction.cvc.smt2 , Excluded ,  3.02 ,  2.40
-QF_LRA/uart/uart-35.induction.cvc.smt2 , Excluded ,  2.56 ,  2.52
-QF_LRA/uart/uart-32.induction.cvc.smt2 , Excluded ,  1.60 ,  1.62
-QF_LRA/uart/uart-37.induction.cvc.smt2 , Excluded ,  3.08 ,  2.58
-QF_LRA/uart/uart-12.induction.cvc.smt2 , Excluded ,  0.14 ,  0.13
-QF_LRA/uart/uart-24.induction.cvc.smt2 , Excluded ,  1.12 ,  1.06
-QF_LRA/uart/uart-26.induction.cvc.smt2 , Excluded ,  0.91 ,  0.76
-QF_LRA/uart/uart-22.induction.cvc.smt2 , Excluded ,  0.70 ,  0.64
-QF_LRA/uart/uart-15.induction.cvc.smt2 , Excluded ,  0.16 ,  0.14
-QF_LRA/uart/uart-16.induction.cvc.smt2 , Excluded ,  0.40 ,  0.33
-QF_LRA/uart/uart-28.induction.cvc.smt2 , Excluded ,  1.89 ,  1.72
-QF_LRA/uart/uart-29.induction.cvc.smt2 , Excluded ,  1.33 ,  1.54
-QF_LRA/uart/uart-20.induction.cvc.smt2 , Excluded ,  0.72 ,  0.70
-QF_LRA/uart/uart-30.induction.cvc.smt2 , Excluded ,  1.28 ,  1.24
-QF_LRA/uart/uart-36.induction.cvc.smt2 , Excluded ,  2.73 ,  2.42
-QF_LRA/uart/uart-10.induction.cvc.smt2 , Excluded ,  0.10 ,  0.12
-QF_LRA/uart/uart-11.induction.cvc.smt2 , Excluded ,  0.09 ,  0.07
-QF_LRA/uart/uart-31.induction.cvc.smt2 , Excluded ,  3.06 ,  2.68
-QF_LRA/uart/uart-21.induction.cvc.smt2 , Excluded ,  0.72 ,  0.67
-QF_LRA/uart/uart-34.induction.cvc.smt2 , Excluded ,  3.92 ,  3.67
-QF_LRA/uart/uart-39.induction.cvc.smt2 , Excluded ,  2.90 ,  3.37
-QF_LRA/uart/uart-18.induction.cvc.smt2 , Excluded ,  0.63 ,  0.58
-QF_LRA/uart/uart-23.induction.cvc.smt2 , Excluded ,  0.96 ,  0.87
-QF_LRA/TM/p2-driverlogNumeric_s10.smt2 , Excluded ,  0.21 ,  0.20
-QF_LRA/uart/uart-9.induction.cvc.smt2 , Excluded ,  0.06 ,  0.07
-QF_LRA/uart/uart-5.induction.cvc.smt2 , Excluded ,  0.04 ,  0.03
-QF_LRA/uart/uart-8.induction.cvc.smt2 , Excluded ,  0.06 ,  0.05
+QF_LRA/uart/uart-27.induction.cvc.smt2 , Excluded ,  1.78 ,  1.80
+QF_LRA/uart/uart-19.induction.cvc.smt2 , Excluded ,  0.82 ,  0.84
+QF_LRA/uart/uart-14.induction.cvc.smt2 , Excluded ,  0.19 ,  0.19
+QF_LRA/uart/uart-17.induction.cvc.smt2 , Excluded ,  0.29 ,  0.30
+QF_LRA/uart/uart-25.induction.cvc.smt2 , Excluded ,  1.27 ,  1.28
+QF_LRA/uart/uart-13.induction.cvc.smt2 , Excluded ,  0.15 ,  0.14
+QF_LRA/uart/uart-38.induction.cvc.smt2 , Excluded ,  2.98 ,  2.98
+QF_LRA/uart/uart-33.induction.cvc.smt2 , Excluded ,  2.58 ,  2.56
+QF_LRA/uart/uart-40.induction.cvc.smt2 , Excluded ,  2.33 ,  2.34
+QF_LRA/uart/uart-35.induction.cvc.smt2 , Excluded ,  2.60 ,  2.48
+QF_LRA/uart/uart-32.induction.cvc.smt2 , Excluded ,  1.44 ,  1.40
+QF_LRA/uart/uart-37.induction.cvc.smt2 , Excluded ,  2.42 ,  2.46
+QF_LRA/uart/uart-12.induction.cvc.smt2 , Excluded ,  0.12 ,  0.12
+QF_LRA/uart/uart-24.induction.cvc.smt2 , Excluded ,  1.00 ,  1.00
+QF_LRA/uart/uart-26.induction.cvc.smt2 , Excluded ,  0.76 ,  0.75
+QF_LRA/uart/uart-22.induction.cvc.smt2 , Excluded ,  0.60 ,  0.58
+QF_LRA/uart/uart-15.induction.cvc.smt2 , Excluded ,  0.12 ,  0.13
+QF_LRA/uart/uart-16.induction.cvc.smt2 , Excluded ,  0.33 ,  0.33
+QF_LRA/uart/uart-28.induction.cvc.smt2 , Excluded ,  1.69 ,  1.65
+QF_LRA/uart/uart-29.induction.cvc.smt2 , Excluded ,  1.32 ,  1.25
+QF_LRA/uart/uart-20.induction.cvc.smt2 , Excluded ,  0.60 ,  0.60
+QF_LRA/uart/uart-30.induction.cvc.smt2 , Excluded ,  1.27 ,  1.20
+QF_LRA/uart/uart-36.induction.cvc.smt2 , Excluded ,  2.48 ,  2.29
+QF_LRA/uart/uart-10.induction.cvc.smt2 , Excluded ,  0.09 ,  0.09
+QF_LRA/uart/uart-11.induction.cvc.smt2 , Excluded ,  0.08 ,  0.08
+QF_LRA/uart/uart-31.induction.cvc.smt2 , Excluded ,  2.41 ,  2.51
+QF_LRA/uart/uart-21.induction.cvc.smt2 , Excluded ,  0.57 ,  0.54
+QF_LRA/uart/uart-34.induction.cvc.smt2 , Excluded ,  3.24 ,  2.64
+QF_LRA/uart/uart-39.induction.cvc.smt2 , Excluded ,  2.40 ,  2.46
+QF_LRA/uart/uart-18.induction.cvc.smt2 , Excluded ,  0.50 ,  0.53
+QF_LRA/uart/uart-23.induction.cvc.smt2 , Excluded ,  0.81 ,  0.81
+QF_LRA/TM/p2-driverlogNumeric_s10.smt2 , Excluded ,  0.23 ,  0.18
+QF_LRA/uart/uart-9.induction.cvc.smt2 , Excluded ,  0.08 ,  0.07
+QF_LRA/uart/uart-5.induction.cvc.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/uart/uart-8.induction.cvc.smt2 , Excluded ,  0.05 ,  0.04
 QF_LRA/uart/uart-7.induction.cvc.smt2 , Excluded ,  0.04 ,  0.04
-QF_LRA/uart/uart-6.induction.cvc.smt2 , Excluded ,  0.03 ,  0.02
-QF_LRA/TM/p6-driverlogNumeric_s5.smt2 , Excluded ,  0.05 ,  0.06
-QF_LRA/TM/p5-driverlogNumeric_s9.smt2 , Excluded ,  0.20 ,  0.22
-QF_LRA/TM/p5-driverlogNumeric_s8.smt2 , Excluded ,  0.50 ,  0.46
-QF_LRA/TM/p7-driverlogNumeric_s8.smt2 , Excluded ,  11.24 ,  12.62
-QF_LRA/TM/p3-driverlogNumeric_s8.smt2 , Excluded ,  0.29 ,  0.26
+QF_LRA/uart/uart-6.induction.cvc.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/TM/p6-driverlogNumeric_s5.smt2 , Excluded ,  0.05 ,  0.05
+QF_LRA/TM/p5-driverlogNumeric_s9.smt2 , Excluded ,  0.20 ,  0.21
+QF_LRA/TM/p5-driverlogNumeric_s8.smt2 , Excluded ,  0.45 ,  0.46
+QF_LRA/TM/p7-driverlogNumeric_s8.smt2 , Excluded ,  9.99 ,  9.82
+QF_LRA/TM/p3-driverlogNumeric_s8.smt2 , Excluded ,  0.26 ,  0.25
 QF_LRA/TM/p4-driverlogNumeric_s8.smt2 , Excluded ,  0.32 ,  0.31
-QF_LRA/TM/p7-driverlogNumeric_s7.smt2 , Excluded ,  1.91 ,  2.18
+QF_LRA/TM/p7-driverlogNumeric_s7.smt2 , Excluded ,  1.69 ,  1.81
 QF_LRA/sal/carpark/Carpark2-t1-1.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/carpark/Carpark2-t1-4.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sal/carpark/Carpark2-t1-2.smt2 , Excluded ,  0.01 ,  0.00
-QF_LRA/sal/carpark/Carpark2-t1-3.smt2 , Excluded ,  0.00 ,  0.01
-QF_LRA/TM/p-driverlogNumeric_s7.smt2 , Excluded ,  0.03 ,  0.03
-QF_LRA/sc/sc-22.induction3.cvc.smt2 , Excluded ,  1.63 ,  1.50
-QF_LRA/sc/sc-39.induction2.cvc.smt2 , Excluded ,  11.11 ,  10.45
-QF_LRA/sc/sc-25.induction2.cvc.smt2 , Excluded ,  2.54 ,  2.07
-QF_LRA/sc/sc-17.induction3.cvc.smt2 , Excluded ,  0.48 ,  0.47
-QF_LRA/sc/sc-26.induction3.cvc.smt2 , Excluded ,  1.90 ,  1.91
-QF_LRA/sc/sc-26.induction2.cvc.smt2 , Excluded ,  1.75 ,  1.42
-QF_LRA/sc/sc-36.induction3.cvc.smt2 , Excluded ,  11.91 ,  12.29
-QF_LRA/sc/sc-24.induction3.cvc.smt2 , Excluded ,  1.81 ,  1.89
-QF_LRA/sc/sc-18.induction3.cvc.smt2 , Excluded ,  0.75 ,  0.75
-QF_LRA/sc/sc-14.induction3.cvc.smt2 , Excluded ,  0.46 ,  0.50
-QF_LRA/sc/sc-25.induction3.cvc.smt2 , Excluded ,  1.88 ,  1.65
-QF_LRA/sc/sc-35.induction3.cvc.smt2 , Excluded ,  8.70 ,  7.98
-QF_LRA/sc/sc-37.induction2.cvc.smt2 , Excluded ,  9.51 ,  8.09
-QF_LRA/sc/sc-38.induction2.cvc.smt2 , Excluded ,  6.46 ,  4.86
-QF_LRA/sc/sc-14.induction2.cvc.smt2 , Excluded ,  0.08 ,  0.09
-QF_LRA/sc/sc-18.induction2.cvc.smt2 , Excluded ,  0.34 ,  0.27
-QF_LRA/sc/sc-20.induction2.cvc.smt2 , Excluded ,  0.80 ,  0.72
-QF_LRA/sc/sc-29.induction2.cvc.smt2 , Excluded ,  2.53 ,  2.87
-QF_LRA/sc/sc-10.induction2.cvc.smt2 , Excluded ,  0.16 ,  0.17
-QF_LRA/sc/sc-28.induction2.cvc.smt2 , Excluded ,  1.28 ,  1.25
-QF_LRA/sc/sc-23.induction3.cvc.smt2 , Excluded ,  1.66 ,  1.37
-QF_LRA/sc/sc-13.induction3.cvc.smt2 , Excluded ,  0.15 ,  0.12
-QF_LRA/sc/sc-21.induction2.cvc.smt2 , Excluded ,  0.94 ,  0.75
-QF_LRA/sc/sc-29.induction3.cvc.smt2 , Excluded ,  1.74 ,  1.53
-QF_LRA/sc/sc-27.induction2.cvc.smt2 , Excluded ,  2.62 ,  2.75
-QF_LRA/sc/sc-16.induction2.cvc.smt2 , Excluded ,  0.48 ,  0.43
-QF_LRA/sc/sc-38.induction3.cvc.smt2 , Excluded ,  5.73 ,  4.97
-QF_LRA/sc/sc-11.induction2.cvc.smt2 , Excluded ,  0.24 ,  0.21
-QF_LRA/sc/sc-30.induction2.cvc.smt2 , Excluded ,  2.72 ,  2.72
-QF_LRA/sc/sc-33.induction3.cvc.smt2 , Excluded ,  11.02 ,  9.45
-QF_LRA/sc/sc-37.induction3.cvc.smt2 , Excluded ,  5.09 ,  4.30
-QF_LRA/sc/sc-22.induction2.cvc.smt2 , Excluded ,  1.25 ,  1.22
-QF_LRA/sc/sc-33.induction2.cvc.smt2 , Excluded ,  5.46 ,  5.15
-QF_LRA/sc/sc-19.induction3.cvc.smt2 , Excluded ,  1.15 ,  1.05
-QF_LRA/sc/sc-35.induction2.cvc.smt2 , Excluded ,  5.62 ,  4.95
-QF_LRA/sc/sc-31.induction3.cvc.smt2 , Excluded ,  4.93 ,  4.12
-QF_LRA/sc/sc-15.induction3.cvc.smt2 , Excluded ,  0.32 ,  0.28
-QF_LRA/sc/sc-40.induction3.cvc.smt2 , Excluded ,  7.96 ,  9.10
-QF_LRA/sc/sc-16.induction3.cvc.smt2 , Excluded ,  0.36 ,  0.30
-QF_LRA/sc/sc-34.induction3.cvc.smt2 , Excluded ,  5.91 ,  5.43
-QF_LRA/sc/sc-30.induction3.cvc.smt2 , Excluded ,  3.74 ,  3.14
-QF_LRA/sc/sc-36.induction2.cvc.smt2 , Excluded ,  3.22 ,  2.90
-QF_LRA/sc/sc-20.induction3.cvc.smt2 , Excluded ,  1.08 ,  1.19
-QF_LRA/sc/sc-31.induction2.cvc.smt2 , Excluded ,  3.75 ,  3.66
-QF_LRA/sc/sc-32.induction3.cvc.smt2 , Excluded ,  6.40 ,  5.32
-QF_LRA/sc/sc-12.induction2.cvc.smt2 , Excluded ,  0.09 ,  0.08
-QF_LRA/sc/sc-23.induction2.cvc.smt2 , Excluded ,  0.78 ,  0.74
-QF_LRA/sc/sc-34.induction2.cvc.smt2 , Excluded ,  4.37 ,  3.83
-QF_LRA/sc/sc-28.induction3.cvc.smt2 , Excluded ,  3.05 ,  2.75
-QF_LRA/sc/sc-10.induction3.cvc.smt2 , Excluded ,  0.12 ,  0.11
-QF_LRA/sc/sc-39.induction3.cvc.smt2 , Excluded ,  6.73 ,  5.30
-QF_LRA/sc/sc-24.induction2.cvc.smt2 , Excluded ,  1.74 ,  1.55
-QF_LRA/sc/sc-17.induction2.cvc.smt2 , Excluded ,  0.59 ,  0.62
+QF_LRA/sal/carpark/Carpark2-t1-4.smt2 , Excluded ,  0.02 ,  0.01
+QF_LRA/sal/carpark/Carpark2-t1-2.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/sal/carpark/Carpark2-t1-3.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/TM/p-driverlogNumeric_s7.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/sc/sc-22.induction3.cvc.smt2 , Excluded ,  1.39 ,  1.36
+QF_LRA/sc/sc-39.induction2.cvc.smt2 , Excluded ,  7.03 ,  8.29
+QF_LRA/sc/sc-25.induction2.cvc.smt2 , Excluded ,  2.10 ,  2.02
+QF_LRA/sc/sc-17.induction3.cvc.smt2 , Excluded ,  0.42 ,  0.42
+QF_LRA/sc/sc-26.induction3.cvc.smt2 , Excluded ,  1.64 ,  1.59
+QF_LRA/sc/sc-26.induction2.cvc.smt2 , Excluded ,  1.44 ,  1.43
+QF_LRA/sc/sc-36.induction3.cvc.smt2 , Excluded ,  9.86 ,  11.01
+QF_LRA/sc/sc-24.induction3.cvc.smt2 , Excluded ,  1.70 ,  1.66
+QF_LRA/sc/sc-18.induction3.cvc.smt2 , Excluded ,  0.69 ,  0.68
+QF_LRA/sc/sc-14.induction3.cvc.smt2 , Excluded ,  0.42 ,  0.43
+QF_LRA/sc/sc-25.induction3.cvc.smt2 , Excluded ,  1.58 ,  1.52
+QF_LRA/sc/sc-35.induction3.cvc.smt2 , Excluded ,  6.26 ,  6.10
+QF_LRA/sc/sc-37.induction2.cvc.smt2 , Excluded ,  7.28 ,  6.78
+QF_LRA/sc/sc-38.induction2.cvc.smt2 , Excluded ,  5.06 ,  5.04
+QF_LRA/sc/sc-14.induction2.cvc.smt2 , Excluded ,  0.07 ,  0.07
+QF_LRA/sc/sc-18.induction2.cvc.smt2 , Excluded ,  0.28 ,  0.27
+QF_LRA/sc/sc-20.induction2.cvc.smt2 , Excluded ,  0.68 ,  0.65
+QF_LRA/sc/sc-29.induction2.cvc.smt2 , Excluded ,  2.29 ,  2.50
+QF_LRA/sc/sc-10.induction2.cvc.smt2 , Excluded ,  0.14 ,  0.14
+QF_LRA/sc/sc-28.induction2.cvc.smt2 , Excluded ,  1.05 ,  1.10
+QF_LRA/sc/sc-23.induction3.cvc.smt2 , Excluded ,  1.38 ,  1.36
+QF_LRA/sc/sc-13.induction3.cvc.smt2 , Excluded ,  0.11 ,  0.11
+QF_LRA/sc/sc-21.induction2.cvc.smt2 , Excluded ,  0.77 ,  0.77
+QF_LRA/sc/sc-29.induction3.cvc.smt2 , Excluded ,  1.41 ,  1.48
+QF_LRA/sc/sc-27.induction2.cvc.smt2 , Excluded ,  2.52 ,  2.56
+QF_LRA/sc/sc-16.induction2.cvc.smt2 , Excluded ,  0.43 ,  0.45
+QF_LRA/sc/sc-38.induction3.cvc.smt2 , Excluded ,  4.86 ,  4.92
+QF_LRA/sc/sc-11.induction2.cvc.smt2 , Excluded ,  0.20 ,  0.20
+QF_LRA/sc/sc-30.induction2.cvc.smt2 , Excluded ,  2.19 ,  1.96
+QF_LRA/sc/sc-33.induction3.cvc.smt2 , Excluded ,  7.83 ,  8.16
+QF_LRA/sc/sc-37.induction3.cvc.smt2 , Excluded ,  4.14 ,  4.06
+QF_LRA/sc/sc-22.induction2.cvc.smt2 , Excluded ,  1.04 ,  0.96
+QF_LRA/sc/sc-33.induction2.cvc.smt2 , Excluded ,  4.15 ,  4.18
+QF_LRA/sc/sc-19.induction3.cvc.smt2 , Excluded ,  1.00 ,  1.01
+QF_LRA/sc/sc-35.induction2.cvc.smt2 , Excluded ,  5.10 ,  4.80
+QF_LRA/sc/sc-31.induction3.cvc.smt2 , Excluded ,  3.64 ,  3.68
+QF_LRA/sc/sc-15.induction3.cvc.smt2 , Excluded ,  0.27 ,  0.26
+QF_LRA/sc/sc-40.induction3.cvc.smt2 , Excluded ,  7.31 ,  7.16
+QF_LRA/sc/sc-16.induction3.cvc.smt2 , Excluded ,  0.31 ,  0.28
+QF_LRA/sc/sc-34.induction3.cvc.smt2 , Excluded ,  4.68 ,  4.29
+QF_LRA/sc/sc-30.induction3.cvc.smt2 , Excluded ,  2.59 ,  3.08
+QF_LRA/sc/sc-36.induction2.cvc.smt2 , Excluded ,  2.55 ,  2.55
+QF_LRA/sc/sc-20.induction3.cvc.smt2 , Excluded ,  0.95 ,  0.92
+QF_LRA/sc/sc-31.induction2.cvc.smt2 , Excluded ,  3.18 ,  3.06
+QF_LRA/sc/sc-32.induction3.cvc.smt2 , Excluded ,  4.18 ,  4.80
+QF_LRA/sc/sc-12.induction2.cvc.smt2 , Excluded ,  0.07 ,  0.08
+QF_LRA/sc/sc-23.induction2.cvc.smt2 , Excluded ,  0.73 ,  0.69
+QF_LRA/sc/sc-34.induction2.cvc.smt2 , Excluded ,  3.59 ,  2.96
+QF_LRA/sc/sc-28.induction3.cvc.smt2 , Excluded ,  2.72 ,  2.71
+QF_LRA/sc/sc-10.induction3.cvc.smt2 , Excluded ,  0.10 ,  0.10
+QF_LRA/sc/sc-39.induction3.cvc.smt2 , Excluded ,  4.78 ,  4.00
+QF_LRA/sc/sc-24.induction2.cvc.smt2 , Excluded ,  1.20 ,  1.40
+QF_LRA/sc/sc-17.induction2.cvc.smt2 , Excluded ,  0.55 ,  0.58
 QF_LRA/sc/sc-11.induction3.cvc.smt2 , Excluded ,  0.12 ,  0.12
-QF_LRA/sc/sc-32.induction2.cvc.smt2 , Excluded ,  5.80 ,  5.22
-QF_LRA/sc/sc-12.induction3.cvc.smt2 , Excluded ,  0.16 ,  0.14
-QF_LRA/sc/sc-21.induction3.cvc.smt2 , Excluded ,  0.83 ,  0.84
-QF_LRA/sc/sc-13.induction2.cvc.smt2 , Excluded ,  0.24 ,  0.27
-QF_LRA/sc/sc-15.induction2.cvc.smt2 , Excluded ,  0.21 ,  0.22
-QF_LRA/sc/sc-40.induction2.cvc.smt2 , Excluded ,  4.53 ,  3.86
-QF_LRA/sc/sc-27.induction3.cvc.smt2 , Excluded ,  2.48 ,  2.41
-QF_LRA/sc/sc-19.induction2.cvc.smt2 , Excluded ,  0.54 ,  0.50
+QF_LRA/sc/sc-32.induction2.cvc.smt2 , Excluded ,  4.57 ,  4.35
+QF_LRA/sc/sc-12.induction3.cvc.smt2 , Excluded ,  0.14 ,  0.14
+QF_LRA/sc/sc-21.induction3.cvc.smt2 , Excluded ,  0.74 ,  0.77
+QF_LRA/sc/sc-13.induction2.cvc.smt2 , Excluded ,  0.21 ,  0.21
+QF_LRA/sc/sc-15.induction2.cvc.smt2 , Excluded ,  0.19 ,  0.19
+QF_LRA/sc/sc-40.induction2.cvc.smt2 , Excluded ,  3.78 ,  3.56
+QF_LRA/sc/sc-27.induction3.cvc.smt2 , Excluded ,  2.08 ,  2.10
+QF_LRA/sc/sc-19.induction2.cvc.smt2 , Excluded ,  0.48 ,  0.50
 QF_LRA/sal/tgc/tgc_io-nosafe-6.smt2 , Excluded ,  0.01 ,  0.01
-QF_LRA/sal/tgc/tgc_io-nosafe-5.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/sal/tgc/tgc_io-nosafe-5.smt2 , Excluded ,  0.00 ,  0.01
 QF_LRA/sal/tgc/tgc_io-nosafe-3.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/tgc/tgc_io-nosafe-2.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/tgc/tgc_io-nosafe-1.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/tgc/tgc_io-nosafe-4.smt2 , Excluded ,  0.00 ,  0.00
-QF_LRA/sal/tgc/tgc_io-nosafe-7.smt2 , Excluded ,  0.01 ,  0.02
-QF_LRA/sc/sc-29.induction.cvc.smt2 , Excluded ,  1.22 ,  1.18
-QF_LRA/sc/sc-13.induction.cvc.smt2 , Excluded ,  0.10 ,  0.09
-QF_LRA/sc/sc-32.induction.cvc.smt2 , Excluded ,  1.53 ,  1.72
-QF_LRA/sc/sc-18.induction.cvc.smt2 , Excluded ,  0.16 ,  0.14
-QF_LRA/sc/sc-27.induction.cvc.smt2 , Excluded ,  0.64 ,  0.72
-QF_LRA/sc/sc-35.induction.cvc.smt2 , Excluded ,  2.10 ,  2.18
-QF_LRA/sc/sc-28.induction.cvc.smt2 , Excluded ,  1.96 ,  1.86
-QF_LRA/sc/sc-21.induction.cvc.smt2 , Excluded ,  0.56 ,  0.54
-QF_LRA/sc/sc-12.induction.cvc.smt2 , Excluded ,  0.08 ,  0.09
-QF_LRA/sc/sc-34.induction.cvc.smt2 , Excluded ,  2.71 ,  2.14
-QF_LRA/sc/sc-5.induction2.cvc.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sc/sc-15.induction.cvc.smt2 , Excluded ,  0.15 ,  0.14
-QF_LRA/sc/sc-37.induction.cvc.smt2 , Excluded ,  4.62 ,  5.12
-QF_LRA/sc/sc-8.induction3.cvc.smt2 , Excluded ,  0.05 ,  0.05
-QF_LRA/sc/sc-20.induction.cvc.smt2 , Excluded ,  0.50 ,  0.48
-QF_LRA/sc/sc-19.induction.cvc.smt2 , Excluded ,  0.29 ,  0.26
-QF_LRA/sc/sc-36.induction.cvc.smt2 , Excluded ,  5.26 ,  5.07
-QF_LRA/sc/sc-39.induction.cvc.smt2 , Excluded ,  2.51 ,  1.98
-QF_LRA/sc/sc-38.induction.cvc.smt2 , Excluded ,  2.34 ,  2.22
-QF_LRA/sc/sc-9.induction3.cvc.smt2 , Excluded ,  0.06 ,  0.06
-QF_LRA/sc/sc-9.induction2.cvc.smt2 , Excluded ,  0.08 ,  0.07
-QF_LRA/sc/sc-24.induction.cvc.smt2 , Excluded ,  0.43 ,  0.43
-QF_LRA/sc/sc-7.induction3.cvc.smt2 , Excluded ,  0.08 ,  0.09
-QF_LRA/sc/sc-5.induction3.cvc.smt2 , Excluded ,  0.02 ,  0.03
-QF_LRA/sc/sc-11.induction.cvc.smt2 , Excluded ,  0.06 ,  0.06
-QF_LRA/sc/sc-14.induction.cvc.smt2 , Excluded ,  0.17 ,  0.16
-QF_LRA/sc/sc-8.induction2.cvc.smt2 , Excluded ,  0.05 ,  0.06
-QF_LRA/sc/sc-26.induction.cvc.smt2 , Excluded ,  0.51 ,  0.56
-QF_LRA/sc/sc-33.induction.cvc.smt2 , Excluded ,  1.87 ,  1.82
-QF_LRA/sc/sc-40.induction.cvc.smt2 , Excluded ,  6.55 ,  7.67
+QF_LRA/sal/tgc/tgc_io-nosafe-7.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/sc/sc-29.induction.cvc.smt2 , Excluded ,  1.03 ,  1.03
+QF_LRA/sc/sc-13.induction.cvc.smt2 , Excluded ,  0.09 ,  0.09
+QF_LRA/sc/sc-32.induction.cvc.smt2 , Excluded ,  1.34 ,  1.40
+QF_LRA/sc/sc-18.induction.cvc.smt2 , Excluded ,  0.13 ,  0.13
+QF_LRA/sc/sc-27.induction.cvc.smt2 , Excluded ,  0.59 ,  0.56
+QF_LRA/sc/sc-35.induction.cvc.smt2 , Excluded ,  1.83 ,  1.76
+QF_LRA/sc/sc-28.induction.cvc.smt2 , Excluded ,  1.81 ,  1.70
+QF_LRA/sc/sc-21.induction.cvc.smt2 , Excluded ,  0.51 ,  0.50
+QF_LRA/sc/sc-12.induction.cvc.smt2 , Excluded ,  0.08 ,  0.08
+QF_LRA/sc/sc-34.induction.cvc.smt2 , Excluded ,  2.10 ,  2.21
+QF_LRA/sc/sc-5.induction2.cvc.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/sc/sc-15.induction.cvc.smt2 , Excluded ,  0.12 ,  0.12
+QF_LRA/sc/sc-37.induction.cvc.smt2 , Excluded ,  3.78 ,  3.94
+QF_LRA/sc/sc-8.induction3.cvc.smt2 , Excluded ,  0.06 ,  0.05
+QF_LRA/sc/sc-20.induction.cvc.smt2 , Excluded ,  0.48 ,  0.46
+QF_LRA/sc/sc-19.induction.cvc.smt2 , Excluded ,  0.26 ,  0.26
+QF_LRA/sc/sc-36.induction.cvc.smt2 , Excluded ,  4.23 ,  4.40
+QF_LRA/sc/sc-39.induction.cvc.smt2 , Excluded ,  1.87 ,  1.89
+QF_LRA/sc/sc-38.induction.cvc.smt2 , Excluded ,  2.27 ,  2.18
+QF_LRA/sc/sc-9.induction3.cvc.smt2 , Excluded ,  0.06 ,  0.05
+QF_LRA/sc/sc-9.induction2.cvc.smt2 , Excluded ,  0.06 ,  0.06
+QF_LRA/sc/sc-24.induction.cvc.smt2 , Excluded ,  0.37 ,  0.34
+QF_LRA/sc/sc-7.induction3.cvc.smt2 , Excluded ,  0.08 ,  0.08
+QF_LRA/sc/sc-5.induction3.cvc.smt2 , Excluded ,  0.01 ,  0.02
+QF_LRA/sc/sc-11.induction.cvc.smt2 , Excluded ,  0.04 ,  0.05
+QF_LRA/sc/sc-14.induction.cvc.smt2 , Excluded ,  0.14 ,  0.14
+QF_LRA/sc/sc-8.induction2.cvc.smt2 , Excluded ,  0.05 ,  0.05
+QF_LRA/sc/sc-26.induction.cvc.smt2 , Excluded ,  0.49 ,  0.48
+QF_LRA/sc/sc-33.induction.cvc.smt2 , Excluded ,  1.40 ,  1.59
+QF_LRA/sc/sc-40.induction.cvc.smt2 , Excluded ,  6.31 ,  6.20
 QF_LRA/sc/sc-6.induction3.cvc.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sc/sc-16.induction.cvc.smt2 , Excluded ,  0.15 ,  0.14
-QF_LRA/sc/sc-31.induction.cvc.smt2 , Excluded ,  2.64 ,  2.71
-QF_LRA/sc/sc-25.induction.cvc.smt2 , Excluded ,  0.55 ,  0.54
-QF_LRA/sc/sc-22.induction.cvc.smt2 , Excluded ,  0.27 ,  0.29
-QF_LRA/sc/sc-6.induction2.cvc.smt2 , Excluded ,  0.07 ,  0.07
-QF_LRA/sc/sc-17.induction.cvc.smt2 , Excluded ,  0.15 ,  0.14
-QF_LRA/sc/sc-10.induction.cvc.smt2 , Excluded ,  0.06 ,  0.06
-QF_LRA/sc/sc-23.induction.cvc.smt2 , Excluded ,  0.58 ,  0.62
-QF_LRA/sc/sc-7.induction2.cvc.smt2 , Excluded ,  0.02 ,  0.03
-QF_LRA/sc/sc-30.induction.cvc.smt2 , Excluded ,  1.39 ,  1.44
-QF_LRA/TM/p-DepotsNum_s8.msat.smt2 , Excluded ,  0.30 ,  0.30
+QF_LRA/sc/sc-16.induction.cvc.smt2 , Excluded ,  0.12 ,  0.13
+QF_LRA/sc/sc-31.induction.cvc.smt2 , Excluded ,  2.04 ,  2.04
+QF_LRA/sc/sc-25.induction.cvc.smt2 , Excluded ,  0.48 ,  0.51
+QF_LRA/sc/sc-22.induction.cvc.smt2 , Excluded ,  0.22 ,  0.22
+QF_LRA/sc/sc-6.induction2.cvc.smt2 , Excluded ,  0.06 ,  0.06
+QF_LRA/sc/sc-17.induction.cvc.smt2 , Excluded ,  0.14 ,  0.14
+QF_LRA/sc/sc-10.induction.cvc.smt2 , Excluded ,  0.05 ,  0.05
+QF_LRA/sc/sc-23.induction.cvc.smt2 , Excluded ,  0.54 ,  0.54
+QF_LRA/sc/sc-7.induction2.cvc.smt2 , Excluded ,  0.02 ,  0.02
+QF_LRA/sc/sc-30.induction.cvc.smt2 , Excluded ,  1.18 ,  1.26
+QF_LRA/TM/p-DepotsNum_s8.msat.smt2 , Excluded ,  0.28 ,  0.29
 QF_LRA/sal/tgc/tgc_io-safe-18.smt2 , Excluded ,  0.13 ,  0.13
-QF_LRA/sal/tgc/tgc_io-safe-15.smt2 , Excluded ,  0.09 ,  0.09
+QF_LRA/sal/tgc/tgc_io-safe-15.smt2 , Excluded ,  0.10 ,  0.09
 QF_LRA/sal/tgc/tgc_io-safe-16.smt2 , Excluded ,  0.09 ,  0.08
-QF_LRA/sal/tgc/tgc_io-safe-19.smt2 , Excluded ,  0.11 ,  0.11
-QF_LRA/sal/tgc/tgc_io-safe-13.smt2 , Excluded ,  0.06 ,  0.04
-QF_LRA/sal/tgc/tgc_io-safe-20.smt2 , Excluded ,  0.06 ,  0.05
+QF_LRA/sal/tgc/tgc_io-safe-19.smt2 , Excluded ,  0.10 ,  0.11
+QF_LRA/sal/tgc/tgc_io-safe-13.smt2 , Excluded ,  0.05 ,  0.06
+QF_LRA/sal/tgc/tgc_io-safe-20.smt2 , Excluded ,  0.04 ,  0.04
 QF_LRA/sal/tgc/tgc_io-safe-14.smt2 , Excluded ,  0.09 ,  0.09
-QF_LRA/sal/tgc/tgc_io-safe-10.smt2 , Excluded ,  0.03 ,  0.03
-QF_LRA/sal/tgc/tgc_io-safe-12.smt2 , Excluded ,  0.05 ,  0.04
-QF_LRA/sal/tgc/tgc_io-safe-17.smt2 , Excluded ,  0.10 ,  0.10
-QF_LRA/sal/tgc/tgc_io-safe-11.smt2 , Excluded ,  0.04 ,  0.04
-QF_LRA/sc/sc-6.induction.cvc.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sc/sc-9.induction.cvc.smt2 , Excluded ,  0.04 ,  0.04
-QF_LRA/sc/sc-7.induction.cvc.smt2 , Excluded ,  0.02 ,  0.03
+QF_LRA/sal/tgc/tgc_io-safe-10.smt2 , Excluded ,  0.03 ,  0.02
+QF_LRA/sal/tgc/tgc_io-safe-12.smt2 , Excluded ,  0.04 ,  0.05
+QF_LRA/sal/tgc/tgc_io-safe-17.smt2 , Excluded ,  0.11 ,  0.10
+QF_LRA/sal/tgc/tgc_io-safe-11.smt2 , Excluded ,  0.03 ,  0.03
+QF_LRA/sc/sc-6.induction.cvc.smt2 , Excluded ,  0.01 ,  0.02
+QF_LRA/sc/sc-9.induction.cvc.smt2 , Excluded ,  0.03 ,  0.02
+QF_LRA/sc/sc-7.induction.cvc.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/sc/sc-8.induction.cvc.smt2 , Excluded ,  0.02 ,  0.02
 QF_LRA/sc/sc-5.induction.cvc.smt2 , Excluded ,  0.00 ,  0.01
-QF_LRA/uart/uart-28.base.cvc.smt2 , Excluded ,  27.06 ,  26.82
-QF_LRA/uart/uart-32.base.cvc.smt2 , Excluded ,  44.87 ,  42.05
+QF_LRA/uart/uart-28.base.cvc.smt2 , Excluded ,  22.76 ,  22.88
+QF_LRA/uart/uart-32.base.cvc.smt2 , Excluded ,  33.55 ,  32.16
 QF_LRA/uart/uart-39.base.cvc.smt2 , Excluded ,   ,  
-QF_LRA/uart/uart-23.base.cvc.smt2 , Excluded ,  10.02 ,  10.08
-QF_LRA/uart/uart-29.base.cvc.smt2 , Excluded ,  24.87 ,  27.25
-QF_LRA/uart/uart-34.base.cvc.smt2 , Excluded ,  64.36 ,  59.93
-QF_LRA/uart/uart-21.base.cvc.smt2 , Excluded ,  7.08 ,  6.49
-QF_LRA/uart/uart-26.base.cvc.smt2 , Excluded ,  15.52 ,  16.97
-QF_LRA/uart/uart-14.base.cvc.smt2 , Excluded ,  0.96 ,  0.94
-QF_LRA/uart/uart-22.base.cvc.smt2 , Excluded ,  9.07 ,  8.60
-QF_LRA/uart/uart-12.base.cvc.smt2 , Excluded ,  0.42 ,  0.52
-QF_LRA/uart/uart-33.base.cvc.smt2 , Excluded ,  58.40 ,  60.89
+QF_LRA/uart/uart-23.base.cvc.smt2 , Excluded ,  7.94 ,  7.85
+QF_LRA/uart/uart-29.base.cvc.smt2 , Excluded ,  22.99 ,  24.23
+QF_LRA/uart/uart-34.base.cvc.smt2 , Excluded ,  41.94 ,  47.99
+QF_LRA/uart/uart-21.base.cvc.smt2 , Excluded ,  5.14 ,  6.46
+QF_LRA/uart/uart-26.base.cvc.smt2 , Excluded ,  12.11 ,  12.63
+QF_LRA/uart/uart-14.base.cvc.smt2 , Excluded ,  0.90 ,  0.92
+QF_LRA/uart/uart-22.base.cvc.smt2 , Excluded ,  7.91 ,  7.71
+QF_LRA/uart/uart-12.base.cvc.smt2 , Excluded ,  0.38 ,  0.40
+QF_LRA/uart/uart-33.base.cvc.smt2 , Excluded ,  49.00 ,  48.49
 QF_LRA/uart/uart-40.base.cvc.smt2 , Excluded ,   ,  
-QF_LRA/uart/uart-16.base.cvc.smt2 , Excluded ,  1.88 ,  2.60
-QF_LRA/uart/uart-37.base.cvc.smt2 , Excluded ,   ,  
-QF_LRA/uart/uart-35.base.cvc.smt2 , Excluded ,  80.92 ,  66.50
-QF_LRA/uart/uart-38.base.cvc.smt2 , Excluded ,   ,  
-QF_LRA/uart/uart-31.base.cvc.smt2 , Excluded ,  40.79 ,  38.93
-QF_LRA/uart/uart-13.base.cvc.smt2 , Excluded ,  0.78 ,  0.80
-QF_LRA/uart/uart-27.base.cvc.smt2 , Excluded ,  20.44 ,  21.88
-QF_LRA/uart/uart-19.base.cvc.smt2 , Excluded ,  3.81 ,  4.14
-QF_LRA/uart/uart-30.base.cvc.smt2 , Excluded ,  41.32 ,  33.93
-QF_LRA/uart/uart-24.base.cvc.smt2 , Excluded ,  12.50 ,  13.38
-QF_LRA/uart/uart-15.base.cvc.smt2 , Excluded ,  1.40 ,  1.33
-QF_LRA/uart/uart-25.base.cvc.smt2 , Excluded ,  15.10 ,  14.44
-QF_LRA/uart/uart-36.base.cvc.smt2 , Excluded ,  82.36 ,  82.17
-QF_LRA/uart/uart-11.base.cvc.smt2 , Excluded ,  0.34 ,  0.34
-QF_LRA/uart/uart-20.base.cvc.smt2 , Excluded ,  6.05 ,  5.20
-QF_LRA/uart/uart-18.base.cvc.smt2 , Excluded ,  3.21 ,  3.71
-QF_LRA/uart/uart-17.base.cvc.smt2 , Excluded ,  2.26 ,  2.32
-QF_LRA/uart/uart-10.base.cvc.smt2 , Excluded ,  0.15 ,  0.16
+QF_LRA/uart/uart-16.base.cvc.smt2 , Excluded ,  1.98 ,  1.88
+QF_LRA/uart/uart-37.base.cvc.smt2 , Excluded ,  79.07 ,  57.59
+QF_LRA/uart/uart-35.base.cvc.smt2 , Excluded ,  55.05 ,  57.47
+QF_LRA/uart/uart-38.base.cvc.smt2 , Excluded ,  88.39 ,  
+QF_LRA/uart/uart-31.base.cvc.smt2 , Excluded ,  33.18 ,  34.59
+QF_LRA/uart/uart-13.base.cvc.smt2 , Excluded ,  0.71 ,  0.72
+QF_LRA/uart/uart-27.base.cvc.smt2 , Excluded ,  18.58 ,  18.14
+QF_LRA/uart/uart-19.base.cvc.smt2 , Excluded ,  3.70 ,  3.88
+QF_LRA/uart/uart-30.base.cvc.smt2 , Excluded ,  26.26 ,  26.04
+QF_LRA/uart/uart-24.base.cvc.smt2 , Excluded ,  10.83 ,  10.63
+QF_LRA/uart/uart-15.base.cvc.smt2 , Excluded ,  1.39 ,  1.36
+QF_LRA/uart/uart-25.base.cvc.smt2 , Excluded ,  11.99 ,  11.16
+QF_LRA/uart/uart-36.base.cvc.smt2 , Excluded ,  60.49 ,  61.15
+QF_LRA/uart/uart-11.base.cvc.smt2 , Excluded ,  0.30 ,  0.31
+QF_LRA/uart/uart-20.base.cvc.smt2 , Excluded ,  4.96 ,  5.18
+QF_LRA/uart/uart-18.base.cvc.smt2 , Excluded ,  3.23 ,  3.48
+QF_LRA/uart/uart-17.base.cvc.smt2 , Excluded ,  2.16 ,  2.20
+QF_LRA/uart/uart-10.base.cvc.smt2 , Excluded ,  0.13 ,  0.14
 QF_LRA/sal/tgc/tgc_io-safe-8.smt2 , Excluded ,  0.01 ,  0.02
-QF_LRA/sal/tgc/tgc_io-safe-7.smt2 , Excluded ,  0.01 ,  0.02
-QF_LRA/sal/tgc/tgc_io-safe-6.smt2 , Excluded ,  0.01 ,  0.00
+QF_LRA/sal/tgc/tgc_io-safe-7.smt2 , Excluded ,  0.01 ,  0.01
+QF_LRA/sal/tgc/tgc_io-safe-6.smt2 , Excluded ,  0.01 ,  0.01
 QF_LRA/sal/tgc/tgc_io-safe-1.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/tgc/tgc_io-safe-5.smt2 , Excluded ,  0.01 ,  0.00
 QF_LRA/sal/tgc/tgc_io-safe-3.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/tgc/tgc_io-safe-2.smt2 , Excluded ,  0.00 ,  0.00
 QF_LRA/sal/tgc/tgc_io-safe-9.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/sal/tgc/tgc_io-safe-4.smt2 , Excluded ,  0.01 ,  0.00
-QF_LRA/uart/uart-5.base.cvc.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/uart/uart-7.base.cvc.smt2 , Excluded ,  0.04 ,  0.04
-QF_LRA/uart/uart-6.base.cvc.smt2 , Excluded ,  0.02 ,  0.02
-QF_LRA/uart/uart-9.base.cvc.smt2 , Excluded ,  0.12 ,  0.12
-QF_LRA/uart/uart-8.base.cvc.smt2 , Excluded ,  0.07 ,  0.07
-QF_LRA/TM/p6-zenonumeric_s5.smt2 , Excluded ,  0.30 ,  0.21
-QF_LRA/TM/p6-zenonumeric_s9.smt2 , Excluded ,  2.66 ,  3.10
+QF_LRA/sal/tgc/tgc_io-safe-4.smt2 , Excluded ,  0.00 ,  0.00
+QF_LRA/uart/uart-5.base.cvc.smt2 , Excluded ,  0.00 ,  0.02
+QF_LRA/uart/uart-7.base.cvc.smt2 , Excluded ,  0.04 ,  0.03
+QF_LRA/uart/uart-6.base.cvc.smt2 , Excluded ,  0.03 ,  0.03
+QF_LRA/uart/uart-9.base.cvc.smt2 , Excluded ,  0.10 ,  0.11
+QF_LRA/uart/uart-8.base.cvc.smt2 , Excluded ,  0.08 ,  0.07
+QF_LRA/TM/p6-zenonumeric_s5.smt2 , Excluded ,  0.19 ,  0.20
+QF_LRA/TM/p6-zenonumeric_s9.smt2 , Excluded ,  2.65 ,  2.92
 QF_LRA/TM/p3-zenonumeric_s5.smt2 , Excluded ,  0.10 ,  0.10
-QF_LRA/TM/p7-zenonumeric_s6.smt2 , Excluded ,  0.58 ,  0.42
-QF_LRA/TM/p6-zenonumeric_s7.smt2 , Excluded ,  0.97 ,  0.79
-QF_LRA/TM/p4-zenonumeric_s5.smt2 , Excluded ,  0.11 ,  0.09
-QF_LRA/TM/p5-zenonumeric_s7.smt2 , Excluded ,  0.78 ,  0.65
-QF_LRA/TM/p2-zenonumeric_s6.smt2 , Excluded ,  0.04 ,  0.04
-QF_LRA/TM/p5-zenonumeric_s5.smt2 , Excluded ,  0.20 ,  0.18
+QF_LRA/TM/p7-zenonumeric_s6.smt2 , Excluded ,  0.46 ,  0.44
+QF_LRA/TM/p6-zenonumeric_s7.smt2 , Excluded ,  0.76 ,  0.78
+QF_LRA/TM/p4-zenonumeric_s5.smt2 , Excluded ,  0.07 ,  0.08
+QF_LRA/TM/p5-zenonumeric_s7.smt2 , Excluded ,  0.67 ,  0.64
+QF_LRA/TM/p2-zenonumeric_s6.smt2 , Excluded ,  0.02 ,  0.03
+QF_LRA/TM/p5-zenonumeric_s5.smt2 , Excluded ,  0.16 ,  0.19
 QF_LRA/miplib/fixnet-3000.smt2 , Excluded ,   ,  
-QF_LRA/miplib/fixnet-1000.smt2 , Excluded ,  35.99 ,  37.30
+QF_LRA/miplib/fixnet-1000.smt2 , Excluded ,  30.26 ,  30.52
 QF_LRA/miplib/opt1217--57.smt2 , Excluded ,   ,  
 QF_LRA/miplib/fixnet-7000.smt2 , Excluded ,   ,  
 QF_LRA/miplib/pp08a-10000.smt2 , Excluded ,   ,  
-QF_LRA/miplib/pp08a-12000.smt2 , Excluded ,  2.31 ,  2.27
+QF_LRA/miplib/pp08a-12000.smt2 , Excluded ,  1.91 ,  1.93
 QF_LRA/miplib/opt1217--37.smt2 , Excluded ,   ,  
 QF_LRA/miplib/danoint-266.smt2 , Excluded ,   ,  
 QF_LRA/miplib/danoint-166.smt2 , Excluded ,   ,  
@@ -1610,74 +1610,74 @@ QF_LRA/miplib/opt1217--16.smt2 , Excluded ,   ,
 QF_LRA/miplib/opt1217--27.smt2 , Excluded ,   ,  
 QF_LRA/miplib/opt1217--17.smt2 , Excluded ,   ,  
 QF_LRA/miplib/fixnet-3983.smt2 , Excluded ,   ,  
-QF_LRA/miplib/pp08a-11000.smt2 , Excluded ,  2.64 ,  2.88
-QF_LRA/sc/sc-14.base.cvc.smt2 , Excluded ,  2.30 ,  2.68
-QF_LRA/sc/sc-28.base.cvc.smt2 , Excluded ,  14.80 ,  12.85
-QF_LRA/sc/sc-15.base.cvc.smt2 , Excluded ,  2.60 ,  2.48
-QF_LRA/sc/sc-26.base.cvc.smt2 , Excluded ,  13.99 ,  13.78
-QF_LRA/sc/sc-21.base.cvc.smt2 , Excluded ,  10.49 ,  8.95
-QF_LRA/sc/sc-39.base.cvc.smt2 , Excluded ,  46.48 ,  39.22
-QF_LRA/sc/sc-16.base.cvc.smt2 , Excluded ,  3.64 ,  3.68
-QF_LRA/sc/sc-37.base.cvc.smt2 , Excluded ,  45.43 ,  41.21
-QF_LRA/sc/sc-36.base.cvc.smt2 , Excluded ,  31.50 ,  32.27
-QF_LRA/sc/sc-40.base.cvc.smt2 , Excluded ,  33.97 ,  26.91
-QF_LRA/sc/sc-32.base.cvc.smt2 , Excluded ,  19.16 ,  15.90
-QF_LRA/sc/sc-25.base.cvc.smt2 , Excluded ,  18.71 ,  15.92
-QF_LRA/sc/sc-12.base.cvc.smt2 , Excluded ,  1.20 ,  1.33
-QF_LRA/sc/sc-29.base.cvc.smt2 , Excluded ,  18.89 ,  26.50
-QF_LRA/sc/sc-17.base.cvc.smt2 , Excluded ,  3.38 ,  3.21
-QF_LRA/sc/sc-27.base.cvc.smt2 , Excluded ,  20.07 ,  18.51
-QF_LRA/sc/sc-23.base.cvc.smt2 , Excluded ,  11.14 ,  12.10
-QF_LRA/sc/sc-33.base.cvc.smt2 , Excluded ,  18.56 ,  18.74
-QF_LRA/sc/sc-11.base.cvc.smt2 , Excluded ,  0.92 ,  0.86
-QF_LRA/sc/sc-19.base.cvc.smt2 , Excluded ,  5.68 ,  5.65
-QF_LRA/sc/sc-35.base.cvc.smt2 , Excluded ,  18.22 ,  20.86
-QF_LRA/sc/sc-20.base.cvc.smt2 , Excluded ,  6.01 ,  5.71
-QF_LRA/sc/sc-10.base.cvc.smt2 , Excluded ,  0.68 ,  0.70
-QF_LRA/sc/sc-18.base.cvc.smt2 , Excluded ,  4.46 ,  3.98
-QF_LRA/sc/sc-24.base.cvc.smt2 , Excluded ,  10.35 ,  13.27
-QF_LRA/sc/sc-30.base.cvc.smt2 , Excluded ,  19.39 ,  20.01
-QF_LRA/sc/sc-31.base.cvc.smt2 , Excluded ,  20.54 ,  18.55
-QF_LRA/sc/sc-13.base.cvc.smt2 , Excluded ,  1.66 ,  1.59
-QF_LRA/sc/sc-38.base.cvc.smt2 , Excluded ,  34.76 ,  32.81
-QF_LRA/sc/sc-22.base.cvc.smt2 , Excluded ,  6.52 ,  6.30
-QF_LRA/sc/sc-34.base.cvc.smt2 , Excluded ,  27.52 ,  33.97
-QF_LRA/miplib/danoint-30.smt2 , Excluded ,  3.48 ,  3.90
+QF_LRA/miplib/pp08a-11000.smt2 , Excluded ,  2.37 ,  2.40
+QF_LRA/sc/sc-14.base.cvc.smt2 , Excluded ,  2.04 ,  2.03
+QF_LRA/sc/sc-28.base.cvc.smt2 , Excluded ,  11.84 ,  12.53
+QF_LRA/sc/sc-15.base.cvc.smt2 , Excluded ,  2.35 ,  2.54
+QF_LRA/sc/sc-26.base.cvc.smt2 , Excluded ,  11.87 ,  11.87
+QF_LRA/sc/sc-21.base.cvc.smt2 , Excluded ,  8.96 ,  9.01
+QF_LRA/sc/sc-39.base.cvc.smt2 , Excluded ,  35.91 ,  33.61
+QF_LRA/sc/sc-16.base.cvc.smt2 , Excluded ,  3.42 ,  3.42
+QF_LRA/sc/sc-37.base.cvc.smt2 , Excluded ,  34.00 ,  32.40
+QF_LRA/sc/sc-36.base.cvc.smt2 , Excluded ,  29.28 ,  29.98
+QF_LRA/sc/sc-40.base.cvc.smt2 , Excluded ,  29.14 ,  27.68
+QF_LRA/sc/sc-32.base.cvc.smt2 , Excluded ,  13.94 ,  15.52
+QF_LRA/sc/sc-25.base.cvc.smt2 , Excluded ,  14.94 ,  14.69
+QF_LRA/sc/sc-12.base.cvc.smt2 , Excluded ,  1.15 ,  1.14
+QF_LRA/sc/sc-29.base.cvc.smt2 , Excluded ,  15.94 ,  16.94
+QF_LRA/sc/sc-17.base.cvc.smt2 , Excluded ,  3.28 ,  3.17
+QF_LRA/sc/sc-27.base.cvc.smt2 , Excluded ,  17.84 ,  18.46
+QF_LRA/sc/sc-23.base.cvc.smt2 , Excluded ,  10.32 ,  9.77
+QF_LRA/sc/sc-33.base.cvc.smt2 , Excluded ,  17.64 ,  17.55
+QF_LRA/sc/sc-11.base.cvc.smt2 , Excluded ,  0.82 ,  0.82
+QF_LRA/sc/sc-19.base.cvc.smt2 , Excluded ,  5.24 ,  4.81
+QF_LRA/sc/sc-35.base.cvc.smt2 , Excluded ,  19.05 ,  19.34
+QF_LRA/sc/sc-20.base.cvc.smt2 , Excluded ,  5.11 ,  5.20
+QF_LRA/sc/sc-10.base.cvc.smt2 , Excluded ,  0.66 ,  0.66
+QF_LRA/sc/sc-18.base.cvc.smt2 , Excluded ,  3.98 ,  3.97
+QF_LRA/sc/sc-24.base.cvc.smt2 , Excluded ,  9.77 ,  9.25
+QF_LRA/sc/sc-30.base.cvc.smt2 , Excluded ,  17.90 ,  17.74
+QF_LRA/sc/sc-31.base.cvc.smt2 , Excluded ,  17.42 ,  16.49
+QF_LRA/sc/sc-13.base.cvc.smt2 , Excluded ,  1.50 ,  1.49
+QF_LRA/sc/sc-38.base.cvc.smt2 , Excluded ,  28.51 ,  29.90
+QF_LRA/sc/sc-22.base.cvc.smt2 , Excluded ,  5.04 ,  5.91
+QF_LRA/sc/sc-34.base.cvc.smt2 , Excluded ,  26.25 ,  24.95
+QF_LRA/miplib/danoint-30.smt2 , Excluded ,  3.16 ,  3.22
 QF_LRA/miplib/danoint-65.smt2 , Excluded ,   ,  
-QF_LRA/miplib/pp08a-3000.smt2 , Excluded ,  45.41 ,  42.32
+QF_LRA/miplib/pp08a-3000.smt2 , Excluded ,  39.08 ,  38.67
 QF_LRA/miplib/pp08a-7350.smt2 , Excluded ,   ,  
-QF_LRA/miplib/danoint-50.smt2 , Excluded ,  0.78 ,  0.82
+QF_LRA/miplib/danoint-50.smt2 , Excluded ,  0.60 ,  0.70
 QF_LRA/miplib/pp08a-5000.smt2 , Excluded ,   ,  
 QF_LRA/miplib/pp08a-9000.smt2 , Excluded ,   ,  
-QF_LRA/miplib/pp08a-2000.smt2 , Excluded ,  13.64 ,  13.60
-QF_LRA/miplib/pp08a-1000.smt2 , Excluded ,  7.22 ,  7.33
+QF_LRA/miplib/pp08a-2000.smt2 , Excluded ,  12.15 ,  11.96
+QF_LRA/miplib/pp08a-1000.smt2 , Excluded ,  6.41 ,  6.50
 QF_LRA/miplib/vpm2-13.75.smt2 , Excluded ,   ,  
 QF_LRA/miplib/pp08a-4000.smt2 , Excluded ,   ,  
 QF_LRA/miplib/pp08a-7349.smt2 , Excluded ,   ,  
 QF_LRA/miplib/danoint-66.smt2 , Excluded ,   ,  
-QF_LRA/miplib/opt1217--6.smt2 , Excluded ,  2.34 ,  2.27
-QF_LRA/miplib/opt1217--1.smt2 , Excluded ,  0.88 ,  1.20
+QF_LRA/miplib/opt1217--6.smt2 , Excluded ,  2.58 ,  2.47
+QF_LRA/miplib/opt1217--1.smt2 , Excluded ,  0.86 ,  0.99
 QF_LRA/check/bignum_lra2.smt2 , 0.00 ,  0.00 ,  0.00
 QF_LRA/check/bignum_lra1.smt2 , 0.00 ,  0.00 ,  0.00
-QF_LRA/TM/p-3-bucket_s10.smt2 , Excluded ,  12.67 ,  11.04
-QF_LRA/TM/p-2-bucket_s11.smt2 , Excluded ,  1.08 ,  0.84
-QF_LRA/TM/p-0-bucket_s10.smt2 , Excluded ,  0.20 ,  0.18
-QF_LRA/TM/p-0-bucket_s13.smt2 , Excluded ,  0.58 ,  0.54
-QF_LRA/sc/sc-9.base.cvc.smt2 , Excluded ,  0.32 ,  0.32
-QF_LRA/sc/sc-8.base.cvc.smt2 , Excluded ,  0.31 ,  0.30
-QF_LRA/sc/sc-6.base.cvc.smt2 , Excluded ,  0.08 ,  0.08
-QF_LRA/sc/sc-5.base.cvc.smt2 , Excluded ,  0.03 ,  0.04
-QF_LRA/sc/sc-7.base.cvc.smt2 , Excluded ,  0.09 ,  0.10
-QF_LRA/TM/p-1-bucket_s9.smt2 , Excluded ,  2.02 ,  1.76
-QF_LRA/TM/p-0-bucket_s7.smt2 , Excluded ,  0.10 ,  0.09
-QF_LRA/miplib/vpm2-20.smt2 , Excluded ,  3.60 ,  3.77
-QF_LRA/miplib/vpm2-30.smt2 , Excluded ,  0.48 ,  0.49
-QF_LRA/miplib/pk1-100.smt2 , Excluded ,  0.54 ,  0.40
-QF_LRA/miplib/vpm2-10.smt2 , Excluded ,  9.71 ,  8.98
-QF_LRA/miplib/pk1-50.smt2 , Excluded ,  27.07 ,  22.85
-QF_LRA/miplib/vpm2-0.smt2 , Excluded ,  0.56 ,  0.57
-QF_LRA/miplib/pk1--1.smt2 , Excluded ,  0.06 ,  0.06
+QF_LRA/TM/p-3-bucket_s10.smt2 , Excluded ,  7.58 ,  8.28
+QF_LRA/TM/p-2-bucket_s11.smt2 , Excluded ,  0.89 ,  0.86
+QF_LRA/TM/p-0-bucket_s10.smt2 , Excluded ,  0.18 ,  0.18
+QF_LRA/TM/p-0-bucket_s13.smt2 , Excluded ,  0.55 ,  0.56
+QF_LRA/sc/sc-9.base.cvc.smt2 , Excluded ,  0.31 ,  0.29
+QF_LRA/sc/sc-8.base.cvc.smt2 , Excluded ,  0.26 ,  0.27
+QF_LRA/sc/sc-6.base.cvc.smt2 , Excluded ,  0.07 ,  0.07
+QF_LRA/sc/sc-5.base.cvc.smt2 , Excluded ,  0.03 ,  0.03
+QF_LRA/sc/sc-7.base.cvc.smt2 , Excluded ,  0.10 ,  0.09
+QF_LRA/TM/p-1-bucket_s9.smt2 , Excluded ,  1.53 ,  1.17
+QF_LRA/TM/p-0-bucket_s7.smt2 , Excluded ,  0.08 ,  0.08
+QF_LRA/miplib/vpm2-20.smt2 , Excluded ,  3.14 ,  3.04
+QF_LRA/miplib/vpm2-30.smt2 , Excluded ,  0.44 ,  0.44
+QF_LRA/miplib/pk1-100.smt2 , Excluded ,  0.43 ,  0.48
+QF_LRA/miplib/vpm2-10.smt2 , Excluded ,  8.84 ,  8.81
+QF_LRA/miplib/pk1-50.smt2 , Excluded ,  17.12 ,  18.17
+QF_LRA/miplib/vpm2-0.smt2 , Excluded ,  0.47 ,  0.47
+QF_LRA/miplib/pk1--1.smt2 , Excluded ,  0.05 ,  0.06
 QF_LRA/miplib/pk1-20.smt2 , Excluded ,   ,  
-QF_LRA/miplib/vpm2-5.smt2 , Excluded ,  0.82 ,  0.78
+QF_LRA/miplib/vpm2-5.smt2 , Excluded ,  0.70 ,  0.70
 QF_LRA/miplib/pk1-11.smt2 , Excluded ,   ,  
 QF_LRA/miplib/pk1-0.smt2 , Excluded ,   ,  
