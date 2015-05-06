@@ -1,25 +1,25 @@
-QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 100.13 ,  31.13 ,  
+QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 100.13 ,  18.59 ,  
 QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 60.25 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 274.16 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 23.70 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-nestedTemplate.smt2 , 11.79 ,  23.70 ,  
-QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-nestedTemplate.smt2 , 14.14 ,  41.50 ,  
-QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-nestedTemplate.smt2 , 9.50 ,  12.51 ,  
-QF_LRA/LassoRanker/SV-COMP/HarrisLalNoriRajamani-2010SAS-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.25 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-nestedTemplate.smt2 , 11.79 ,  15.27 ,  67.85
+QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-nestedTemplate.smt2 , 14.14 ,  21.70 ,  
+QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-nestedTemplate.smt2 , 9.50 ,  7.99 ,  11.06
+QF_LRA/LassoRanker/SV-COMP/HarrisLalNoriRajamani-2010SAS-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.25 ,   ,  66.13
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 9.91 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 22.75 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 31.72 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 52.30 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 17.15 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 10.57 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.63 ,   ,  55.42
-QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 10.34 ,   ,  69.20
-QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 2.54 ,  50.08 ,  21.75
-QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.72 ,   ,  10.69
+QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.63 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 10.34 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 2.54 ,  30.27 ,  0.48
+QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.72 ,   ,  2.60
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.16 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 3.49 ,   ,  
-QF_LRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.74 ,   ,  0.55
-QF_LRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 1.50 ,   ,  54.16
+QF_LRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.74 ,   ,  0.41
+QF_LRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 1.50 ,  66.50 ,  34.15
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration10_Loop_6-phaseTemplate.smt2 , 36.93 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration10_Loop_4-pieceTemplate.smt2 , 15.09 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 , 11.47 ,   ,  
@@ -30,10 +30,10 @@ QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_It
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 10.62 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , 12.66 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 50.78 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 4.76 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 4.76 ,   ,  83.83
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 , 2.89 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 13.56 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.16 ,  44.31 ,  
+QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.16 ,  29.88 ,  86.43
 QF_LRA/LassoRanker/CooperatingT2/broydn.c.i.broydn.pl.t2.nor.t2.rlgfixed.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , 12.35 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.nor.t2.rlgfixed.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 , 15.08 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 37.36 ,   ,  
@@ -41,49 +41,49 @@ QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.nor.t2.rlgfixed.t2.c_It
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration2_Lasso_7-phaseTemplate.smt2 , 1.91 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 9.72 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.37 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7b_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 , CPU ,  32.28 ,  
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7b_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 , CPU ,  20.41 ,  19.36
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate.smt2 , 2.76 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_5-phaseTemplate.smt2 , 2.05 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.66 ,  45.91 ,  29.68
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.66 ,  34.29 ,  21.06
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 4.20 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_2-pieceTemplate.smt2 , 1.34 ,  39.71 ,  
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_2-pieceTemplate.smt2 , 1.34 ,  27.06 ,  
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_7-phaseTemplate.smt2 , 8.76 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 0.83 ,  87.75 ,  27.82
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 0.83 ,  74.48 ,  12.30
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 9.47 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-phaseTemplate.smt2 , 1.21 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-phaseTemplate.smt2 , 1.21 ,  82.08 ,  80.33
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 5.02 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 5.45 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 3.07 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 2.04 ,   ,  30.82
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 2.04 ,   ,  29.30
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex6_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.97 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex2_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 1.39 ,  40.39 ,  30.11
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 29.68 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex2_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 4.56 ,  32.73 ,  23.58
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 , 3.70 ,   ,  78.62
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex2_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 1.39 ,  33.07 ,  21.64
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 29.68 ,   ,  69.44
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex2_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 4.56 ,  21.34 ,  11.85
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 , 3.70 ,   ,  62.19
 QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_7-phaseTemplate.smt2 , 7.00 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 16.17 ,  60.95 ,  
-QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_6-phaseTemplate.smt2 , 3.03 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 9.19 ,  48.29 ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 16.51 ,  89.64 ,  
-QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 19.84 ,  5.75 ,  
-QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.82 ,  47.55 ,  
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 16.17 ,  37.18 ,  32.15
+QF_LRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Loop_6-phaseTemplate.smt2 , 3.03 ,   ,  75.60
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 9.19 ,  38.11 ,  14.12
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 16.51 ,  56.27 ,  
+QF_LRA/LassoRanker/SV-COMP/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 19.84 ,  3.14 ,  20.36
+QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.82 ,  40.45 ,  30.14
 QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 10.61 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 13.01 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 6.34 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 8.94 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.38 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.38 ,   ,  21.73
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 3.17 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 9.87 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 5.46 ,  45.67 ,  79.61
+QF_LRA/LassoRanker/SV-COMP/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 5.46 ,  31.03 ,  28.12
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 12.66 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 , 2.82 ,   ,  21.50
+QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 , 2.82 ,  89.75 ,  25.34
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 6.88 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig8_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 , 6.04 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/NoriSharma-2013FSE-Fig7_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 4.02 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration10_Loop_7-phaseTemplate.smt2 , 96.40 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration10_Loop_6-phaseTemplate.smt2 , 36.91 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration10_Loop_4-pieceTemplate.smt2 , 15.03 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.36 ,  36.91 ,  
+QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.36 ,  29.25 ,  88.20
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 13.42 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , 12.60 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 213.85 ,   ,  
@@ -94,7 +94,7 @@ QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration9_L
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 10.64 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration5_Loop_6-phaseTemplate.smt2 , 20.33 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 , 2.86 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 4.79 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 4.79 ,   ,  84.32
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.c.i.ludcmp.pl.t2.fixed.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 , 14.76 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration9_Loop_7-phaseTemplate.smt2 , 9.22 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 50.73 ,   ,  
@@ -103,45 +103,45 @@ QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_La
 QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 28.43 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 96.62 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 , 28.32 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 73.82 ,  7.17 ,  
+QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 73.82 ,  4.45 ,  17.55
 QF_LRA/LassoRanker/SV-COMP/TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 255.34 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 0.87 ,   ,  
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate.smt2_bis.smt2 , 3.62 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.42 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.29 ,  43.34 ,  2.89
-QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 0.17 ,   ,  55.55
+QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.29 ,  38.47 ,  2.00
+QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 0.17 ,  73.92 ,  
 QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 0.88 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.68 ,   ,  
-QF_LRA/LassoRanker/Ultimate/SyntaxSupportDisjunction1.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 3.47 ,   ,  59.31
+QF_LRA/LassoRanker/Ultimate/SyntaxSupportDisjunction1.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 3.47 ,   ,  
 QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 0.38 ,   ,  
-QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 0.17 ,   ,  55.72
-QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.28 ,  43.27 ,  2.85
-QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.21 ,  81.17 ,  4.79
+QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 0.17 ,  73.93 ,  
+QF_LRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.28 ,  38.10 ,  2.00
+QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.21 ,  69.56 ,  6.13
 QF_LRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 3.66 ,   ,  
-QF_LRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 0.78 ,  9.14 ,  6.04
+QF_LRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 0.78 ,  7.49 ,  5.48
 QF_LRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.60 ,   ,  
-QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.21 ,  76.45 ,  4.97
+QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.21 ,  68.62 ,  6.38
 QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.29 ,   ,  
 QF_LRA/LassoRanker/Ultimate/NoriSharma-2013FSE-Fig7.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 4.08 ,   ,  
-QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 2.00 ,   ,  
+QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 2.00 ,   ,  81.94
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 15.06 ,   ,  
-QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.93 ,  52.68 ,  55.87
+QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.93 ,  42.39 ,  22.54
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 4.52 ,   ,  
-QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.69 ,   ,  86.22
+QF_LRA/LassoRanker/Ultimate/GulwaniResetBranchOnly.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.69 ,   ,  79.96
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 8.84 ,   ,  
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 14.77 ,   ,  
 QF_LRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.30 ,   ,  
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportDivision1.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 7.32 ,   ,  
-QF_LRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 2.92 ,   ,  
-QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.41 ,   ,  6.84
+QF_LRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 2.92 ,  78.08 ,  
+QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.41 ,   ,  5.80
 QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 0.97 ,   ,  
 QF_LRA/LassoRanker/Ultimate/SyntaxSupportBooleans5.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 1.56 ,   ,  
-QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 0.25 ,  26.52 ,  7.52
+QF_LRA/LassoRanker/Ultimate/CooperatingT2_consts1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 0.25 ,  21.52 ,  6.17
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 218.27 ,   ,  
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 93.19 ,   ,  
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 127.31 ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 76.42 ,   ,  
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 76.42 ,   ,  86.96
 QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_6-phaseTemplate.smt2 , 15.04 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 25.96 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 13.60 ,   ,  
@@ -156,44 +156,44 @@ QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration1_Loop_4-pieceTemp
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 179.90 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate.smt2 , 170.51 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_3-pieceTemplate.smt2 , 78.08 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 144.69 ,  4.54 ,  
+QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 144.69 ,  2.51 ,  3.80
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/heidy7-simple.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 0.30 ,  66.22 ,  17.79
+QF_LRA/LassoRanker/CooperatingT2/heidy7-simple.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 0.30 ,  58.00 ,  14.49
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_4-phaseTemplate.smt2 , 53.12 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_2-pieceTemplate.smt2 , 2.54 ,  17.47 ,  
+QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_2-pieceTemplate.smt2 , 2.54 ,  15.31 ,  14.21
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 152.05 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 152.05 ,  78.72 ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_3-pieceTemplate.smt2 , 5.84 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_2-pieceTemplate.smt2 , 53.54 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/janne_complex.t2.c_Iteration3_Lasso_3-pieceTemplate.smt2 , 5.84 ,  79.04 ,  
+QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_2-pieceTemplate.smt2 , 53.54 ,   ,  84.84
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_2-pieceTemplate.smt2 , 31.37 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 3.41 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/min_rf_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 4.56 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 , 54.71 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 , 54.71 ,  52.22 ,  53.39
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_5-nestedTemplate.smt2 , 131.53 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/min_rf_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 7.96 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_7-nestedTemplate.smt2 , 239.15 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_6-nestedTemplate.smt2 , 184.61 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_4-nestedTemplate.smt2 , 89.84 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/min_rf_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 , 6.11 ,  50.24 ,  
-QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.99 ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 33.74 ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 18.49 ,   ,  12.05
+QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_4-nestedTemplate.smt2 , 89.84 ,   ,  72.22
+QF_LRA/LassoRanker/SV-COMP/min_rf_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 , 6.11 ,  31.68 ,  21.37
+QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.99 ,   ,  32.92
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 33.74 ,   ,  23.42
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 18.49 ,   ,  8.12
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 43.22 ,   ,  64.59
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate.smt2 , 43.22 ,   ,  41.79
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 142.07 ,   ,  
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-phaseTemplate.smt2 , 25.52 ,  73.99 ,  15.57
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 26.69 ,   ,  64.74
-QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 76.19 ,   ,  
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-phaseTemplate.smt2 , 25.52 ,  50.07 ,  9.48
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , 26.69 ,  57.05 ,  28.84
+QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 76.19 ,   ,  53.35
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled50.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 61.20 ,   ,  
 QF_LRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 133.66 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/smagillc-fail.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 8.50 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/smagillc-fail.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 8.50 ,  73.72 ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 , 137.09 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 , 3.34 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_7-phaseTemplate.smt2 , 6.94 ,   ,  87.17
-QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 1.76 ,  89.34 ,  
+QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_7-phaseTemplate.smt2 , 6.94 ,   ,  9.05
+QF_LRA/LassoRanker/SV-COMP/Masse_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 , 1.76 ,  68.46 ,  73.24
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 281.70 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 , 4.39 ,  71.68 ,  
+QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 , 4.39 ,  45.93 ,  82.97
 QF_LRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 , 4.06 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-phaseTemplate.smt2 , 54.83 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 , 199.32 ,   ,  
@@ -203,55 +203,55 @@ QF_LRA/LassoRanker/Ultimate/TelAviv-AmirMinimum.bpl_Iteration1_Loop_3-pieceTempl
 QF_LRA/LassoRanker/Ultimate/TelAviv-AmirMinimum.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 9.76 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration1_Loop_4-lexTemplate.smt2 , 44.09 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/brp_withassume.t2.c_Iteration8_Loop_4-lexTemplate.smt2 , 79.69 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 , 152.41 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 , 112.07 ,  38.65 ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 , 175.42 ,  79.54 ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 , 226.14 ,  66.50 ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 , 141.96 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 , 260.96 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-nestedTemplate.smt2 , 147.69 ,  55.24 ,  
-QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.69 ,  55.23 ,  
-QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 14.54 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/matrixsqrt.t2.c_Iteration12_Loop_4-pieceTemplate.smt2 , 1.61 ,  36.57 ,  50.33
+QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 , 152.41 ,  45.42 ,  10.82
+QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 , 112.07 ,  18.38 ,  5.40
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 , 175.42 ,  39.20 ,  11.34
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 , 226.14 ,  29.27 ,  11.55
+QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 , 141.96 ,  34.26 ,  7.74
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 , 260.96 ,  36.28 ,  19.58
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-nestedTemplate.smt2 , 147.69 ,  26.41 ,  3.26
+QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.69 ,  45.64 ,  9.76
+QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 14.54 ,  66.15 ,  10.08
+QF_LRA/LassoRanker/CooperatingT2/matrixsqrt.t2.c_Iteration12_Loop_4-pieceTemplate.smt2 , 1.61 ,  26.97 ,  51.32
 QF_LRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 3.10 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/matrixsqrt.t2.c_Iteration12_Loop_7-phaseTemplate.smt2 , 7.76 ,   ,  
-QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_2-lexTemplate.smt2 , 55.57 ,   ,  
+QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_2-lexTemplate.smt2 , 55.57 ,  72.61 ,  57.63
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-lexTemplate.smt2 , 131.23 ,   ,  
 QF_LRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 , 235.18 ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 187.76 ,   ,  
+QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 187.76 ,   ,  64.84
 QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.72 ,  64.74 ,  15.60
-QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 224.56 ,   ,  
+QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.72 ,  48.12 ,  13.54
+QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 224.56 ,   ,  5.19
 QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.33 ,   ,  65.02
+QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.33 ,   ,  13.80
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , 2.17 ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled100.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 283.41 ,   ,  
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.15 ,   ,  
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 9.69 ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_3-phaseTemplate.smt2 , 288.37 ,  66.01 ,  
+QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_3-phaseTemplate.smt2 , 288.37 ,  38.53 ,  6.83
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled250.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 3.80 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/selectSort.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 2.76 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/bubbleSort.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 2.40 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_7-nestedTemplate.smt2 , 8.68 ,  48.49 ,  
-QF_LRA/LassoRanker/CooperatingT2/selectSort.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 16.33 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_6-nestedTemplate.smt2 , 7.36 ,  48.01 ,  
-QF_LRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration10_Loop_7-phaseTemplate.smt2 , 3.15 ,   ,  26.65
-QF_LRA/LassoRanker/CooperatingT2/wrong_loop.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 7.09 ,   ,  44.39
-QF_LRA/LassoRanker/CooperatingT2/wrong_loop.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 1.36 ,   ,  
-QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 8.52 ,   ,  0.68
+QF_LRA/LassoRanker/CooperatingT2/bubbleSort.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 2.40 ,   ,  27.05
+QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_7-nestedTemplate.smt2 , 8.68 ,  33.25 ,  31.93
+QF_LRA/LassoRanker/CooperatingT2/selectSort.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 16.33 ,   ,  81.24
+QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_6-nestedTemplate.smt2 , 7.36 ,  28.12 ,  23.18
+QF_LRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration10_Loop_7-phaseTemplate.smt2 , 3.15 ,   ,  17.14
+QF_LRA/LassoRanker/CooperatingT2/wrong_loop.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 7.09 ,   ,  15.24
+QF_LRA/LassoRanker/CooperatingT2/wrong_loop.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 1.36 ,  83.85 ,  73.74
+QF_LRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 8.52 ,   ,  0.50
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 51.47 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration8_Loop_4-pieceTemplate.smt2 , 0.66 ,  54.78 ,  13.70
-QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-phaseTemplate.smt2 , 4.94 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration8_Loop_4-pieceTemplate.smt2 , 0.66 ,  44.79 ,  6.42
+QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-phaseTemplate.smt2 , 4.94 ,  82.53 ,  
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 122.74 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 43.94 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 22.65 ,   ,  
@@ -261,31 +261,31 @@ QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_2-pieceTemplate.
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 21.18 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/curious4.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 27.52 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/bsort100.t2.c_Iteration13_Loop_4-pieceTemplate.smt2 , 2.03 ,   ,  
-QF_LRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , CPU ,   ,  
+QF_LRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , CPU ,  88.30 ,  83.52
 QF_LRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_5-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_3-lexTemplate.smt2 , 130.46 ,  37.20 ,  
+QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_3-lexTemplate.smt2 , 130.46 ,  16.50 ,  3.31
 QF_LRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/simple-scaled200.bpl_Iteration1_Lasso_4-lexTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 280.55 ,   ,  
 QF_LRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 95.59 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/mc91test.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 , 1.39 ,   ,  51.09
+QF_LRA/LassoRanker/CooperatingT2/mc91test.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 , 1.39 ,  68.60 ,  51.16
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 12.50 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/consts1.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.78 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration3_Lasso_7-phaseTemplate.smt2 , 12.94 ,  56.61 ,  54.99
+QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration3_Lasso_7-phaseTemplate.smt2 , 12.94 ,  42.94 ,  53.61
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 64.23 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-lexTemplate.smt2 , 6.88 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_3-lexTemplate.smt2 , 6.88 ,  70.94 ,  67.22
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_2-pieceTemplate.smt2 , 34.05 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_2-pieceTemplate.smt2 , 29.75 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 , 206.87 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/dropbuf.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 114.04 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/dropbuf.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 21.29 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/queens.t2.c_Iteration19_Loop_7-phaseTemplate.smt2 , 44.50 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 1.69 ,  53.53 ,  27.67
-QF_LRA/LassoRanker/CooperatingT2/heidy7.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 0.95 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/queens.t2.c_Iteration19_Loop_7-phaseTemplate.smt2 , 44.50 ,   ,  15.28
+QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 1.69 ,  45.11 ,  10.98
+QF_LRA/LassoRanker/CooperatingT2/heidy7.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 0.95 ,   ,  46.50
 QF_LRA/LassoRanker/CooperatingT2/firewire.t2.c_Iteration1_Lasso_4-lexTemplate.smt2 , 14.46 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_5-phaseTemplate.smt2 , 65.40 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_4-phaseTemplate.smt2 , 33.57 ,   ,  
@@ -294,21 +294,21 @@ QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate.sm
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_6-phaseTemplate.smt2 , 155.63 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_3-pieceTemplate.smt2 , 74.22 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/byron-2.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 32.11 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/byron-2.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 5.29 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/byron-2.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 5.29 ,  74.47 ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , CPU ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 9.91 ,  30.41 ,  46.65
-QF_LRA/LassoRanker/CooperatingT2/loop3.t2.c_Iteration25_Lasso_4-pieceTemplate.smt2 , 0.61 ,  7.71 ,  9.33
+QF_LRA/LassoRanker/CooperatingT2/collatz.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 9.91 ,  29.00 ,  59.00
+QF_LRA/LassoRanker/CooperatingT2/loop3.t2.c_Iteration25_Lasso_4-pieceTemplate.smt2 , 0.61 ,  7.12 ,  7.46
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_4-phaseTemplate.smt2 , 28.74 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 172.48 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_3-pieceTemplate.smt2 , 89.83 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration8_Loop_4-pieceTemplate.smt2 , 15.03 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 , 14.99 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration7_Loop_7-phaseTemplate.smt2 , 12.73 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.64 ,  19.24 ,  20.87
+QF_LRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.64 ,  15.94 ,  2.58
 QF_LRA/LassoRanker/CooperatingT2/magic.t2.c_Iteration23_Loop_7-phaseTemplate.smt2 , 26.69 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration9_Loop_7-phaseTemplate.smt2 , 95.30 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 30.53 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.81 ,  88.40 ,  
+QF_LRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.81 ,  74.28 ,  50.70
 QF_LRA/LassoRanker/CooperatingT2/magic.t2.c_Iteration12_Loop_4-pieceTemplate.smt2 , 12.27 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 37.66 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration8_Loop_6-phaseTemplate.smt2 , 37.00 ,   ,  
@@ -317,7 +317,7 @@ QF_LRA/LassoRanker/CooperatingT2/elmhes.t2.c_Iteration5_Loop_4-pieceTemplate.smt
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 12.45 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/agafp.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.43 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration9_Loop_6-phaseTemplate.smt2 , 37.06 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration7_Loop_6-phaseTemplate.smt2 , 4.84 ,  80.94 ,  
+QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration7_Loop_6-phaseTemplate.smt2 , 4.84 ,  62.24 ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 13.75 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/magic.t2.c_Iteration12_Loop_7-phaseTemplate.smt2 , 60.45 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/ludcmp.t2.c_Iteration8_Loop_7-phaseTemplate.smt2 , 95.90 ,   ,  
@@ -325,5 +325,99 @@ QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration2_Loop_7-phaseTemplate.smt
 QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration9_Loop_7-phaseTemplate.smt2 , 9.28 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 5.84 ,   ,  
 QF_LRA/LassoRanker/CooperatingT2/elmhes.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 16.47 ,   ,  
-QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.07 ,  28.88 ,  
+QF_LRA/LassoRanker/CooperatingT2/toeplz.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 20.07 ,  25.34 ,  72.00
 QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 3.54 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration9_Loop_4-lexTemplate.smt2 , 48.13 ,   ,  83.18
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 9.64 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_7-phaseTemplate.smt2 , 53.21 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 31.97 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_3-pieceTemplate.smt2 , 8.96 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 2.32 ,  76.01 ,  54.57
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_7-phaseTemplate.smt2 , 73.16 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Lasso_6-phaseTemplate.smt2 , 21.16 ,   ,  23.89
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_6-phaseTemplate.smt2 , 32.17 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 18.00 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_3-pieceTemplate.smt2 , 6.33 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_4-pieceTemplate.smt2 , 17.02 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_3-pieceTemplate.smt2 , 9.32 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_4-pieceTemplate.smt2 , 16.47 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_4-pieceTemplate.smt2 , 12.46 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_6-phaseTemplate.smt2 , 22.09 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 , 12.13 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 11.53 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_5-phaseTemplate.smt2 , 12.95 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_6-phaseTemplate.smt2 , 28.53 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/eric2.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 5.80 ,  6.70 ,  3.26
+QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Lasso_7-phaseTemplate.smt2 , 50.27 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_5-phaseTemplate.smt2 , 11.29 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_6-phaseTemplate.smt2 , 17.91 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_6-phaseTemplate.smt2 , 30.84 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/hongyi1.t2.c_Iteration1_Loop_4-lexTemplate.smt2 , 40.39 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_5-phaseTemplate.smt2 , 12.84 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.19 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 69.69 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 3.61 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_2-pieceTemplate.smt2 , 4.38 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration3_Lasso_5-phaseTemplate.smt2 , 8.95 ,   ,  66.63
+QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_2-pieceTemplate.smt2 , 1.00 ,  49.98 ,  
+QF_LRA/LassoRanker/CooperatingT2/fun4.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.01 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 , 8.71 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 5.34 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 , 9.81 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 , 43.71 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_7-phaseTemplate.smt2 , 76.74 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/fun4.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.04 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_5-phaseTemplate.smt2 , 6.90 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 , 2.05 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Gothenburg.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 3.01 ,   ,  62.35
+QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 , 3.01 ,   ,  64.30
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_5-phaseTemplate.smt2 , 20.47 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 6.64 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ndes.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 121.04 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ndes.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 28.45 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 8.16 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-55.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 3.90 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sort.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 11.76 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 , 11.40 ,   ,  54.49
+QF_LRA/LassoRanker/CooperatingT2/p-55.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 15.73 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Loop_3-pieceTemplate.smt2 , 5.87 ,   ,  36.85
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_7-phaseTemplate.smt2 , 119.49 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 57.87 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_3-pieceTemplate.smt2 , 18.56 ,  79.12 ,  
+QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 27.02 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-46.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 38.85 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 , 5.31 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ndes.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 28.09 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 , 10.59 ,   ,  44.91
+QF_LRA/LassoRanker/CooperatingT2/eric.t2.c_Iteration1_Loop_7-phaseTemplate.smt2 , 11.84 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/ndes.t2.c_Iteration3_Loop_7-phaseTemplate.smt2 , 127.07 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_4-pieceTemplate.smt2 , 35.26 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-55.t2.c_Iteration2_Loop_7-phaseTemplate.smt2 , 15.80 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 27.38 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration7_Loop_6-phaseTemplate.smt2 , 49.58 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 , 5.24 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-55.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 , 3.82 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/p-43.t2.c_Iteration5_Loop_7-phaseTemplate.smt2 , 34.69 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Loop_7-phaseTemplate.smt2 , 59.59 ,   ,  24.58
+QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 5.09 ,   ,  
+QF_LRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.31 ,   ,  47.83
+QF_LRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 0.35 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 2.24 ,   ,  58.57
+QF_LRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 0.21 ,  23.00 ,  16.40
+QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 2.07 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 , 1.30 ,  23.79 ,  22.42
+QF_LRA/LassoRanker/CooperatingT2/fir.t2.c_Iteration4_Loop_7-phaseTemplate.smt2 , 49.32 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/fir.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 , 9.32 ,   ,  
+QF_LRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration5_Lasso_4-lexTemplate.smt2 , 6.15 ,  63.43 ,  46.93
+QF_LRA/LassoRanker/CooperatingT2/fir.t2.c_Iteration4_Loop_6-phaseTemplate.smt2 , 19.61 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.13 ,  52.05 ,  8.78
+QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 7.37 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Damaskus.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 0.63 ,   ,  1.39
+QF_LRA/LassoRanker/Ultimate/Damaskus.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 , 1.53 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.01 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_7-phaseTemplate.smt2 , 7.32 ,   ,  
+QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 6.19 ,  45.02 ,  8.32
+QF_LRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 , 4.90 ,  2.06 ,  2.67
+QF_LRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 , 6.99 ,  59.72 ,  
+QF_LRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_6-phaseTemplate.smt2 , 3.78 ,   ,  
+QF_LRA/LassoRanker/Ultimate/SanDiego.bpl_Iteration1_Loop_4-pieceTemplate.smt2 , 0.39 ,  40.43 ,  
