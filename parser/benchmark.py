@@ -450,10 +450,7 @@ class BenchCompare(object):
 
 smt2file = re.compile("\S+.smt2")
 def is_smt2_file(f):
-    if re.match(smt2file, f):
-        return True
-    else:
-        return False
+    return re.match(smt2file, f)
 
 # Main starts here
 
