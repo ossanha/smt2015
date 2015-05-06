@@ -69,7 +69,7 @@ for i, p in enumerate(provers):
             if not k in c1:
                 inter_c1[k] = args.default
         print(len(inter_c1.items()), len(inter_c2.items()))
-              
+
         def get_val(key):
             try:
                 return c2[key]
