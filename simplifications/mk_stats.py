@@ -193,10 +193,13 @@ for prover, prover_results in results.items():
     print("\n\n# Summary for {}\n".format(prover))
     for k in results[prover].keys():
         logging.debug("{}:{}@".format(k,len(results[prover][k])))
-    _, proven_simp = filter_items(lambda x: x is not None, prover_results["simp"])
-    _, proven_default = filter_items(lambda x: x is not None, prover_results["default"])
-    _, proven_default_500 = filter_items(lambda x: x is not None, prover_results["default_500s"])
+    _, initial_proven_simp = filter_items(lambda x: x is not None, prover_results["simp"])
+    _, initial_proven_default = filter_items(lambda x: x is not None, prover_results["default"])
+    _, initial_proven_default_500 = filter_items(lambda x: x is not None, prover_results["default_500s"])
 
+    proven_simp = initial_proven_simp
+    proven_default = initial_proven_default
+    proven_default_500 = initial_proven_default
     def combat(title, d1, d1title, d2, d2title):
         l1 = len(d1)
         l2 = len(d2)
@@ -233,6 +236,7 @@ for prover, prover_results in results.items():
     cumulated = dict()
     for k, t in proven_simp.items():
         cumulated[k] = t + smtpp_times[k]
+    max_cum = max([v for _, v in cumulated.items()])
     g = lambda x: x < args.time_cut
     default_500 = proven_default_500
     _, proven_cumulated = filter_items(g, cumulated)
@@ -241,6 +245,15 @@ for prover, prover_results in results.items():
     print("Elements found under {}s".format(args.time_cut))
     combat("SMTpp", proven_cumulated, "Simp + smtpp", proven_default, "Default")
     combat("SMTpp", proven_cumulated, "Simp + smtpp", proven_default_500, "Default500")
+
+    # lines for elements proven by both
+    _, both_cumulated = filter_keys(lambda k: k in initial_proven_default_500, cumulated)
+    _, both_default = filter_keys(lambda k: k in both_cumulated, initial_proven_default_500)
+    l = [ (k, v) for k, v in both_default.items() ]
+    default_ord = sorted(l, key=operator.itemgetter(1))
+    both_cumulated_ord = [ both_cumulated[k] for k, _ in l ]
+    both_default_ord = [ v for _, v in l]
+
 
     cum = []
     deflt = []
@@ -267,6 +280,7 @@ for prover, prover_results in results.items():
     ax1.set_xlabel("Time limit (s)")
     ax1.set_ylabel("# scripts solved")
     ax1.set_title("Instances proven")
+    ax1.axvline(max_cum)
     ax2.plot(xaxis, diff_cum, label = "{} + SMTpp".format(prover))
     ax2.plot(xaxis, diff_deflt, label = "{}".format(prover))
     ax2.set_xticks(range(len(cum)), xaxis)
@@ -276,8 +290,13 @@ for prover, prover_results in results.items():
     ax2.set_title("Instances proven only by one combination")
     ax2.set_ylabel("Time (s)")
 
-    ax3.plot(smtpp_pct_values)
+    ax3.plot(smtpp_pct_values, marker='o', linestyle='')
     ax3.set_title("Time % of SMTpp in solved instances")
+    ax3.margins(0.01)
+
+    ax4.plot(both_default_ord, both_default_ord)
+    ax4.scatter(both_default_ord, both_cumulated_ord)
+    ax4.set_title("No simp vs simp on common solved instances")
 
     plt.tight_layout()
     plt.show()
