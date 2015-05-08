@@ -5,6 +5,9 @@ import os
 import logging
 import argparse
 import csv
+import numpy as np
+import matplotlib.pyplot as plt
+import operator
 
 parser = argparse.ArgumentParser("Data extraction")
 parser.add_argument("-d", "--debug", dest = "debug",
@@ -52,13 +55,35 @@ def get_smtpp_timings(fname):
 
 smtpp_times = get_smtpp_timings("smtpp_prepro_time.txt")
 
-def subset_to_lasso(d):
-    d1 = dict()
-    for k, v in d.items():
-        if re.match(lassoranker_pat, k):
-            d1[k] = v
-    return d1
+def filter_keys(predicate, htbl):
+    """
+    Returns a dictionary containing only the keys of htbl for which
+    the predicate is true.
+    """
+    d = dict()
+    n = 0
+    for k in htbl.keys():
+        if predicate(k):
+            d[k] = htbl[k]
+            n += 1
+    return n, d
 
+def filter_items(predicate, htbl):
+    """
+    Returns a dictionary containing only the items of htbl for which
+    the predicate is true.
+    """
+    d = dict()
+    n = 0
+    for k, v in htbl.items():
+        if predicate(v):
+            d[k] = v
+            n += 1
+    return n, d
+
+def subset_to_lasso(d):
+    _, d = filter_keys(lambda x: re.match(lassoranker_pat, x), d)
+    return d
 
 def get_test_title(filename):
     m = re.match(filepat, filename)
@@ -102,6 +127,8 @@ def count_solved(d):
             n += 1
     return n
 
+# Will containt the results for each file
+results = dict()
 for f in files:
     t = get_test_title(f)
     print(t)
@@ -110,7 +137,6 @@ for f in files:
     logging.debug("Data: {}, LR: {}".format(len(data), len(lassoranker)))
     solved_qf_lra = count_solved(data)
     solved_lr = count_solved(lassoranker)
-
 
     def count_under_time_cut(d, tc):
         n = 0
@@ -141,15 +167,117 @@ for f in files:
                     else: almost += 1
         return not_pp, n, almost
 
-    def is_simp_file(f):
-        pat = re.compile("\S+_simp_\S+.txt")
-        return re.match(pat, f)
+    elements = t.split()
+    prover = elements[0]
+    ptype = elements[1]
+    other = elements[2] if len(elements) > 2 else ""
 
-    if is_simp_file(f):
+
+    if not prover in results:
+        results[prover] = dict()
+    results[prover]["{}{}".format(ptype, other)] = data
+
+    if type == "simp":
         not_pp, count, almost = count_pp_under_time_cut(data, args.time_cut)
         print("Solved (QF_LRA + PP) < {}: {} ({}/{})".format(args.time_cut,
                                                      count, not_pp, almost))
-        not_pp, count, almost = count_pp_under_time_cut(lassoranker, 
+        not_pp, count, almost = count_pp_under_time_cut(lassoranker,
                                                         args.time_cut)
         print("Solved (LR + PP) < {}: {} ({}/{})".format(args.time_cut,
                                                      count, not_pp, almost))
+
+## Treat the results
+logging.debug("Provers: {}".format(len(results)))
+
+for prover, prover_results in results.items():
+    print("\n\n# Summary for {}\n".format(prover))
+    for k in results[prover].keys():
+        logging.debug("{}:{}@".format(k,len(results[prover][k])))
+    _, proven_simp = filter_items(lambda x: x is not None, prover_results["simp"])
+    _, proven_default = filter_items(lambda x: x is not None, prover_results["default"])
+    _, proven_default_500 = filter_items(lambda x: x is not None, prover_results["default_500s"])
+
+    def combat(title, d1, d1title, d2, d2title):
+        l1 = len(d1)
+        l2 = len(d2)
+        m1, proven1 = filter_keys(lambda x: not x in d2, d1)
+        print("{} {} {}/{} : {} ({}/{})".format(prover,
+                                                title,
+                                                d1title,
+                                                d2title, m1, l1, l2 ))
+        m2, proven2 = filter_keys(lambda x: not x in d1, d2)
+        print("{} {} {}/{}: {} ({}/{})".format(prover, title,
+                                               d2title, d1title, m2, l2, l1))
+        return m1, m2
+    combat("", proven_simp, "Simp", proven_default, "Default")
+    combat("", proven_simp, "Simp", proven_default_500, "Default500")
+
+    # With smtpp
+    print("{} files have been preprocessed: now restricting analysis to them".format(len(smtpp_times)))
+    f = (lambda x: x in smtpp_times and smtpp_times[x] is not None)
+    _, proven_simp = filter_keys(f, proven_simp)
+    _, proven_default = filter_keys(f, proven_default)
+    _, proven_default_500 = filter_keys(f, proven_default_500)
+    combat("SMTpp", proven_simp, "Simp", proven_default, "Default")
+    combat("SMTpp", proven_simp, "Simp", proven_default_500, "Default500")
+
+    ordered_proven_simp = sorted([ (k, v) for k, v in proven_simp.items()],
+                                 key = operator.itemgetter(1))
+    opsimp_values = [ v for _, v in ordered_proven_simp ]
+    smtpp_values = [ smtpp_times[k] for k, _ in ordered_proven_simp ]
+    smtpp_pct_values = [ 0 if x == 0 and y == 0 else 100 * y / (x + y)
+                         for (x, y) in zip(opsimp_values, smtpp_values) ]
+
+
+    # Under time limit
+    cumulated = dict()
+    for k, t in proven_simp.items():
+        cumulated[k] = t + smtpp_times[k]
+    g = lambda x: x < args.time_cut
+    default_500 = proven_default_500
+    _, proven_cumulated = filter_items(g, cumulated)
+    _, proven_default = filter_items(g, proven_default)
+    _, proven_default_500 = filter_items(g, proven_default_500)
+    print("Elements found under {}s".format(args.time_cut))
+    combat("SMTpp", proven_cumulated, "Simp + smtpp", proven_default, "Default")
+    combat("SMTpp", proven_cumulated, "Simp + smtpp", proven_default_500, "Default500")
+
+    cum = []
+    deflt = []
+    diff_cum = []
+    diff_deflt = []
+    xaxis = range (20, 400, 20)
+    for tcut in xaxis:
+        print(tcut)
+        filter = lambda x: x < tcut
+        _, proven_cumulated = filter_items(filter, cumulated)
+        _, proven_default_500 = filter_items(filter, default_500)
+        p1, p2 = combat("SMTpp", proven_cumulated, "Simp + smtpp",
+                        proven_default_500, "Default500")
+        cum.append(len(proven_cumulated))
+        deflt.append(len(proven_default_500))
+        diff_cum.append(p1)
+        diff_deflt.append(p2)
+
+    plt.style.use('ggplot')
+    fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2)
+    ax1.plot(xaxis, cum, label="{} + {}".format(prover, "SMTpp"))
+    ax1.plot(xaxis, deflt, lw = 2, c='green', label=prover)
+    ax1.legend(loc=2)
+    ax1.set_xlabel("Time limit (s)")
+    ax1.set_ylabel("# scripts solved")
+    ax1.set_title("Instances proven")
+    ax2.plot(xaxis, diff_cum, label = "{} + SMTpp".format(prover))
+    ax2.plot(xaxis, diff_deflt, label = "{}".format(prover))
+    ax2.set_xticks(range(len(cum)), xaxis)
+    ax2.legend(loc=2)
+    ax2.set_xlabel("Time limit (s)")
+    ax2.set_ylabel("# scripts solved")
+    ax2.set_title("Instances proven only by one combination")
+    ax2.set_ylabel("Time (s)")
+
+    ax3.plot(smtpp_pct_values)
+    ax3.set_title("Time % of SMTpp in solved instances")
+
+    plt.tight_layout()
+    plt.show()
