@@ -172,7 +172,6 @@ for f in files:
     ptype = elements[1]
     other = elements[2] if len(elements) > 2 else ""
 
-
     if not prover in results:
         results[prover] = dict()
     results[prover]["{}{}".format(ptype, other)] = data
@@ -189,114 +188,126 @@ for f in files:
 ## Treat the results
 logging.debug("Provers: {}".format(len(results)))
 
-for prover, prover_results in results.items():
-    print("\n\n# Summary for {}\n".format(prover))
-    for k in results[prover].keys():
-        logging.debug("{}:{}@".format(k,len(results[prover][k])))
-    _, initial_proven_simp = filter_items(lambda x: x is not None, prover_results["simp"])
-    _, initial_proven_default = filter_items(lambda x: x is not None, prover_results["default"])
-    _, initial_proven_default_500 = filter_items(lambda x: x is not None, prover_results["default_500s"])
+def display(results, title):
 
-    proven_simp = initial_proven_simp
-    proven_default = initial_proven_default
-    proven_default_500 = initial_proven_default
-    def combat(title, d1, d1title, d2, d2title):
-        l1 = len(d1)
-        l2 = len(d2)
-        m1, proven1 = filter_keys(lambda x: not x in d2, d1)
-        print("{} {} {}/{} : {} ({}/{})".format(prover,
-                                                title,
-                                                d1title,
-                                                d2title, m1, l1, l2 ))
-        m2, proven2 = filter_keys(lambda x: not x in d1, d2)
-        print("{} {} {}/{}: {} ({}/{})".format(prover, title,
-                                               d2title, d1title, m2, l2, l1))
-        return m1, m2
-    combat("", proven_simp, "Simp", proven_default, "Default")
-    combat("", proven_simp, "Simp", proven_default_500, "Default500")
+  for prover, prover_results in results.items():
+      print("\n\n# Summary for {}\n".format(prover))
+      for k in results[prover].keys():
+          logging.debug("{}:{}@".format(k,len(results[prover][k])))
+      _, initial_proven_simp = filter_items(lambda x: x is not None, prover_results["simp_500s"])
+      _, initial_proven_default = filter_items(lambda x: x is not None, prover_results["default"])
+      _, initial_proven_default_500 = filter_items(lambda x: x is not None, prover_results["default_500s"])
 
-    # With smtpp
-    print("{} files have been preprocessed: now restricting analysis to them".format(len(smtpp_times)))
-    f = (lambda x: x in smtpp_times and smtpp_times[x] is not None)
-    _, proven_simp = filter_keys(f, proven_simp)
-    _, proven_default = filter_keys(f, proven_default)
-    _, proven_default_500 = filter_keys(f, proven_default_500)
-    combat("SMTpp", proven_simp, "Simp", proven_default, "Default")
-    combat("SMTpp", proven_simp, "Simp", proven_default_500, "Default500")
+      proven_simp = initial_proven_simp
+      proven_default = initial_proven_default
+      proven_default_500 = initial_proven_default
+      def combat(title, d1, d1title, d2, d2title):
+          l1 = len(d1)
+          l2 = len(d2)
+          m1, proven1 = filter_keys(lambda x: not x in d2, d1)
+          print("{} {} {}/{} : {} ({}/{})".format(prover,
+                                                  title,
+                                                  d1title,
+                                                  d2title, m1, l1, l2 ))
+          m2, proven2 = filter_keys(lambda x: not x in d1, d2)
+          print("{} {} {}/{}: {} ({}/{})".format(prover, title,
+                                                 d2title, d1title, m2, l2, l1))
+          return m1, m2
+      combat("", proven_simp, "Simp", proven_default, "Default")
+      combat("", proven_simp, "Simp", proven_default_500, "Default500")
 
-    ordered_proven_simp = sorted([ (k, v) for k, v in proven_simp.items()],
-                                 key = operator.itemgetter(1))
-    opsimp_values = [ v for _, v in ordered_proven_simp ]
-    smtpp_values = [ smtpp_times[k] for k, _ in ordered_proven_simp ]
-    smtpp_pct_values = [ 0 if x == 0 and y == 0 else 100 * y / (x + y)
-                         for (x, y) in zip(opsimp_values, smtpp_values) ]
+      # With smtpp
+      print("{} files have been preprocessed: now restricting analysis to them".format(len(smtpp_times)))
+      f = (lambda x: x in smtpp_times and smtpp_times[x] is not None)
+      _, proven_simp = filter_keys(f, proven_simp)
+      _, proven_default = filter_keys(f, proven_default)
+      _, proven_default_500 = filter_keys(f, proven_default_500)
+      combat("SMTpp", proven_simp, "Simp", proven_default, "Default")
+      combat("SMTpp", proven_simp, "Simp", proven_default_500, "Default500")
 
-
-    # Under time limit
-    cumulated = dict()
-    for k, t in proven_simp.items():
-        cumulated[k] = t + smtpp_times[k]
-    max_cum = max([v for _, v in cumulated.items()])
-    g = lambda x: x < args.time_cut
-    default_500 = proven_default_500
-    _, proven_cumulated = filter_items(g, cumulated)
-    _, proven_default = filter_items(g, proven_default)
-    _, proven_default_500 = filter_items(g, proven_default_500)
-    print("Elements found under {}s".format(args.time_cut))
-    combat("SMTpp", proven_cumulated, "Simp + smtpp", proven_default, "Default")
-    combat("SMTpp", proven_cumulated, "Simp + smtpp", proven_default_500, "Default500")
-
-    # lines for elements proven by both
-    _, both_cumulated = filter_keys(lambda k: k in initial_proven_default_500, cumulated)
-    _, both_default = filter_keys(lambda k: k in both_cumulated, initial_proven_default_500)
-    l = [ (k, v) for k, v in both_default.items() ]
-    default_ord = sorted(l, key=operator.itemgetter(1))
-    both_cumulated_ord = [ both_cumulated[k] for k, _ in l ]
-    both_default_ord = [ v for _, v in l]
+      ordered_proven_simp = sorted([ (k, v) for k, v in proven_simp.items()],
+                                   key = operator.itemgetter(1))
+      opsimp_values = [ v for _, v in ordered_proven_simp ]
+      smtpp_values = [ smtpp_times[k] for k, _ in ordered_proven_simp ]
+      smtpp_pct_values = [ 0 if x == 0 and y == 0 else 100 * y / (x + y)
+                           for (x, y) in zip(opsimp_values, smtpp_values) ]
 
 
-    cum = []
-    deflt = []
-    diff_cum = []
-    diff_deflt = []
-    xaxis = range (20, 400, 20)
-    for tcut in xaxis:
-        print(tcut)
-        filter = lambda x: x < tcut
-        _, proven_cumulated = filter_items(filter, cumulated)
-        _, proven_default_500 = filter_items(filter, default_500)
-        p1, p2 = combat("SMTpp", proven_cumulated, "Simp + smtpp",
-                        proven_default_500, "Default500")
-        cum.append(len(proven_cumulated))
-        deflt.append(len(proven_default_500))
-        diff_cum.append(p1)
-        diff_deflt.append(p2)
+      # Under time limit
+      cumulated = dict()
+      for k, t in proven_simp.items():
+          cumulated[k] = t + smtpp_times[k]
+      max_cum = max([v for _, v in cumulated.items()])
+      g = lambda x: x < args.time_cut
+      default_500 = proven_default_500
+      _, proven_cumulated = filter_items(g, cumulated)
+      _, proven_default = filter_items(g, proven_default)
+      _, proven_default_500 = filter_items(g, proven_default_500)
+      print("Elements found under {}s".format(args.time_cut))
+      combat("SMTpp", proven_cumulated, "Simp + smtpp", proven_default, "Default")
+      combat("SMTpp", proven_cumulated, "Simp + smtpp", proven_default_500, "Default500")
 
-    plt.style.use('ggplot')
-    fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2)
-    ax1.plot(xaxis, cum, label="{} + {}".format(prover, "SMTpp"))
-    ax1.plot(xaxis, deflt, lw = 2, c='green', label=prover)
-    ax1.legend(loc=2)
-    ax1.set_xlabel("Time limit (s)")
-    ax1.set_ylabel("# scripts solved")
-    ax1.set_title("Instances proven")
-    ax1.axvline(max_cum)
-    ax2.plot(xaxis, diff_cum, label = "{} + SMTpp".format(prover))
-    ax2.plot(xaxis, diff_deflt, label = "{}".format(prover))
-    ax2.set_xticks(range(len(cum)), xaxis)
-    ax2.legend(loc=2)
-    ax2.set_xlabel("Time limit (s)")
-    ax2.set_ylabel("# scripts solved")
-    ax2.set_title("Instances proven only by one combination")
-    ax2.set_ylabel("Time (s)")
+      # lines for elements proven by both
+      _, both_cumulated = filter_keys(lambda k: k in initial_proven_default_500, cumulated)
+      _, both_default = filter_keys(lambda k: k in both_cumulated, initial_proven_default_500)
+      l = [ (k, v) for k, v in both_default.items() ]
+      default_ord = sorted(l, key=operator.itemgetter(1))
+      both_cumulated_ord = [ both_cumulated[k] for k, _ in l ]
+      both_default_ord = [ v for _, v in l]
 
-    ax3.plot(smtpp_pct_values, marker='o', linestyle='')
-    ax3.set_title("Time % of SMTpp in solved instances")
-    ax3.margins(0.01)
 
-    ax4.plot(both_default_ord, both_default_ord)
-    ax4.scatter(both_default_ord, both_cumulated_ord)
-    ax4.set_title("No simp vs simp on common solved instances")
+      cum = []
+      deflt = []
+      diff_cum = []
+      diff_deflt = []
+      xaxis = range (20, 400, 20)
+      for tcut in xaxis:
+          print(tcut)
+          filter = lambda x: x < tcut
+          _, proven_cumulated = filter_items(filter, cumulated)
+          _, proven_default_500 = filter_items(filter, default_500)
+          p1, p2 = combat("SMTpp", proven_cumulated, "Simp + smtpp",
+                          proven_default_500, "Default500")
+          cum.append(len(proven_cumulated))
+          deflt.append(len(proven_default_500))
+          diff_cum.append(p1)
+          diff_deflt.append(p2)
 
-    plt.tight_layout()
-    plt.show()
+      plt.style.use('ggplot')
+      fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2)
+      ax1.plot(xaxis, cum, label="{} + {}".format(prover, "SMTpp"))
+      ax1.plot(xaxis, deflt, lw = 2, c='green', label=prover)
+      ax1.legend(loc=2)
+      ax1.set_xlabel("Time limit (s)")
+      ax1.set_ylabel("# scripts solved")
+      ax1.set_title("Instances proven")
+      ax1.axvline(max_cum)
+      ax2.plot(xaxis, diff_cum, label = "{} + SMTpp".format(prover))
+      ax2.plot(xaxis, diff_deflt, label = "{}".format(prover))
+      ax2.set_xticks(range(len(cum)), xaxis)
+      ax2.legend(loc=2)
+      ax2.set_xlabel("Time limit (s)")
+      ax2.set_ylabel("# scripts solved")
+      ax2.set_title("Instances proven only by one combination")
+      ax2.set_ylabel("Time (s)")
+
+      ax3.plot(smtpp_pct_values, marker='o', linestyle='')
+      ax3.set_title("Time % of SMTpp in solved instances")
+      ax3.margins(0.01)
+
+      ax4.plot(both_default_ord, both_default_ord)
+      ax4.scatter(both_default_ord, both_cumulated_ord)
+      ax4.set_title("No simp vs simp on common solved instances")
+
+      plt.tight_layout()
+      plt.show()
+
+display(results, "QF_LRA")
+
+lassoranker_results = dict()
+for p, cat in results.items():
+    lassoranker_results[p] = dict()
+    for k, v in cat.items():
+        lassoranker_results[p][k] = subset_to_lasso(v)
+
+display(lassoranker_results, "LassoRanker")
